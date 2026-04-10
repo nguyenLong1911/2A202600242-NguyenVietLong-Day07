@@ -104,6 +104,7 @@
 | Nguyễn Quang Đăng | Recursive + metadata filter | 3/5 | Tốt cho query warranty theo model | Chưa ổn định với query spec |
 | Nguyễn Việt Long | Fixed-size (1200) + metadata | 4/5 | Tốt hơn ở query spec và warranty rõ keyword | Query battery warranty cross-doc vẫn khó |
 |Hà Huy Hoàng|Semantic Chunker + Hybrid Search (Vector + BM25)|4/5|Khắc phục được phần lớn lỗi ở Query 5 (cross-doc) nhờ cụm từ khóa (BM25) và ngữ nghĩa (Vector) bổ trợ nhau. Tránh được nhiễu từ tài liệu VF9 US.|Thời gian indexing chậm và tốn tài nguyên tính toán hơn. Chunk size động đôi khi làm trượt Top-1 ở các query hỏi về thông số spec quá ngắn gọn|
+| Tống Tiến Mạnh| RecursiveChunker tùy chỉnh (chunk_size=500, overlap=100) | 8 | Giữ cấu trúc section markdown, chunk bao trọn điều khoản | Chunk đôi khi vẫn dài nếu section liên tục >500 ký tự |
 
 **Strategy nào tốt nhất cho domain này? Tại sao?**
 > Qua thực nghiệm, `FixedSizeChunker` với cấu hình phù hợp tỏ ra cân bằng nhất cho dataset hỗn hợp giữa bảng biểu và văn bản xuôi. Tuy nhiên, việc kết hợp thêm metadata filter là bắt buộc để xử lý các truy vấn đặc thù theo model xe.
