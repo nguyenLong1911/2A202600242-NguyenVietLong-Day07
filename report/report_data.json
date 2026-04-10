@@ -1,0 +1,265 @@
+{
+  "chunking_strategy": "fixed_size",
+  "store_chunk_size": 1200,
+  "selected_files": [
+    "data/vinfast_markdown_clean/VF3_spec.md",
+    "data/vinfast_markdown_clean/vf3_vn_warranty.md",
+    "data/vinfast_markdown_clean/20230927_VF6_VN_VN_1_1706781000_Warranty.md",
+    "data/vinfast_markdown_clean/VF9 US Vehicle Warranty Booklet.md",
+    "data/vinfast_markdown_clean/VINFAST_VF8_First_Responder_Guide.md"
+  ],
+  "data_inventory": [
+    {
+      "id": "VF3_spec",
+      "source": "data\\vinfast_markdown_clean\\VF3_spec.md",
+      "char_count": 4867,
+      "extension": ".md",
+      "model": "VF3",
+      "doc_type": "spec",
+      "language": "en",
+      "region": "global"
+    },
+    {
+      "id": "vf3_vn_warranty",
+      "source": "data\\vinfast_markdown_clean\\vf3_vn_warranty.md",
+      "char_count": 17814,
+      "extension": ".md",
+      "model": "VF3",
+      "doc_type": "warranty",
+      "language": "vi",
+      "region": "VN"
+    },
+    {
+      "id": "20230927_VF6_VN_VN_1_1706781000_Warranty",
+      "source": "data\\vinfast_markdown_clean\\20230927_VF6_VN_VN_1_1706781000_Warranty.md",
+      "char_count": 28491,
+      "extension": ".md",
+      "model": "VF6",
+      "doc_type": "warranty",
+      "language": "vi",
+      "region": "VN"
+    },
+    {
+      "id": "VF9 US Vehicle Warranty Booklet",
+      "source": "data\\vinfast_markdown_clean\\VF9 US Vehicle Warranty Booklet.md",
+      "char_count": 27490,
+      "extension": ".md",
+      "model": "VF9",
+      "doc_type": "warranty",
+      "language": "en",
+      "region": "US"
+    },
+    {
+      "id": "VINFAST_VF8_First_Responder_Guide",
+      "source": "data\\vinfast_markdown_clean\\VINFAST_VF8_First_Responder_Guide.md",
+      "char_count": 17402,
+      "extension": ".md",
+      "model": "VF8",
+      "doc_type": "first_responder",
+      "language": "en",
+      "region": "global"
+    }
+  ],
+  "chunking_stats": {
+    "VF3_spec": {
+      "fixed_size": {
+        "count": 11,
+        "avg_length": 487.91
+      },
+      "by_sentences": {
+        "count": 3,
+        "avg_length": 1620.67
+      },
+      "recursive": {
+        "count": 14,
+        "avg_length": 345.86
+      }
+    },
+    "vf3_vn_warranty": {
+      "fixed_size": {
+        "count": 40,
+        "avg_length": 494.1
+      },
+      "by_sentences": {
+        "count": 27,
+        "avg_length": 658.48
+      },
+      "recursive": {
+        "count": 49,
+        "avg_length": 361.59
+      }
+    },
+    "20230927_VF6_VN_VN_1_1706781000_Warranty": {
+      "fixed_size": {
+        "count": 64,
+        "avg_length": 494.39
+      },
+      "by_sentences": {
+        "count": 81,
+        "avg_length": 350.46
+      },
+      "recursive": {
+        "count": 83,
+        "avg_length": 341.29
+      }
+    }
+  },
+  "similarity_pairs": [
+    {
+      "pair": 1,
+      "sentence_a": "VF3 warranty covers repair for manufacturing defects.",
+      "sentence_b": "Vehicle warranty includes repairs for manufacturer defects.",
+      "prediction": "high",
+      "actual_score": 0.6595,
+      "actual_label": "high",
+      "is_correct": true
+    },
+    {
+      "pair": 2,
+      "sentence_a": "Code of conduct requires ethical behavior.",
+      "sentence_b": "Employees must follow integrity and ethics guidelines.",
+      "prediction": "high",
+      "actual_score": 0.6544,
+      "actual_label": "high",
+      "is_correct": true
+    },
+    {
+      "pair": 3,
+      "sentence_a": "The first responder guide explains emergency handling.",
+      "sentence_b": "Sustainability report discusses carbon emissions.",
+      "prediction": "low",
+      "actual_score": 0.1696,
+      "actual_label": "low",
+      "is_correct": true
+    },
+    {
+      "pair": 4,
+      "sentence_a": "Bảo hành pin có điều kiện áp dụng riêng.",
+      "sentence_b": "Chính sách bảo hành xe điện có phạm vi cụ thể.",
+      "prediction": "high",
+      "actual_score": 0.5451,
+      "actual_label": "medium",
+      "is_correct": true
+    },
+    {
+      "pair": 5,
+      "sentence_a": "Audit committee oversees compliance and governance.",
+      "sentence_b": "How to charge the VF3 battery at home safely.",
+      "prediction": "low",
+      "actual_score": 0.0266,
+      "actual_label": "low",
+      "is_correct": true
+    }
+  ],
+  "store_document_count": 92,
+  "benchmark_results": [
+    {
+      "id": 1,
+      "query": "What is the battery capacity and range of the VinFast VF3?",
+      "gold_answer": "Battery type LFP, capacity 18.64 kWh, and range around 210 km (NEDC).",
+      "top1_source": "data\\vinfast_markdown_clean\\VF3_spec.md",
+      "top1_score": 0.625,
+      "top1_summary": "# VF3_spec - Source PDF: VF3_spec.pdf - Total pages: 4 Trang 1 V ariant VF 3 DIMENSION & WEIGHT Dimension Wheel base (mm) 2,075 Ov er all dimension (LxW xH) (mm) 3,190 x 1,679 x...",
+      "relevant": true,
+      "agent_answer_summary": "The battery capacity of the VinFast VF3 is 18.64 kWh, and the range per full charge is approximately 210 km.",
+      "relevant_keywords": [
+        "battery",
+        "capacity",
+        "18.64",
+        "range",
+        "210"
+      ],
+      "min_keyword_hits": 3,
+      "metadata_filter": null,
+      "unfiltered_top1_source": "",
+      "unfiltered_top1_score": 0.0
+    },
+    {
+      "id": 2,
+      "query": "Thời hạn bảo hành chung của xe VinFast VF3 là bao lâu?",
+      "gold_answer": "7 năm hoặc 160.000 km (thường), 3 năm hoặc 100.000 km (thương mại), tính từ ngày kích hoạt bảo hành.",
+      "top1_source": "data\\vinfast_markdown_clean\\vf3_vn_warranty.md",
+      "top1_score": 0.7288,
+      "top1_summary": "ông tin chứng minh đã thực hiện bảo dưỡng đầy đủ, đúng định kỳ và đảm bảo chất lượng sửa chữa theo tiêu chuẩn của nhà sản xuất được thực hiện bởi các XDV/ĐLPP của VinFast. 4. TH...",
+      "relevant": true,
+      "agent_answer_summary": "Thời hạn bảo hành chung của xe VinFast VF3 là 7 năm kể từ Ngày Kích Hoạt Bảo Hành hoặc 160.000 km, tùy thuộc vào điều kiện nào đến trước.",
+      "relevant_keywords": [
+        "7 năm",
+        "160.000",
+        "3 năm",
+        "100.000",
+        "kích hoạt bảo hành"
+      ],
+      "min_keyword_hits": 2,
+      "metadata_filter": null,
+      "unfiltered_top1_source": "",
+      "unfiltered_top1_score": 0.0
+    },
+    {
+      "id": 3,
+      "query": "Những hư hỏng nào không được VinFast bảo hành?",
+      "gold_answer": "Các hư hỏng do sửa chữa trái phép, lạm dụng, thiên tai/tai nạn, hao mòn tự nhiên hoặc phụ tùng không chính hãng không thuộc phạm vi bảo hành.",
+      "top1_source": "data\\vinfast_markdown_clean\\vf3_vn_warranty.md",
+      "top1_score": 0.7657,
+      "top1_summary": "• Để nhận được bảo hành phụ kiện VinFast, Khách hàng có trách nhiệm lưu giữ hồ sơ lắp đặt, quyết toán và hóa đơn cho các phụ kiện đó. 9. NHỮNG HƯ HỎNG VÀ DỊCH VỤ KHÔNG THUỘC PHẠ...",
+      "relevant": true,
+      "agent_answer_summary": "VinFast không bảo hành các hư hỏng sau: 1. Hư hỏng do sửa chữa, điều chỉnh, đấu nối phụ kiện không chính hãng hoặc hoán cải trái phép. 2. Hư hỏng do sử dụng sai chức năng, lạm dụng xe, hoặc lái xe trong điều kiện khắc nghiệt. 3. Hư hỏng do sử dụng phụ tùng ...",
+      "relevant_keywords": [
+        "không thuộc phạm vi bảo hành",
+        "hao mòn",
+        "không chính hãng",
+        "thiên tai",
+        "tai nạn"
+      ],
+      "min_keyword_hits": 2,
+      "metadata_filter": null,
+      "unfiltered_top1_source": "",
+      "unfiltered_top1_score": 0.0
+    },
+    {
+      "id": 4,
+      "query": "How should first responders handle a VinFast VF8 high-voltage battery fire?",
+      "gold_answer": "Assume HV components are live, wear PPE, use large amounts of water, and account for re-ignition risk.",
+      "top1_source": "data\\vinfast_markdown_clean\\VINFAST_VF8_First_Responder_Guide.md",
+      "top1_score": 0.7066,
+      "top1_summary": "covery of a submerged vehicle without appropriate PPE can result in serious injury or death. Submersion DANGER Monitor the battery temperature with a thermal camera (if availabl...",
+      "relevant": true,
+      "agent_answer_summary": "First responders should handle a VinFast VF8 high-voltage battery fire by following these guidelines: 1. **Wear Appropriate PPE**: Always wear personal protective equipment (PPE) and a self-contained breathing apparatus during firefighting activities. 2. **...",
+      "relevant_keywords": [
+        "hv",
+        "battery",
+        "fire",
+        "water",
+        "ppe",
+        "reignite"
+      ],
+      "min_keyword_hits": 2,
+      "metadata_filter": null,
+      "unfiltered_top1_source": "",
+      "unfiltered_top1_score": 0.0
+    },
+    {
+      "id": 5,
+      "query": "What is the battery warranty period for VinFast vehicles?",
+      "gold_answer": "VF3 VN battery warranty is 8 years or 160,000 km for non-commercial usage; cross-doc answers should be constrained by model/doc_type filter.",
+      "top1_source": "data\\vinfast_markdown_clean\\vf3_vn_warranty.md",
+      "top1_score": 0.6332,
+      "top1_summary": "chở khách, kể cả các dịch vụ như Grab, Be hay tương tự; xe cho thuê; xe đưa đón; xe giao hàng (gọi chung là “xe sử dụng cho mục đích dịch vụ thương mại”) thì thời hạn bảo hành l...",
+      "relevant": false,
+      "agent_answer_summary": "The battery warranty period for VinFast vehicles is not explicitly stated in the provided context. It mentions that the warranty for the high-voltage battery (if it is under a rental service) does not fall under the standard warranty policy and is governed ...",
+      "relevant_keywords": [
+        "pin",
+        "8 năm",
+        "160.000"
+      ],
+      "min_keyword_hits": 2,
+      "metadata_filter": {
+        "model": "VF3",
+        "doc_type": "warranty"
+      },
+      "unfiltered_top1_source": "data\\vinfast_markdown_clean\\VF9 US Vehicle Warranty Booklet.md",
+      "unfiltered_top1_score": 0.762
+    }
+  ],
+  "top3_relevant_count": 4
+}

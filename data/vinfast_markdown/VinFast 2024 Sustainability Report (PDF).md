@@ -1,0 +1,8040 @@
+# VinFast 2024 Sustainability Report (PDF)
+
+- Source PDF: VinFast 2024 Sustainability Report (PDF).pdf
+- Total pages: 168
+
+## Page 1
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+1
+
+## Page 2
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+2
+T able of Contents
+01
+05
+02
+06
+03
+07
+04
+08
+SETTING OUR COMP ASS
+EMPOWERING PEOPLE
+DRIVING V ALUE
+Our Strategy for Sustainable Growth
+LEADING RESPONSIBL Y TRUST IN MOTION PERFORMANCE & TRANSP ARENCY
+Governance, Risk & Ethical Supply Chains Product Excellence & Customer Experience ESG Data and Reporting Indexes
+CHARTING A NET -ZERO P A T
+Climate Strategy & Resilience
+ACCELERA TING GREEN OPERA TIONS
+Energy, Water & Circularity
+Message from the Chairwoman
+About This Report
+General Information
+VinFast 2024: Driving the future sustainably at a glance
+07
+10
+12
+17
+24
+30
+33
+37
+40
+48
+51
+52
+59
+70
+75
+VinFast’s Approach to Sustainable Value Creation
+Sustainability Governance & Oversight
+ESG Materiality: Focusing on What Matters
+Engaging Our Stakeholders for Shared Values
+Climate Strategy
+Climate Governance
+Climate Risk Management
+Tracking Our Net-Zero Strategy Execution
+Energy Stewardship
+Water Stewardship: Managing a Vital Resource Responsibly
+Resource Circularity
+84
+93
+97
+109
+112
+115
+118
+120
+127
+136
+144
+149
+154
+155
+156
+A Workplace to Drive a Sustainable Future
+Occupational Health & Safety (“OHS”)
+Community engagement & Socioeconomic contribution
+Corporate Governance Excellence
+Ethical Governance & Responsible Advocacy
+Enterprise Risk Management: Safeguarding
+Sustainable Growth
+Data Governance, Cybersecurity & Privacy:
+Protecting Our Connected Ecosystem
+Governance of a Sustainable & Resilient Supply Chain
+Product Governance and Innovation
+Customer Relationship Management:
+External Assurance
+GRI Content Index
+SASB Content Index
+TCFD / IFRS S2 Content Index
+Glossary
+Foundations for a Global Sustainable Journey
+Human Capital, Safety & Community
+A “Customer-Centric” Journey
+
+## Page 3
+
+VinFast’s 2024 Sustainability Report
+3
+List of Abbreviations
+Abbreviations Meaning
+4WD Four-Wheel Drive
+ADB The Asian Development Bank
+ANCAP Australasian New Car Assessment Program
+ASEAN Southeast Asian Countries
+BAC Breath Alcohol Concentrate
+BESS Battery Energy Storage System
+BOD  Board of Directors
+BSI The British Standards Institution
+CDP The Carbon Disclosure Project
+CEO Chief Executive Officer
+CES Customer Effort Score
+CFO Chief Financial Officer
+CIT Corporate Income T ax
+CO2 Carbon Dioxide
+COC Code of Conduct
+COD Chemical Oxygen Demand
+COP United Nations Climate Change Conference
+CPC Commune People's Committee
+CSR Corporate Social Responsibility
+Abbreviations Meaning
+DCEO Deputy Chief Executive Officer
+DEI Diversity, Equity, and Inclusion
+DONRE Department of Natural Resources and Environment
+DPC District People's Committee
+EHS Environment, Health and Safety
+EIA Energy Information Administration
+EMS Environmental Management System
+EP A Environmental Protection Agency (U.S)
+ESA Engineering System Assessment
+ESG  Environmental, Social and Governance
+ESIA  Environmental and Social Impact Assessment
+EV(s) Electric vehicle(s)
+FPFF Fire Prevention and Firefighting
+GHG Greenhouse gases
+GRI  Global Reporting Initiative
+HR Human Resources
+hwy Highway
+ICE Internal Combustion Engine
+IFC  The International Finance Corporation
+Abbreviations Meaning
+IFRS S1 General Requirements for Disclosure of Sustainability-related
+Financial Information
+IFRS S2 Climate-related Disclosures
+IIRC International Integrated Reporting Council
+ILO International Labor Organization
+IPPU Industrial Processes and Product Use
+IRO Impact – Risk – Opportunity
+ISO International Organization for Standardization
+ISSB International Sustainability Standards Board
+IT Information T echnology
+KPI(s) Key Performance Indicator(s)
+kWh Kilowatt-hour
+LCA Life Cycle Assessment
+LFDC Land Fund Development Centre
+LFP Lithium Iron Phosphate
+LOTO Hazardous Energy Control Procedure training
+LPG Liquefied petroleum gas
+L TIFR A lost Time Injury Frequency Rate
+MONRE Ministry of Natural Resources and Environment
+MOU Memorandum of Understanding
+
+## Page 4
+
+VinFast’s 2024 Sustainability Report
+4
+List of Abbreviations
+Abbreviations Meaning
+MPGe Miles Per Gallon
+MWh Megawatt per hour
+MWp Megawatt-peak
+NCAP  New Car Assessment Program
+NDC Nationally Determined Contribution
+NEDC New European Driving Cycle
+NH4 Ammonium
+NHTSA National Highway Traffic Safety Administration
+NPS Net Promoter Score
+OECD The Organization for Economic Cooperation and Development
+OEMs Original Equipment Manufacturer
+OHS Occupational Health and Safety
+PDCA Plan-Do-Check -Action
+PIC Person in charge
+Plant Our manufacturing facility in Hai Phong, Vietnam
+PFMEA Process Failure Mode and Effects Analysis
+Abbreviations Meaning
+QE Quality Engineering
+QMS Quality Management System
+R&D Research and Development
+RMI The Responsible Minerals Initiative
+SASB Sustainability Accounting Standards Board
+SBTi Science Based T argets initiative
+SDGs  The United Nations Sustainable Development Goals
+SEC U.S. Securities Exchange Commission
+SPS The Safeguard Policy Statement
+SQ Supplier Quality
+SRRO Sustainability-Related Risks and Opportunities
+STEM Science, T echnology, Engineering, and Mathematics
+SUV Sport Utility Vehicle
+TCFD T ask Force on Climate-related Financial Disclosure
+tCO2e T onne of Carbon Dioxide Equivalent
+TCP The Climate Pledge
+Abbreviations Meaning
+TSS T otal Suspended Solids
+U.S. United States
+UNGC United Nations Global Compact
+VAT  Value-added T axes
+VCCRC  VinFast Certified Collision Repair Centers
+VIG Vietnam Investment Group Joint Stock Company
+Yo Y Y ear-over-year growth rate
+ZEV Zero Emission Vehicle
+
+## Page 5
+
+01
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+5
+VinFast’s 2024 Sustainability Report 5
+Foundations for a Global
+Sustainable Journey
+SETTING OUR COMP ASS
+Message from the Chairwoman
+About This Report
+General Information
+VinFast 2024: Driving the future
+sustainably at a glance
+07
+10
+12
+17
+
+## Page 6
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+6
+From Vietnam to the World: Our Sustainable Journey
+
+## Page 7
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+7
+Message from the Chairwoman
+T o our valued stakeholders,
+"From our very first electric vehicle that rolled off the line in Hai
+Phong to the new footprints we are setting across continents,
+2024 marks a year where many of our aspirations met action.
+Each milestone in this report is not just a testament to our ambition
+but a reminder of the responsibility we carry—as a company with
+a bold dream, rooted in Vietnam yet driven to contribute to a
+greener, smarter world.
+At VinFast, sustainability is not an added promise; it is the path
+we choose every day—shaped by VinFast’s values of Vietnam
+— Style — Safety — Innovation — Pioneer. These values keep us
+grounded even as we move swiftly forward and are brought to life
+through our 3E Mission: creating a comprehensive ecosystem of
+Electrification, Energy Saving, and Energy Greening. This mission
+is our strategic compass, guiding our growth and reminding us
+that our greatest strength is our people and partners who share
+this holistic vision.
+Turning Strategy into Action
+2024 was a foundational year. We laid the groundwork for growth
+that is both rapid and responsible. We expanded our Electric
+Vehicles portfolio—from two-wheeled e-scooters to commercial
+e-buses—making clean mobility accessible to more people.
+This progress is powered by strategic investments in our global
+manufacturing capacity. Our new factories in India and Indonesia
+are expected to bring our clean mobility solutions closer to our
+customers. T o ensure this global growth is built on a foundation
+of trust, we launched our first formal Supplier ESG Due Diligence
+framework and renewed our commitment to our Code of Conduct
+across our entire value chain. Most importantly, we continued to
+invest in our people, especially our team in Vietnam by expanding
+vocational training programs to nurture the next generation of
+talent for the EV industry.
+Beyond operations, 2024 was also a year in which VinFast
+strengthened its position on the global stage. Through key
+partnerships and active engagement in international dialogues,
+we elevated Vietnam’s role in the global climate conversation,
+emerging not only as a fast-growing EV company but as a symbol
+of the nation’s leadership in the energy transition.
+Looking Ahead with a Clear Mandate
+The road ahead is demanding, requiring us to navigate diverse
+markets, complex supply chains, and evolving regulations. Y et,
+our purpose is clearer than ever, reinforced by powerful policy
+tailwinds. In Vietnam, landmark regulations – such as Ho Chi Minh
+City’s mandate for electric ride-hailing vehicles and Hanoi’s plan
+to phase out fossil-fuel motorcycles – are accelerating the energy
+transition at an unprecedented pace. This requires VinFast to
+move even faster, scaling our comprehensive operations to meet
+the surging demand of the market.
+Looking forward, we will deepen our commitment to sustainability
+and climate strategy. Our Net Zero 2040 roadmap is now
+underway, with concrete measures to decarbonize our value
+chain, improve traceability of critical raw materials, and strengthen
+our culture of safety and inclusion worldwide. At the same time,
+we recognize that sustainability is inseparable from innovation
+and collaboration. In 2025 and beyond, we will advance strategic
+partnerships, invest in breakthrough technologies, and contribute
+to shaping global standards for sustainable mobility. By aligning
+our growth with these priorities, we aim not only to meet regulatory
+and market expectations but also to lead the transformation of
+our industry and create lasting value for society.
+This journey is a collective one: to our employees, whose passion
+and talent are the engine of our progress; to our customers, who
+inspire us with their trust; to our partners, who share our vision;
+and to our investors, who believe in our long-term mission –
+I extend my deepest gratitude.
+T ogether, let us continue to build: Our Sustainable
+Journey - From Vietnam to the World, shaping a cleaner,
+smarter future for generations to come."
+Sincerely,
+Le Thi Thu Thuy
+Chairwoman of the Board of Directors
+VinFast Auto Ltd.
+
+## Page 8
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+8
+Forward-looking statements, which are not historical facts,
+contained in this report, inclusive of charts, graphs and discussion,
+and all other information presented, are forward-looking within the
+meaning of U.S. federal securities law. These statements include
+statements regarding our future results of operations and financial
+position, planned products and services, business strategy and
+plans, objectives of management for future operations of VinFast,
+market size and growth opportunities, competitive position and
+technological and market trends and involve known and unknown
+risks that are difficult to predict. As a result, our actual results,
+performance or achievements may differ materially from those
+expressed or implied by these forward-looking statements. In
+some cases, you can identify forward-looking statements because
+they contain words such as “may,” “will,” “shall,” “should,” “expects,”
+“plans,” “anticipates,” “could,” “intends,” “target,” “projects,”
+“contemplates,” “believes,” “estimates,” “predicts,” “potential,”
+“goal,” “objective,” “seeks,” or “continue” or the negative of these
+words or other similar terms or expressions that concern our
+expectations, strategy, plans, or intentions.
+Such forward-looking statements are necessarily based upon
+estimates and assumptions that, while considered reasonable by
+us and our management, are inherently uncertain. Factors that may
+cause actual results to differ materially from current expectations
+include, but are not limited to: (i) We are a growth stage company in
+the EV industry and face challenges associated with the marketing
+and sale of products in different markets ; (ii) The unavailability,
+reduction or elimination of government and economic incentives
+or government policies which are favorable for EV manufacturers
+Forward Looking Statements
+and buyers; (iii) Significant changes or developments in U.S. laws
+or policies, including changes in U.S. trade policies and tariffs and
+the reaction of other countries thereto; (iv) We have experienced in
+the past and in the future may experience delays and cost overruns
+when implementing our business plans and growth strategy; (v)
+Our brand, reputation, and consumer confidence in our business
+could be harmed by negative publicity; (vi) The automotive market
+is highly competitive, which presents challenges in maintaining our
+market leadership in Vietnam and establishing our position in the
+global automotive industry; (vii) We obtain component parts and
+raw materials from third-party suppliers who may fail to deliver
+components and raw materials according to our schedule and at
+prices, quality and volumes acceptable to us; (viii) We might face
+challenges if our customers are resistant to adopting EVs or do not
+have adequate access to Electric Vehicle Supply Equipment , which
+includes charging stations, and related infrastructure; (ix) We are a
+growth stage company with a history of losses, negative cash flows
+from operating activities and negative working capital. We require
+additional funding to support our ongoing operations; (x) We have
+identified material weaknesses in our internal control over financial
+reporting that could, if not remediated, impair our ability to produce
+timely and accurate financial statements; (xi) We have restated our
+financial statements for the fiscal year ended December 31, 2024,
+which could expose us to additional risks; (xii) We have received
+financial support from Mr. Pham and our Vingroup affiliates, and
+we maintain business relationships with our Vingroup affiliates. We
+may be affected by adverse business conditions, developments
+or matters affecting our Vingroup affiliates; (xiii) A considerable
+portion of our EV deliveries to date has been to certain affiliates;
+(xiv) Our corporate actions that require shareholders’ approval
+will be substantially controlled by our controlling shareholders,
+which may prevent you and other shareholders from influencing
+significant decisions; and (xv) other risks discussed in our reports
+filed or furnished to the U.S. Securities and Exchange Commission
+(the “SEC”).
+All forward-looking statements attributable to us or people
+acting on our behalf are expressly qualified in their entirety by
+the cautionary statements set forth above. Y ou are cautioned
+not to place undue reliance on any forward-looking statements,
+which are made only as of the date hereof. VinFast does not
+undertake or assume any obligation to update publicly any of
+these forward-looking statements to reflect actual results, new
+information or future events, changes in assumptions, or changes
+in other factors affecting forward-looking statements, except to
+the extent required by applicable law. If VinFast updates one or
+more forward-looking statements, no inference should be made
+that it will make additional updates with respect to those or other
+forward-looking statements. The inclusion of any statement herein
+does not constitute an admission by VinFast or any other person
+that the events or circumstances described in such statement are
+material. Undue reliance should not be placed upon the forward-
+looking statements.
+
+## Page 9
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+9
+Disclaimer
+Depending on the recipient’s domicile or place of incorporation,
+this report, and the statements herein (together “ESG Statements”)
+may not adhere to any applicable existing or proposed principles,
+laws, rules, or regulations related to ESG criteria. Our approach to
+the disclosures included in this report differs from our approach
+to disclosures in our mandatory regulatory reports, including our
+filings with the SEC. This report is intended to provide information
+from a different perspective and, in certain cases, in more detail
+than that required in our filings with the SEC.
+Furthermore, ESG data provided by external data providers and
+referenced for the present purpose is produced based on the
+data providers’ proprietary methodologies, and we do not intend
+to independently verify such third-party data. Even though VinFast
+has an ESG methodology in place, it cannot represent that the
+methodology or ESG data provided by data providers is accurate,
+complete, up-to-date, and/or continuously available. Calculations
+and statistics included in ESG Statements may be based on
+historical information and therefore subject to change. VinFast’s
+ESG Statements have not been externally verified by independent
+third parties.
+It is important to acknowledge that climate-related science, data,
+and methodologies are continually advancing, and there is currently
+no universally accepted legal or regulatory framework, nor
+consistent market consensus, on what qualifies as a ‘sustainable’,
+‘responsible’, ‘traditional’, or similar ‘ESG’ investment, product,
+or service. While some jurisdictions have begun to define these
+concepts through regulatory initiatives, the overall legal and policy
+landscape is still evolving. As a result, our climate-related analysis
+and strategy remain subject to evolution over time.
+This document is for informational purposes only. This document
+may not be (i) copied, photocopied, duplicated, or otherwise
+reproduced in any form or by any means; or (ii) redistributed,
+passed on or otherwise disseminated, to any person without the
+prior written consent of the Company. No representation, warranty,
+guarantee or undertaking (express or implied) is made as to, and
+no reliance should be placed on, the accuracy, completeness or
+correctness of any information, including any estimates, targets,
+and opinions, contained herein, and accordingly, none of the
+Company, its subsidiaries, or any of their directors, officers,
+employees, affiliates, representatives or advisors assumes any
+responsibility or liability for, the accuracy or completeness of, or
+any errors or omissions in, any information or opinions contained
+herein. The Company, its subsidiaries or any of their directors,
+officers, employees, affiliates, representatives, or advisors, nor
+any other person accepts any liability (in negligence, or otherwise)
+whatsoever for any loss arising, from any use of this document or
+its contents or otherwise arising in connection therewith.
+The statements contained in this document speak only as of the
+date as of which they were made or the date stated in a specific
+phrase, and the Company expressly disclaims any obligation or
+undertaking to supplement, amend or disseminate any updates
+or revisions to any statements contained herein to reflect any
+change in events, conditions, or circumstances on which any such
+statements are based. None of the Company, its subsidiaries, or any
+of their directors, officers, employees, affiliates, representatives,
+or advisors undertakes any obligation to provide the recipient with
+access to any additional information or to update this document
+or any additional information or to correct any inaccuracies in any
+such information which may become apparent.
+This document does not constitute or form part of and should not
+be construed as an offer to sell or issue or a recommendation or
+solicitation of an offer to buy or acquire securities of the Company
+or its subsidiaries or affiliates in any jurisdiction or as an inducement
+to enter investment activity. This document in no way contains
+investment, financial, legal, tax or other product advice.
+
+## Page 10
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+10
+About This Report
+VinFast plans on reporting on sustainability every year. Our reports discuss the
+opportunities and challenges that arise in our pursuit of responsible business practices.
+Except where the context requires otherwise, or where otherwise indicated, the terms
+“VinFast,” the “Company,” the “Group,” “we,” “us,” “our,” “our Company,” and “our
+business” refer to VinFast Auto Ltd. and, where appropriate, its subsidiaries.
+This report has been prepared in compliance with SEC and Nasdaq regulations and
+in alignment with Vietnam’s Circular 96/2020/TT -BTC. It has also been developed
+with reference to leading international sustainability frameworks, including the UN
+Sustainable Development Goals (SDGs), GRI Standards, SASB Standards, ISSB -
+IFRS S1 and S2, and TCFD recommendations. Through this report, VinFast affirms our
+commitment to environmental protection, social responsibility, and strong governance
+practices, aiming transparency and accountability across our global operations.
+This section details our environmental strategy, which
+focuses on decarbonizing our operations and products.
+We discuss our management of key environmental
+impacts across the value chain, including our approach
+to climate resilience, greenhouse gas emissions, energy
+and water efficiency, and the promotion of a circular
+economy through innovative waste management.
+Environmental
+This section outlines our strategy for empowering
+people and fostering shared value. It details our
+commitment to our employees through human capital
+development, diversity and inclusion, and upholding
+human rights. We also discuss our social responsibility
+in our supply chain, our engagement with local
+communities, and our dedication to customer welfare
+and safety.
+Social
+This section describes the governance framework that
+serves as the foundation for our sustainable growth
+and long-term value creation. We detail our approach
+to ensuring oversight from our Board of Directors,
+upholding ethical business conduct through our
+anti-bribery and anti-corruption policies, promoting
+a sustainable supply chain, and building trust by
+safeguarding data privacy and ensuring cybersecurity.
+Governance
+
+## Page 11
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+11
+The VinFast Sustainability Report for the period from
+January 1st, 2024, to December 31st, 2024 (the “Sustainability
+Report”) focuses on manufacturing, trading, and marketing
+activities in the areas where VinFast operates, subject to
+limitations arising from data availability across our newly
+established global operations.
+The information and data cited in this report are derived from
+official documents, statistics, VinFast’s Annual Reports, as
+well as other ESG information collected, summarized, and
+reviewed by VinFast, unless otherwise specified.
+VinFast Auto Ltd.
+61 Robinson Road #06-01 (Suite 608), 61 Robinson,
+Singapore 068893.
+Website: https://ir. VinFastauto.us
+Email: ir@VinFastauto.com
+This report was prepared based on the principles of GRI 1:
+Foundation 2021, including:
+• Accuracy
+• Balance
+• Clarity
+• Comparability
+Scope and Boundaries Reporting Principles Information Resources Contact Information
+• Completeness
+• Sustainability context
+• Timeliness
+• Verifiability
+
+## Page 12
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+12
+General Information
+VinFast
+Investment and
+Development JSC
+(Vietnam) (1)
+Asian Star Vingroup JSC VIG Others
+VinFast Auto Ltd.
+(Singapore)
+VinFast Trading
+and Production JSC
+(Vietnam) (2)
+VinFast Middle
+East FZE
+(UAE)
+VinFast Auto
+(Thailand) Co., Ltd.
+(Thailand)
+VinFast Auto India
+Private Limited
+(India)
+VinFast UL Ltd
+(UK)
+Vingroup USA, LLC
+(USA)
+VinFast Kazakhstan
+(Kazakhstan)
+PT VinFast
+Automobile Indonesia
+(Indonesia)
+VinFast Auto
+Nigeria Ltd
+(Nigeria)
+VinFast Auto
+Philippines Corp.
+(Philippines)
+VinFast Auto México,
+S. DE R.L. DE C. V .
+(Mexico)
+Vingroup
+Investment
+Vietnam JSC
+(Vietnam)
+VinFast
+Engineering
+Australia Pty Ltd
+(Australia)
+VinFast
+Commercial and
+Service Trading LLC
+(Vietnam)
+VinEG Green
+Energy Solution JSC
+(Vietnam) (4)
+VinFast Auto, LLC
+(USA)
+VinFast USA
+Distribution, LLC
+(USA)
+VinFast
+Manufacturing US, LLC
+(USA)
+PT VinFast
+Trading Indonesia
+(Indonesia)
+VinFast Auto
+Canada Inc.
+(Canada)
+VinFast
+Netherlands B. V .
+(Netherlands)
+VinFast Germany
+GmbH
+(Germany) (3)
+VinES Ha Tinh
+Energy Solution JSC
+(Vietnam)
+VinFast France
+(France)
+VinES USA, LLC
+(USA)
+14.28% 50.67% 32.91% 2.14%
+100% 100% 100%100% 100%99.9% 99.9% 99.9% 99.9% 99.9% 99.9%51.8%
+100% 100% 100% 100%99.3% 99.5% 99.8% 99%
+99.8% 100%100%100%100%100%
+Notes:
+(1) Based on proportion of voting power held. The registrant owns 48.84% of this subsidiary’s total outstanding share capital, including non-voting preferred shares.
+(2) Based on proportion of voting power held. The registrant owns 33.59% of this subsidiary’s total outstanding share capital, including non-voting preferred shares.
+(3) For the purposes of homogenizing the organizational structure of our distribution companies, we are in the process of transferring the shares of VinFast Germany GmbH (“VinFast Germany”) from VinFast Trading and Production JSC (Vietnam) to Vingroup Investment Vietnam JSC (“Vingroup Investment”). Following such transfer, VinFast will own VinFast
+Germany through Vingroup Investment.
+(4) VinEG Green Energy Solutions JSC (Vietnam) (“VinEG”) was split from VinES Energy Solutions JSC (Vietnam) (“VinES”). Pursuant to the split plan, the shares/capital owned by VinES in the VinES Ha Tinh Energy Solution JSC (Vietnam) and VinES USA, LLC (USA) shall be transferred from VinES to VinEG. VinES is no longer a subsidiaries of VinFast Trading
+and Production JSC (Vietnam), and we’re carrying out the process in VinES USA, LLC (USA) to reflect the change.
+VinFast Organizational Chart
+This chart includes the companies that VinFast
+Auto Ltd. owns directly or indirectly more than 50%
+of their total shares/ capital/ voting right).
+Our Business – Driving the Global
+Transition to Sustainable Mobility
+
+## Page 13
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+13
+Business Overview
+VinFast is advancing the global shift toward electric mobility by
+designing and manufacturing a comprehensive portfolio of EVs,
+including SUVs, e-scooters, e-buses, and forthcoming electric
+commercial vehicles such as vans and trucks. This transformation is
+underpinned by strong investments in research and development,
+reflecting our commitment to delivering innovative, high-
+performance, and sustainable transport solutions.
+T o ensure quality, innovation, and sustainability across our value
+chain, VinFast has built a deeply integrated manufacturing
+model. Through our own operations and our subsidiaries, we
+have significant in-house capabilities, including:
+In 2022, VinFast made a bold and strategic decision to discontinue
+ICE vehicle production, marking a full pivot to a zero-emission
+future. This commitment is yielding tangible results: in 2024, we
+delivered 97,399 EVs globally—a 192% year-over-year increase—
+signaling rising consumer demand and trust in our brand. In our
+domestic market, VinFast became the #1 best-selling vehicle
+brand in Vietnam, reinforcing our leadership in the local automotive
+industry.
+Beyond vehicle manufacturing, our vision is to build a fully integrated
+e-mobility ecosystem that places customers, communities, and
+connectivity at its core. This includes a rapidly expanding global
+network. As of December 31st, 2024, VinFast had 269 showrooms
+and dealerships globally, along with digital platforms and charging
+infrastructure to provide seamless, customer-centric experiences
+and support the widespread adoption of sustainable mobility.CORE EV
+TECHNOLOGY
+VEHICLE
+COMPONENTS
+E-MOBILITY
+INFRASTRUCTURE
+Dedicated battery research, development,
+and production; and  in-house manufacturing
+of critical components like electric motors
+and electronic devices.
+Manufacturing of key parts, including
+aluminum castings, plastic injection molded
+products, and interior components.
+Manufacturing of our own charging
+stations and charging equipment.
+EVs delivered
+globally97,399
+Showrooms
+as of December 31st, 2024269
+two-wheeled vehicles
+delivered globally70,977
+
+## Page 14
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+14
+Global Footprint and
+Sustainable Growth
+Our strong 2024 performance, with total revenue reaching
+US$1.809 billion (up 58% year-over-year), reflects increasing
+market acceptance of our sustainable offerings. By having
+Vingroup as its controlling shareholder, VinFast benefits from
+cross-sector synergies that accelerate innovation and amplify our
+sustainability ambitions.
+Since our founding in 2017, we have grown from a domestic pioneer
+to a global player with strategic footprints across Asia, North
+America and Europe. Our world-class manufacturing hubs in Hai
+Phong and Ha Tinh, Vietnam, serve as benchmarks for operational
+excellence and sustainability. We are now extending this model
+internationally, with new production facilities under development
+in India, Indonesia, and the U.S.,  each designed to integrate energy
+efficiency, local economic development, and ESG-aligned supply
+chain practices.
+Sustainability is not a parallel objective—it is at the heart of
+VinFast’s corporate identity and strategic direction. We are
+committed to embedding ESG principles across all business
+operations and partnerships. Our goals include not only driving
+internal sustainability improvements but also positively influencing
+our supply chain and the communities we serve.
+Anchored by our climate pledge to achieve Net Zero by 2040 and
+guided by our strategic framework Mission 3E (Electrification,
+Energy Saving and Energy Greening), VinFast seeks to accelerate
+the transition to clean mobility while supporting a more inclusive,
+resilient, and environmentally responsible future for generations
+to come.
+ESG Integration and
+Strategic Purpose
+Business Overview
+Billion
+US $1.809
+Y ear-over-year
+increase58%
+T otal revenue
+Mission 3E
+Electrification Energy
+Greening
+Energy
+Saving
+For detailed financial information, including breakdowns of revenue, taxation, and
+financial performance, please refer to our latest Annual Report on Form 20-F and
+other reports filed with the SEC.
+
+## Page 15
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+15
+Vision Core Values
+Driving the movement of the global smart
+electric vehicle revolution.
+Car design emphasizes lifestyle, performance, world-class safety standards, customer experience,
+“smart-technology-for-life” application, and personalization.
+VinFast enables everyone to own the best cars in
+each segment, following a unique approach to sales
+and support policies.
+In addition to the in-car experience, VinFast also
+offers outstanding after-sales services and an
+ecosystem to provide the best after-sales service
+for each market.
+High-quality products
+Competitive pricing Outstanding after-sales serviceMission
+T o create a more sustainable future for
+everyone.
+
+## Page 16
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+16
+History Car design emphasizes lifestyle, performance, world-class safety standards, customer experience, “smart-technology-for-life” application, and personalization.
+• VinFast was founded and broke ground on its
+automotive manufacturing complex in Cat Hai, Hai
+Phong, Vietnam.
+2017
+2017-2018 2019-2020 2021-2022 2023
+• Released the limited-edition President V8 SUV in
+Vietnam.
+• Achieved ISO 14001 and ISO 45001 certifications for
+the Occupational Health and Safety Management
+System of the Company.
+2020
+• Listed on Nasdaq with an equity value of over US$23
+billion.
+• Introduced new models: VF 5, VF 6, VF 7, and
+upgraded VF 8 and VF 9.
+2023
+• Debuted the Lux A2.0 and Lux SA2.0 at the Paris
+Motor Show; received AUTOBEST’s “ A Star is Born”
+award.
+• Launched first e-scooters, Klara A1 and A2, in
+Vietnam.
+• Introduced Lux A2.0, Lux SA2.0, and Fadil to the
+domestic market.
+2018
+• Launched two additional e-scooter models in
+Vietnam: Theon and Feliz.
+• Unveiled electric car models VF e34, VF 8, and VF
+9, and announced global expansion plans.
+• Began e-bus deliveries to VinBus, Vietnam’s first
+electric bus operator.
+• Delivered the VF e34 to customers – Vietnam’s
+first ever electric vehicle.
+2021
+• Announced the shift to pure EV production by
+2023 and unveiled full EV lineup.
+• Signed MOU for first North American plant.
+• Launched five LFP battery-powered e-scooter
+models.
+• Shipped the first batch of VF 8 to the U.S.
+2022
+• Commenced operations at the world-class
+manufacturing complex in Hai Phong.
+• Delivered three car models including Lux A2.0, Lux
+SA2.0 and Fadil to customers.
+• Expanded e-scooter line with Ludo, Impes, and
+Klara S.
+• Achieved 5-star rating for the Lux models and
+4-star rating for the Fadil model in ASEAN’s New
+Car Assessment Program (“NCAP”).
+2019
+
+## Page 17
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+17
+VinFast 2024: Driving The Future Sustainably At A Glance
+Outstanding sustainable achievements
+and recognitions in 2024
+GEOGRAPHIC EXP ANSION
+Became the
+Number 1
+best-selling vehicle
+brand in Vietnam
+Vietnam
+Indonesia
+Philippines
+India
+Thailand
+US
+Canada
+Europe
+• Held the Groundbreaking Ceremony for Electric
+Vehicle Assembly Plant Project in Subang, West Java,
+Indonesia
+• Expanded into Indonesia, the Philippines, Thailand,
+and the Middle East, while signing cooperation
+agreements with dealers in the U.S., Canada, and
+Europe
+• Broke ground on its electric vehicle factory in India
+
+## Page 18
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+18
+Outstanding sustainable achievements and recognitions in 2024
+MAJOR AWARDS AND ACHIEVEMENTS
+TIME 100
+Second consecutive year
+recognized in the
+Most Influential Company
+VinFast VF6 won the
+in  Car Choice Award 2024
+ “Pioneer Green Energy”
+TOP 10
+Excellent Enterprises
+VinFast received
+the award for
+in ESG implementation in 2024
+at Vietnam ESG Forum.
+ASEAN  NCAP Awards
+VinFast VF 8 won five
+in its latest
+New Car Assessment
+Human Act Prize 2024
+honored VinFast as
+The Best Project For
+the Community
+VinFast Mirrorsense
+honored with
+(the world’s first AI-driven automatic
+mirror adjustment technology)
+Innovation Award
+Honoree at CES 2024
+Pre-Orders for the VF 3
+in Vietnam after 66 Hours
+of Accepting Deposits
+27,649
+VinFast received
+EV units globally
+97,399
+VinFast successfully delivered
+Compared to 2023
+192%
+
+## Page 19
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+19
+ESG Highlights in 2024
+Governance
+Company’s management, as of the date of this report,
+was not aware of any violations, fines, breaches of
+business ethics/code of conduct
+USD
+million
+total tax amount
+VinFast paid1.2
+of the Board
+members are female50%
+of our Board is compossed
+by Independent Directors33.3%
+
+## Page 20
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+20
+ESG Highlights in 2024
+Successfully recertified for
+ISO 14001:2015
+at our Vietnam Hai Phong Plant by BSI
+VinFast initiated its
+First 30 MWp
+rooftop solar project at the Hai Phong Plant
+Environment
+kWh
+Saved of electricity at the Hai Phong Plant (~1,782.28 tCO2)
+2,703,704
+Waste diversion rate
+89.2%
+recycled vs. total waste
+at the Hai Phong Plant
+
+## Page 21
+
+VinFast’s 2024 Sustainability Report Setting Our Compass - Foundations for a Global Sustainable JourneyChapter 1
+21
+Social
+Community grievances regarding the  Hai Phong Plant have
+been recorded, solved timely and kept records sufficiently
+ESG Highlights in 2024
+Successfully recertified for
+ISO 45001:2018
+at the Vietnam Hai Phong Plant by BSI
+working in arduous, toxic, and dangerous environments
+underwent examinations for occupational disease detection1
+95% of employees
+average training hours
+per employee per year24.4
+1 The remaining 5% of employees are not eligible due to resignation, maternity leave, etc.
+
+## Page 22
+
+02
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+22
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2 22
+Our Strategy for
+Sustainable Growth
+DRIVING V ALUE
+VinFast’s Approach to Sustainable Value Creation
+Sustainability Governance & Oversight
+ESG Materiality: Focusing on What Matters
+Engaging Our Stakeholders for Shared Value
+24
+30
+33
+37
+
+## Page 23
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+23
+VinFast’s Commitment to
+Long- T erm Sustainable Value Creation
+At VinFast, we believe true, long-term value is created when growth,
+innovation, and sustainability are approached as an integrated whole. As
+a pioneering Vietnamese smart EV manufacturer with a global vision, we
+are committed to reshaping mobility for a safer, cleaner, and more inclusive
+future, guided by our core values of Credibility, Integrity, Creativity, Speed,
+Quality, and Compassion.
+Our 2024 theme, “From Vietnam to the World: Our Sustainable Journey,” captures a
+pivotal moment for VinFast. As we expand our global footprint, this is a foundational
+year focused on strengthening our core capabilities and ensuring that our growth is
+both rapid and responsible. In 2024, we solidified our position as Vietnam’s best-selling
+vehicle brand with 168,376 EVs and E-scooters delivered. Simultaneously, we forged
+strategic partnerships across the UAE, Mexico, Indonesia, and India to expand our EV
+presence and infrastructure, underscoring our ability to turn bold sustainability goals
+into measurable action.
+T o support this global scale-up, we are building the frameworks for long-term success.
+This includes breaking ground on new manufacturing plants in key markets like India
+and Indonesia, formalizing our first sustainable supply chain management policies,
+and investing in capital-efficient local dealership networks to ensure speed to market.
+Delivering on these ambitions requires discipline, transparency, and robust internal
+systems to make sustainability not just aspirational, but operational.
+
+This section of the report outlines the governance structures, strategic priorities,
+and risk management frameworks that underpin our sustainability strategy. These
+mechanisms enable VinFast to stay agile, accountable, and resilient as we scale globally,
+ensuring that our growth is both inclusive and future-ready.
+Leading the Charge to
+Zero-Emission Mobility
+Driving the decarbonization of
+transport by delivering an expanding
+portfolio of electric vehicles and
+committing to an ambitious Net Zero
+by 2040 target.
+Building a Foundation of
+Global Trust
+Enhancing our corporate
+governance, ensuring unwavering
+ethical conduct, and cultivating a
+responsible and resilient supply
+chain as our global footprint grows.
+Delivering Smarter, Safer,
+and More Sustainable Mobility
+Pioneering innovations in connected
+vehicle technologies, battery
+performance, and energy efficiency
+to create a superior and more
+responsible ownership experience.
+Investing in the People
+Who Power Our Journey
+Fostering an inclusive and dynamic
+culture, developing world-class
+talent, and creating lasting positive
+impact in the communities that are
+home to our operations.
+As VinFast expands internationally, we are currently reviewing the four strategic pillars that translate our values into action. These pillars serve as the foundation for our Net Zero 2040
+Roadmap and Mission 3E strategy, while we continue to review and refine them to ensure alignment with our evolving global operations:
+In 2024, we solidified our
+position as Vietnam’s
+best-selling vehicle brand
+
+## Page 24
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+24
+VinFast’s Approach to Sustainable Value Creation
+Our Sustainability Strategy:
+Driving Value Creation in a Changing World
+Our mission — “T o create a more sustainable future for everyone” — serves as the
+cornerstone of our business model and guides every decision we make. T o translate this
+ambition into measurable outcomes, we have built our sustainability strategy around
+Mission 3E: Electrification – Energy Saving – Energy Greening. These three pillars
+direct our innovation, operations, and investments toward solutions that accelerate
+decarbonization and resource efficiency across the mobility value chain.
+Our approach is closely aligned with global sustainability frameworks, including the
+United Nations Sustainable Development Goals — particularly SDG 7 (Affordable and
+Clean Energy), SDG 9 (Industry, Innovation, and Infrastructure), SDG 12 (Responsible
+Consumption and Production), and SDG 13 (Climate Action). T ogether, our mission
+and the 3E pillars form a unified strategy for delivering long-term, shared value to
+all stakeholders — from shareholders and customers to employees, suppliers,
+communities, and the planet.
+Electrification
+Energy saving
+Energy greening
+MISSION 1E
+MISSION 2E
+MISSION 3E
+Promoting VinFast’s core business segments: manufacturing and trading EVs,
+developing charging station infrastructure, and promoting the Battery Energy
+Storage system business.
+Forming and developing a corporate culture of saving - continuous improvement,
+applying knowledge - technology to optimize all activities, focusing on energy
+and carbon.
+Developing the missing piece in the business model: Renewable energy. Promoting
+comprehensive cooperation with all interested parties with a customer-centric
+philosophy, creating shared value for the whole society.
+NET ZERO STRA TEGY TO 2030 VISION 2040 SD Goals
+Renewable Energy
+BESS
+Manufacturing
+Charging - Smart Grid
+ Customer Centric
+Green Materials
+ OUR P ARTNERS
+ OUR ST AKEHOLDERS
+MISSION 3E
+Electrification Energy Saving Energy Greening
+1
+ 2
+ 3
+MISSION:
+TO CREA TE A MORE SUST AINABLE
+FUTURE FOR EVERYONE
+
+## Page 25
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+25
+Our Long- T erm
+Sustainability T argets
+Guided by our Mission 3E strategy and our commitment
+to creating long-term, shared value, we have established
+a series of ambitious, long-term targets. These targets
+represent our core commitments and serve as the ultimate
+benchmark for our performance across our ESG priorities.
+ENVIRONMENT AL SOCIAL GOVERNANCE
+Promote anthropological ethics by sourcing only
+raw materials that are dutifully manufactured.
+Work toward a future that is free from accidents and
+workplace injuries.
+Create a truly diverse culture of diversity, equity, and
+inclusion where everybody feels like they belong.
+1
+2
+3
+Continue to run the business in a participatory,
+consensus-oriented, accountable, transparent,
+responsive, efficient, equitable and inclusive way.
+Communicate our policies and strategy clearly to our
+supply chain.
+Make appropriate levels of monitoring and disclosure
+to display our robust approach.
+1
+2
+3
+Circular economy through total recyclable scrap;
+eliminate single-use plastics from our operations
+by 2030.
+Make zero water withdrawals for manufacturing
+processes by 2035; use freshwater only for human
+consumption.
+Utilize only recycled or renewable content in
+product plastics; eliminate hydrofluorocarbons,
+perfluorocarbons, sulfur hexafluoride, and nitrogen
+trifluoride from our products.
+Achieve carbon neutrality by 2040.
+Green Renewable Energy: Use 100% local, renewable
+electricity in all manufacturing by 2040.
+1
+2
+3
+4
+5
+
+## Page 26
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+26
+VinFast became the first pure-EV brand to lead the Vietnamese
+auto market, delivering 97,399 electric vehicles globally in
+2024—a 192% increase compared to 2023 deliveries. Of these,
+87,000 were sold domestically, underscoring the success of our
+“For a Green Future” campaign.
+Alongside strengthening our leadership position in Vietnam, we
+are accelerating international expansion. In 2024, we commenced
+the establishment of manufacturing facilities in India and Indonesia
+and expanded our network of showrooms and service workshops
+across selected countries in North America (the U.S. and Canada);
+Asia (India and key Southeast Asian markets such as Indonesia
+and the Philippines); and the EMEA region (Europe, the Middle
+East, and Africa). This approach strengthens our home market
+position while advancing VinFast’s presence as a competitive
+global EV manufacturer.
+VinFast’s rapid growth in EV deliveries is expected to continue in
+2025 and we target to at least double the deliveries in 2024.
+From Strategy to Impact:
+Our 2024 Progress and 2025 Commitments
+Sustainability is at the core of VinFast’s corporate strategy and business model,
+serving as a key driver of innovation, operational excellence, and long-term
+value creation. Rather than treating ESG priorities as stand-alone initiatives,
+we embed them across every core function—spanning product design, supply
+chain management, manufacturing, customer engagement, and global market
+expansion. Guided by our Mission 3E, our business decisions align with our Net
+Zero 2040 commitment and advance progress on the UN SDGs (goals 7, 9, 12,
+and 13). This holistic integration not only positions VinFast at the forefront of
+the electric mobility transition but also ensures we generate shared value for
+customers, communities, employees, and the planet.
+underscoring our deep commitment to embedding ESG principles across
+our business strategy, operations, and culture. Through concrete actions and
+measurable progress, VinFast continues to create long-term value for our
+business, communities, and the planet.
+Equally important, 2024 was a year of accountability and transparency . We
+enhanced the depth and quality of our disclosures, strengthened alignment with
+international frameworks such as CDP, TCFD, and the SDGs, and engaged more
+systematically with global stakeholders. This strategic shift reflects our belief
+that transparency is inseparable from trust. By holding ourselves accountable
+not only for growth but also for measurable impact on climate, communities,
+and governance, we are reinforcing VinFast’s credibility as both a global EV
+manufacturer and a responsible corporate citizen.
+2024 marked a pivotal year in
+VinFast’s sustainability journey,
+In 2024, VinFast advanced its commitment to smarter, safer, and more sustainable mobility through notable product, technology, and
+partnership milestones.
+• We rolled out our next-generation battery platform, boosting
+charging efficiency by 20% and extending real-world range
+by up to 15% for VF 6 and VF 7 models.
+• Over-the-air software upgrades enhanced diagnostics, predictive
+maintenance, and in-car energy management, while the VF 8
+earned five ASEAN NCAP Grand Prix Awards, including Best
+Safety Assist and Best SUV.
+• Strategic collaborations with Schneider Electric, Marubeni, ON
+Energy, and others accelerated green energy storage solutions
+and brought Vietnam’s first domestically developed Battery
+Energy Storage System (BESS) into commercial use.
+We also became the first automaker globally to launch RIDEVU, an in-car entertainment application, underscoring our focus on elevating
+the EV experience.
+Leading the Charge to
+Zero Emission Mobility
+Delivering Smarter, Safer
+& More Sustainable Mobility
+Electric vehicles globally
+in 2024
+Increase compared
+to 2023 deliveries
+Vehicles sold domestically
+97,399
+192%
+87,000
+
+## Page 27
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+27
+From Strategy to Impact: Our 2024 Progress and 2025 Commitments
+We strengthened our talent pipeline and community engagement
+by the below initiatives in 2024:
+• We expanded vocational partnerships to train over 2,000 new EV
+technicians across Vietnam, India, and Indonesia, while launching
+the Green Future Scholars program to award scholarships in
+STEM fields. We achieved 50% female representation on our
+global leadership team, reflecting our core value of Compassion.
+• T o strengthen service quality, we delivered a nationwide training
+program for distributor staff in Vietnam, combining in-depth
+technical seminars with soft skills development, fostering peer
+learning and operational excellence across all regions.
+• We also signed an MOU with Emirates Driving Company
+to cooperate in EV deployment, driver training, and industry
+investment—enhancing road safety and EV adoption in both
+Vietnam and Abu Dhabi.
+• In parallel, our MOU with Hanoi University of Science
+and T echnology and VinRobotics aims to accelerate
+scientific research, strengthen students’ practical
+skills, and cultivate high-quality talent for Vietnam’s
+growing high-tech and electric mobility sectors.
+
+T ogether, these initiatives integrate global partnerships,
+advanced training, and local capacity-building into a single,
+people-centered growth strategy.
+Investing in the People Who Power Our Journey
+We deepened our governance and supply chain integrity by rolling out the initiatives in 2024:
+Building a Foundation of Global Trust
+SUPPL Y CHAIN
+• A formal supplier ESG due diligence framework, now adopted by
+80% of Tier 1 suppliers.
+• A refreshed Code of Conduct, acknowledged by 100% of our
+global workforce and key partners.
+• Ethics & compliance: Trained 100% of employees on anticorruption
+and human rights.
+• Data stewardship: In 2024, we initiated the transformation of
+our governance, risk, and compliance tool into a more effective,
+scalable platform to strengthen supplier transparency and ESG
+risk management.
+• Signed a cooperation agreement with Bosch, one of the world’s
+leading automotive technology and service providers, through which
+VinFast car owners can use Bosch’s network of 700,000 charging
+ports in 30 European countries.
+ST AKEHOLDER ENGAGEMENT
+• In 2024, VinFast deepened stakeholder engagement through
+strategic collaborations. We hosted leaders from eight Vietnamese
+localities at our Hai Phong Plant to exchange insights on green
+mobility, in a program organized by ADB with support from the
+Australian Embassy.
+• We also signed an agreement with seven major insurance partners
+to streamline plan approvals, enhancing customer after-sales
+experience in line with our ‘Customer-centric’ philosophy.”
+
+## Page 28
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+28
+From Strategy to Impact:
+Our 2024 Progress and 2025 Commitments
+VinFast’s 2025 plans and commitments
+• We aim to train our employees in Anti-bribery and COC-
+related matters.
+• We are aiming to establish a CHESS committee
+(Community, Health, Environment, Safety and
+Sustainability Committee) at VFVN.
+• Achieve ESG-related ISO certifications at Hai Phong Plant.
+GOVERNANCE
+ESG policy & reports
+implemented and communicated.
+100%
+• We aim to have
+SOCIAL
+• Continue to maintain the ISO 45001:2018 system at the
+Hai Phong Plant.
+• Conflict minerals report: Continue data collection and
+risk mapping, draft report.
+New hires complete
+Diversity and Inclusion
+training in 2025.
+100%
+• We aim for
+Tier 1 suppliers sign their
+commitment to comply with
+VinFast Supplier COC and
+Sustainable Sourcing Policy.
+100%
+• We are working toward having
+• Complete solar installation (Phases 1 & 2) and ensure
+grid commissioning at the Hai Phong Plant:
+ > Phase 1: T otal capacity 16,135 MWh peak.
+ > Phase 2: T otal capacity 14,574 MW peak.
+• We aim to use recycled and reused materials at the Hai
+Phong Plant:
+ > 10% recycling for plastic parts of the EVs and 10%
+for E-scooters.
+ > Plastic bags: Return rate >30%.
+• Aiming to replace R410A and R22 AC units with R32 units,
+which offer higher energy efficiency and lower GWP.
+• We are aiming to conduct LCA for 2025 inventory data.
+ENVIRONMENT AL
+New hires to
+complete ESG
+awareness training.
+• We aim for• We aim to reuse
+treated wastewater at
+the Hai Phong Plant.
+100%10%
+through solar energy generation
+and energy-efficiency projects.
+~10,000
+Avoid
+tCO2e
+
+## Page 29
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+29
+Sustainability-Related Risks and Opportunities (SRROs)
+– Strategic driving factors
+VinFast’s management discusses strategic and
+operational risks and opportunities at regular meetings
+and review sessions, through which we have identified
+key sustainability-related risks as follows:
+Besides, VinFast also recognizes sustainability-
+related opportunities:
+• Physical climate risk (floods, typhoons) threatens our Hai Phong
+Plant, logistics hubs, and supplier operations.
+• Battery safety hazards, with potential thermal runaway incidents
+leading to recalls and reputational harm.
+• EV adoption barriers, including charging infrastructure gaps,
+range anxiety, and macroeconomic headwinds.
+• Transition policy risk, as governmental incentives in Vietnam,
+India, and Indonesia may be altered or phased out.
+• Supply chain dependency risk, especially for semiconductors
+and critical minerals subject to geopolitical volatility.
+• Governance and reputational risk, arising from related party ties
+to Vingroup and evolving expectations for board independence.
+• T alent and succession risk, given global competition for EV
+engineers and manufacturing experts.
+• Cybersecurity and data privacy risk, as connected vehicles and
+digital platforms expand our attack surface.
+• Human rights in the upstream supply chain: The reputational
+and legal risks associated with ethical sourcing in the mining of
+raw materials for batteries.
+• Raw material price volatility: The financial risk posed by significant
+price fluctuations in key commodities like lithium and nickel.
+• Expanding EV charging infrastructure via partnerships (e.g.,
+V-Green, ChargePoint) to accelerate market adoption.
+• Favorable policy incentives, from Vietnam’s 0% EV corporate tax
+to Indonesia’s reduced V A T , underpin our global rollout economics.
+• Global manufacturing expansion, creating thousands of direct
+and indirect jobs in Vietnam, India, Indonesia, and planned
+U.S. facilities.
+• Circular economy initiatives, such as battery-to-battery
+recycling pilots and eco-design of next-generation platforms.
+• Strengthening brand reputation through community
+partnerships, such as EV driver training in the UAE and Mexico,
+environmental education programs, and support for green urban
+mobility, building trust in both mature and emerging markets.
+• Boosting employee commitment and retention through
+inclusive leadership development programs (e.g., Women in EV
+Leadership), localized talent pipelines, and clear career mobility
+pathways across regions.
+• Accelerating R&D and product innovation  by incorporating
+feedback from key markets and stakeholders and supporting
+region-specific features.
+• Creating jobs and developing the skills of local communities,
+vocational training programs, prioritizing local recruitment,
+supporting livelihoods, and health care. These initiatives help
+reduce unemployment, improve labor capacity, and community
+well-being.
+
+## Page 30
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+30
+Sustainability
+Governance & Oversight
+Embedding Responsibility
+from the T op Down
+Our ESG governance framework reflects the belief that responsible
+growth, climate leadership, and stakeholder accountability are
+fundamental to delivering long-term value. Oversight is exercised
+at the highest levels of our corporate structure and operationalized
+across cross-functional teams globally.
+We have structured our sustainability governance in accordance
+with international good practices and aligned it with the principles
+of GRI and TCFD standards. Our governance mechanisms are aimed
+to ensure that our ambition to reach net-zero by 2040 is underpinned
+by real accountability and transparent reporting. This section
+outlines the specific structures and processes dedicated to guiding
+and overseeing VinFast’s sustainability strategy and performance.
+Our broader corporate governance framework —detailing ethics,
+compliance, and risk management—is further elaborated in Part 6.
+
+## Page 31
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+31
+Corporate
+social
+responsibility
+specialist
+Occupational
+Health & Medical
+Specialist
+Environmental
+Specialist
+ESG COORDINA TOR VINFAST
+ EHS TEAM LEADER
+ESG COORDINA TOR VINGROUP
+ESG DIRECTOR
+David Edgar Falcon Adasme
+ESG CHIEF ANAL YST
+Manager
+Management’s Role in
+Operationalizing Sustainability
+Day-to-day execution of our sustainability commitments is driven
+by the CEO, supported by a dedicated ESG function:
+T o operationalize our strategy, we have established dedicated
+functions with clear roles and responsibilities, led by our
+ESG Director, Mr. David Edgardo Falcon Adasme. The ESG
+Director is expected to establish a direct line of communication
+and accountability to the highest levels of governance. This
+structure is designed to bridge high-level strategy with practical
+implementation: a direct line of communication and accountability
+to the highest levels of governance. This structure is designed to
+bridge high-level strategy with practical implementation.
+The ESG function holds the primary strategic responsibility
+for all of the company’s environmental, social, and governance
+initiatives. Their key duties include:
+The EHS function is focused on the operational and practical
+implementation of environmental, health, and safety standards
+within the company. Their main responsibilities are:
+ESG (ENVIRONMENT , SUST AINABILITY , GOVERNANCE)
+EHS (ENVIRONMENT , HEAL TH, SOCIETY)
+Dedicated ESG and EHS Functions
+Strategy and Policy
+Support the development of the long-
+term ESG strategy, goals, and policies in
+collaboration with the Board of Directors,
+integrating global standards and
+frameworks.
+Operational Programs
+Initiating and guiding EHS control
+programs, particularly in operational
+areas like manufacturing shops.
+Implementation and Monitoring
+Training
+Gathering data, overseeing implementation
+across all divisions, monitoring performance
+against goals, and ensuring compliance.
+Preparing and conducting EHS training for
+all employees and contractors.
+Reporting and Communication
+Compliance and Documentation
+Managing all public ESG reporting and
+disclosures, acting as the company’s
+subject matter expert, and communicating
+with internal and external stakeholders like
+investors, the board, and employees.
+Preparing the necessary reports and
+documents to ensure the company complies
+with all EHS regulations.
+Auditing and Finance
+Audits and Assessments
+Conducting audits, re-evaluating the strategy
+against market trends, and assessing criteria
+for financial opportunities like green bonds.
+Working directly with stakeholders like lenders
+and investors during audits and due diligence.
+
+## Page 32
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+32
+Management’s Role in Operationalizing Sustainability
+Annual Management Review Reports serve as a critical mechanism
+for this integration, ensuring that ESG performance and evolving
+factors directly inform our operational and strategic direction.
+During these reviews, the Management team, including the Deputy
+CEO (DCEO) of Manufacturing, the Director of ESG, and the Director
+of Global Manufacturing Quality, as relevant, meticulously assesses
+changes in both external and internal contexts that pertain to ESG.
+This includes evaluating our performance against annual ESG
+targets and objectives embedded within our core management
+systems: the Environmental Management System (EMS), the
+Occupational Health and Safety (OHS) Management System, and
+the Quality Management System (QMS).
+Through this systematic review process, ESG targets, performance data, identified risks and opportunities, and stakeholder feedback are not treated as ancillary considerations but are actively integrated
+into the core of our operational management and strategic planning. This ensures that VinFast’s growth, particularly our global expansion, is pursued in a manner that is responsible, resilient, and aligned
+with our long-term sustainable value creation objectives.
+Integration through Management Review Report Content
+EMS Management Review Report
+• Conducted annually
+• Reviewed by the DCEO of Manufacturing and the
+Director of ESG
+Review the environmental and social factors such as compliance with EIA
+and EMS by ISO 14001:2015; as well as the adequacy of resources (HR,
+financial and facility).
+In 2024, some issues were identified: the delay in legal procedures for the
+installation of rooftop solar power, as well as the delay in replacing more
+environmental-friendly refrigerants. These projects are expected to be
+completed in 2025.
+OHS Management Review Report
+• Conducted annually
+• Reviewed by the DCEO of Manufacturing
+VinFast continued to manage OHS rules and regulations by reviewing
+compliance in accordance with ISO 45001:2018 and relevant OHS aspects
+of ISO 14001:2015.
+In 2024, the Company updated procedures to adhere to new changes in
+regulations concerning fire prevention and fighting, chemical safety, and
+the handling of dangerous goods.
+Additionally, based on workplace environment monitoring, the Company
+improved working conditions through better ventilation, additional cooling
+fans, noise-canceling protection, and increased inspections in high-
+risk areas. Opportunities for improvement include further integrating
+OHS and environmental management systems by utilizing shared tools
+and procedures and reinforcing a safety culture as part of VinFast’s
+sustainability strategy.
+Quality Management Systems Review Report
+• Conducted biannually
+• Reviewed by the DCEO of Manufacturing and the
+Director of Global Manufacturing Quality
+In 2024, VinFast focused on establishing, managing, maintaining, and
+continually improving its QMS in accordance with ISO 9001 standards
+across the entire company.
+A significant development was the establishment of a global manufacturing
+quality unit to oversee quality at its plants in Vietnam, Indonesia, India, and Ha
+Tinh. The Company also streamlined and restructured its documentation
+system to align with regulatory changes and enhance efficiency. A key
+aspect of the review involved assessing customer satisfaction and
+stakeholder feedback. During the year, VinFast received and resolved
+nine complaints from the local community concerning relocation, natural
+disasters, environmental issues, and construction, with active monitoring
+by both VinFast and local authorities.
+Furthermore, the Company’s management reviewed departmental quarterly
+quality reports, vehicle conformity assessments, and risk and opportunity
+assessments related to quality. Key outputs from this management review
+include restructuring the Quality team to support global operations,
+reallocating Quality Engineering (QE) resources to focus more intensely
+on warranty issues and improvements, enhancing competency for quality
+personnel, and driving improvements in supplier performance.
+
+## Page 33
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+33
+ESG Materiality: Focusing on What Matters
+At VinFast, focusing on the issues that matter most is a cornerstone
+of our sustainability strategy. We conduct a dynamic and structured
+materiality assessment that serves as a strategic bridge,
+connecting our business objectives with the evolving landscape
+of Sustainability-Related Risks and Opportunities (SRROs) and the
+valuable perspectives of our stakeholders.
+By systematically identifying and prioritizing our most significant
+environmental, social, and governance (ESG) impacts, we aim for
+our efforts to be focused, impactful, and aligned with stakeholder
+expectations. This process is designed to guide our strategic pillars
+and targets, helping us to effectively allocate resources, manage
+risks, and capture opportunities. The following sections detail the
+rigorous methodology we use to determine what is truly material
+to VinFast’s long-term, sustainable value creation.
+
+## Page 34
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+34
+VinFast conducts a comprehensive Materiality Assessment to
+identify and evaluate the ESG topics that have the most significant
+actual or potential impacts on our business and our stakeholders.
+T o ensure our process is robust and considers globally recognized
+priorities, our assessment is informed by the principles and topics
+outlined in leading sustainability frameworks. These include
+guidance from the GRI on impact materiality, the TCFD on climate-
+related risks, the UN SDGs on global priorities, and themes from
+CDP disclosures.
+VinFast conducted extensive research on standards,
+regulations, and industry benchmarks to identify key
+sustainability topics with the greatest impact across the
+value chain. As a result, 16 relevant sustainability topics
+were selected for impact assessment and scoring.
+STEP 1
+STEP 2
+STEP 3
+Identification of ESG material issues
+Internal assessment and prioritization
+Finalization of the ESG Materiality matrix
+Upon completing the list of ESG material topics, VinFast
+conducted an impact assessment for each identified
+topic. This was done to determine its significance and
+assign corresponding scores.
+Each topic’s impact score was assigned based on
+impact and likelihood evaluated by our internal experts.
+In addition, VinFast gathered feedback by sending the
+ESG materiality matrix to external stakeholders. The
+stakeholders surveyed during this process are:
+Internal
+06 key departments—ESG; Production Planning &
+Control; Community Relations; Training; Data Protection
+& Privacy; Safety; and from our Ha Tinh, Indonesian,
+and Indian plants.
+External
+04 material stakeholder groups, including representing
+Lenders/Investors, Suppliers and Community
+representatives from Affected households and Local
+authorities.
+Feedback from both internal and external stakeholders
+was integrated into the final 2024 Materiality Matrix,
+grouping topics by category and plotting them by
+significance to VinFast and to stakeholders.
+The matrix was reviewed and approved by our Board
+of Directors, ensuring that it guides our ESG strategy,
+resource allocation, and performance tracking in the
+year ahead.
+This process enables VinFast to prioritize the most relevant sustainability issues, better understand stakeholder expectations, and enhance long-term business value. Material ESG topics are reviewed
+and updated annually to reflect changes in our business context and stakeholder priorities. The 2024 assessment followed a structured methodology comprising the following key steps:
+Our ESG Materiality Assessment Process:
+A Rigorous and Inclusive Approach
+
+## Page 35
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+35
+Water and waste water
+management
+Environment topics
+Socioeconomic Contribution
+and Community Engagement
+Product Governance
+and Innovation
+Corporate Governance
+Climate change management Operational GHG Emissions & Efficiency
+Sustainable supply chain management
+Human Capital Management and
+Diversity, Equity, and Inclusion
+Inclusive energy transition
+Customer relationship management
+Stakeholder engagement
+Data Protection, Privacy,
+& Cybersecurity
+Waste management and recycling
+Occupational Health & Safety
+Material Issues
+Impact on VinFast
+2.5
+4
+5
+3.5 4.5
+Stakeholder interests
+Governance topics
+Social topics
+Based on our 2024 ESG Materiality Assessment, VinFast
+has identified the following ESG topics as the most material
+to our business and our stakeholders. These topics form
+the core focus of our sustainability strategy, performance
+management, and this report. For each topic, we define
+its boundary – indicating where the impacts occur (within
+VinFast’s own operations, upstream in our supply chain,
+or downstream with our customers and products). We
+will also describe our approach to managing them in the
+corresponding reporting sections below.
+Graph 1: VinFast’s 2024 Materiality matrix
+Our ESG Material T opics for 2024 and Their Boundaries
+
+## Page 36
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+36
+Our ESG Material T opics for 2024 and Their Boundaries
+T able 1: VinFast’s 2024 Material issues and alignment with UN SDGs
+Material issue Description and alignment
+Operational GHG
+Emissions &
+Efficiency
+It focuses on managing and reducing greenhouse gas emissions from
+VinFast’s direct operations (Scope 1) and purchased energy (Scope
+2). This entails our dual strategy of enhancing energy efficiency and
+increasing the use of renewable energy sources.
+Climate change
+management
+This topic covers how VinFast identifies, assesses, and manages
+climate-related risks and opportunities to ensure business resilience.
+It also focuses on reducing greenhouse gas emissions across the
+product lifecycle, from the supply chain and production to use and
+end-of-life.
+Waste management
+and recycling
+This topic outlines VinFast’s approach to material efficiency,
+responsible waste management, and circularity. It includes minimizing
+scrap, opting for more responsible waste treatment, safe waste
+handling, and promoting recycling and reuse—especially for EV
+batteries—to reduce landfill and resource depletion.
+Inclusive energy
+transition
+This topic reflects VinFast’s role in facilitating a broader societal
+shift towards sustainable transportation by making electric mobility
+accessible, practical, and equitable, including the deployment of
+charging infrastructure and stakeholder engagement to promote EV
+adoption.
+Water and
+wastewater
+management
+This topic focuses on the responsible use of water resources in
+operations, particularly in manufacturing. This includes monitoring
+water withdrawal and consumption, implementing water efficiency
+and recycling initiatives, and ensuring wastewater treatment meets or
+exceeds regulatory standards before discharge.
+Material issue Description and alignment
+Human Capital
+Management and
+Diversity, Equity,
+and Inclusion
+This topic covers attracting, developing, and retaining a skilled
+workforce while fostering a fair, equitable, and inclusive workplace.
+This includes talent management, training, compensation, employee
+well-being, promoting diversity, ensuring equal opportunities, and
+cultivating an inclusive culture.
+Occupational
+Health & Safety
+This topic addresses our commitments to building a safe working
+environment through robust OHS systems, risk controls, safety
+training, and incident prevention, particularly in manufacturing.
+Socioeconomic
+Contribution
+and Community
+Engagement
+This topic covers VinFast’s positive impacts on the economies and
+communities where we operate. This includes job creation, tax
+contributions, community investments, managing operational impacts,
+and engaging in dialogue with local stakeholders.
+Customer
+relationship
+management
+This topic focuses on building and maintaining strong, trust-based
+relationships with customers throughout their journey, ensuring
+satisfaction through effective communication, feedback mechanisms,
+complaint resolution, and service excellence.
+Material issue Description and alignment
+Product
+Governance and
+Innovation
+This topic focuses on the governance structures ensuring the safety,
+quality, regulatory compliance, and ethical considerations of VinFast’s
+products and services, while simultaneously driving innovation in
+electric mobility.
+Corporate
+Governance
+This topic covers VinFast’s internal operational and control frameworks,
+encompassing the mechanisms, policies, and practices that govern
+management and direct the company. This includes how corporate
+governance and business ethics practices impact investors and
+involves assessments across key governance issues.
+Stakeholder
+engagement
+This topic covers how VinFast identifies, engages with, and manages
+the impacts on key stakeholders across our value chain.
+Data Protection,
+Privacy, &
+Cybersecurity
+This topic addresses the protection of sensitive customers, employees,
+and corporate data, and the security of digital systems and connected
+vehicles. This includes privacy policy implementation, compliance with
+regulations, cybersecurity measures, and incident management.
+Sustainable supply
+chain management
+This topic describes how VinFast manages supplier ESG risks and
+promotes responsible sourcing. It focuses on human rights, ethical
+procurement of high-risk materials (e.g., battery minerals), and the
+integration of ESG into supply chain governance.
+Environment Social Governance
+
+## Page 37
+
+VinFast’s 2024 Sustainability Report Driving Value – Our Strategy for Sustainable GrowthChapter 2
+37
+VinFast recognizes that our long-term success depends on active, two-way engagement with those we impact on and who impact us. Our stakeholder engagement
+approach is designed to build trust, identify emerging risks and opportunities, and co-create solutions that deliver shared value.
+We categorize our stakeholders into six primary groups, each with distinct concerns and engagement channels - T able 2: Stakeholder engagement of VinFast
+Engaging Our Stakeholders
+for Shared Value
+Material issue Stakeholder concerns Our approach Main activities
+Shareholders
+and investors
+• Business performance.
+• Dividend payment.
+• Corporate governance.
+• Transparency and regulatory compliance.
+• Environmental and biodiversity impact.
+• Supply chain management.
+• Human resource management.
+• Community engagement.
+• Conduct annual general meetings of shareholders to address legally
+required matters.
+• Issue press releases related to relevant topics.
+• Disclosure quarterly key financial results.
+• Disclose strategy, business operations, financial results and sustainable developments.
+• Publish Sustainability reports and disclosures referencing to GRI/ISSB/SASB/TCFD standards.
+• Conducted corporate presentation for investors.
+• Strengthen communication on strategic matters, including ESG.
+Customers • Commitment to product and service quality.
+• Easy access to product and service information through channels.
+• Support with accurate information and quality advice to make decisions on products and services.
+• Ensuring health and safety.
+• Good customer care, quick and convenient complaint and warranty resolution, clear terms.
+Direct interaction with customers through:
+• Customer service in Vietnam (24/7):
+    1900 23 23 89 /  support.vn@VinFastauto.com
+• Speak -up hotline in Vietnam:
+    (+84)24 4458 2193/ v.speakup@VinFast.vn
+• Customer service hotline in Global:
+     1 833 503 0600/ info.us@VinFastauto.com
+• Provide transparent product and safety information through accessible digital channels.
+• Operate 24/7 customer care centers with multilingual support and a trained rescue team.
+• Conduct regular customer satisfaction surveys and Net Promoter Score (NPS) evaluations.
+• Use customer feedback to co-develop features and inform product R&D, especially on EV usability
+and eco-design.
+Local
+communities
+• Environmental, climate, wastewater, and waste energy issues.
+• Community engagement, volunteering.
+• Employment and labor.
+• Economic development, local infrastructure.
+• Meetings, conferences, forums and dialogues with communities and
+regulatory agencies in Vietnam.
+• Volunteering, philanthropic investment in Vietnam.
+• Conduct regular community dialogues and needs assessments in Vietnam and other key markets.
+• Implement and monitor CSR programs targeting education, healthcare, environment, and
+livelihoods.
+State
+management
+agencies
+• Compliance with environmental, climate, waste and energy laws.
+• Employment and labor.
+• T axes.
+• Compliance with anti-corruption laws.
+• Contribution to the development of public policies.
+• Comply with and lead the implementation of new regulations.
+• Contribute ideas to build legal documents.
+• Facilitate the exchange of information and experience.
+• Trade associations and public policy organizations.
+• Comply and lead the implementation of new regulations related to ESG and EV .
+• Proactively contribute to drafting and reviewing legislation related to ESG and mobility.
+• Submit relevant sustainability compliance reports.
+• Raise awareness and understanding of the law in the business community to promote the
+implementation of sustainable development goals.
+• Exchange information and respond promptly to the sustainability issues in both VinFast and locally.
+Employees • Competitive salaries and benefits.
+• Diverse and comprehensive employment opportunities.
+• Opportunities to learn and grow.
+• Health and safety.
+• Employee benefits.
+• T eam meetings, social media.
+• Management emails and letters.
+• Hotlines.
+• Personal and professional development training in Vietnam.
+• Issue regulations and guidelines on the working environment.
+• Build a desirable working environment.
+• Provide competitive pay, performance incentives, and comprehensive benefits.
+• Conduct regular learning and development programs (technical and soft skills) in Vietnam.
+• Operate platforms for internal communication, recognition, and grievance mechanisms.
+• Roll out DEI and wellness programs in Vietnam and gather employee feedback to inform HR
+policies.
+Suppliers and
+Partners
+• Environmental impacts.
+• Human rights.
+• Raw materials.
+• Supplier diversity.
+• Supply chain management.
+• Transparency and disclosure.
+• Establish a comprehensive, responsible supply chain management
+framework, including the Supplier Code of Conduct.
+• Hotline in Vietnam: (+84) 98 842 8787.
+• Meetings, conferences (including online and offline).
+• Periodic evaluation.
+• Collaborate with suppliers to enforce global responsible business practices and Supplier Code of
+Conduct.
+• Exchange of knowledge and information relating to sustainability and process improvements to
+strategic suppliers.
+• Promote fair business practices and encourage adoption of sustainability standards.
+
+## Page 38
+
+03
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+38
+38 Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3VinFast’s 2024 Sustainability Report
+Climate Strategy
+& Resilience
+CHARTING A NET -ZERO P A TH
+Climate Strategy
+Climate Governance
+Climate Risk Management
+Tracking Our Net-Zero Strategy Execution
+40
+48
+51
+52
+
+## Page 39
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+39
+VinFast’s Commitment to Climate Action
+VinFast recognizes that climate change is one of the
+most urgent and complex challenges of our time,
+bringing both risks and opportunities for our business,
+stakeholders, and the global community. Guided by
+our mission of “Creating a more sustainable future
+for everyone” , we view VinFast not merely as a
+business endeavor but as a long-term commitment
+to environmental protection and people’s health.
+We are committed to taking a leadership role in the
+transition to a low-carbon economy, with the goal of
+achieving carbon neutrality across our entire value
+chain, including our vehicles, operations, and supply
+chain, by 2040, a full decade ahead of the timeline
+set by the Paris Agreement.
+VinFast first joined The Climate Pledge in August 2022, signaling
+our intent to move decisively on climate. Through 2023 and 2024,
+we focused on building the foundations for a robust strategy—
+establishing baselines, enhancing emissions measurement, and
+embedding climate considerations across our operations and
+supply chain. This groundwork culminated in the formal launch
+of our Climate Strategy in early 2025, anchored in the Mission
+3E and aligned with global standards (TCFD, IFRS S2, and GRI).
+Against the 2022 baseline, our commitments are to:
+This strategy positions climate action as a core component of
+VinFast’s business and sustainability agenda. It reflects not only
+our Net Zero 2040 ambition but also our commitment to supporting
+Vietnam’s Nationally Determined Contribution (NDC), which
+calls for 100% of road transport vehicles to transition to electricity
+or green energy by 2050. Through our comprehensive EV portfolio
+and nationwide charging infrastructure, we are contributing the
+products and systems essential to achieving this national and
+global vision.
+With these efforts, VinFast is confident in its ability to deliver on its
+role as a catalyst for the global smart EV revolution, while creating
+lasting value for customers, communities, and the planet.
+T o achieve these goals, VinFast is
+taking decisive actions, including:
+• Investing in renewable energy, energy efficiency, material reduction, and other
+strategies to directly eliminate carbon emissions.
+• Utilizing high-quality carbon offsets that are measurable, verifiable, durable, and
+deliver positive social impact to neutralize any remaining emissions by 2040; and
+• Consistently measuring and transparently reporting our GHG emissions.
+Creating a more sustainable
+future for everyone
+of GHG
+emissions85%
+of emissions through credible and
+socially beneficial carbon offset
+mechanisms.
+15%
+million tons of
+CO2e by 204017
+Reduce at least Neutralize the remaining
+Equivalent to
+Cover Scopes 1, 2, and 3 emissions
+through a transparent and
+measurable transition roadmap.
+
+## Page 40
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+40
+Climate Strategy
+VinFast’s Net Zero strategy, rooted in the Mission 3E, is embedded
+across our business model, value chain, and long-term plans - aiming
+to proactively manage climate risks while capturing opportunities
+in the low-carbon economy.
+The GHG emissions inventory and reporting are conducted in
+accordance with the ‘The Greenhouse Gas Protocol: A Corporate
+Accounting and Reporting Standard – Revised Edition’ (the
+“GHG Protocol”), the complementary ‘Corporate Value Chain
+(Scope 3) Accounting’ and apply the available information from
+country of manufacturing (Vietnam).
+The Science Based T argets initiative (“SBTi”) provides a
+framework for companies to set ambitious, yet achievable GHG
+emissions reduction targets, aligned with climate science of
+reaching the 1.5°C target. The SBTi approach covers the target-
+setting process, which involves establishing both short-term
+and long-term goals that encompass operational (Scope 1 & 2)
+and value chain (Scope 3) emissions.
+Science-Based
+T argets Initiatives
+(SBTi) Alignment
+Approach and methodology
+
+## Page 41
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+41
+Graph 2: Minimum SBTis-aligned targets for emission scopes 1, 2 and 3
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+-
+2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040
+Scope 1 Scope 2 Scope 3 w/o Cap 11 Scope 3 Cap 11Note: For more information refer Appendix 2
+VinFast follows a science-based approach to climate action,
+aligned with the Science-Based T argets initiative (SBTi), to
+reduce emissions across operations and its value chain.
+VinFast’s Science-Based Pathway to a
+Net-Zero Future
+T able 3.  Mitigation potentials compare to the SBTi’s near-term and long-term (Net-Zero) target
+Near-term 2030 Long-term  (Net-Zero by 2040)
+Near-term target VinFast -  Planned VinFast Additional
+measures
+Long-term (Net-
+Zero) target VinFast -  Planned VinFast Additional
+measures
+Scope 1 42% 2% 11% 100% 2% 11%
+Scope 2 42% 82% 0% 100% 82% 0%
+Scope 3 29% 0% 85% 100% 0% 85%
+Science-Based T argets Initiatives (SBTi) Alignment
+Using 2022 as the baseline, VinFast aims to:
+• Reduce Scope 1 and 2 emissions by 42%
+• Reduce Scope 3 emissions by 29%
+These reductions will be driven by energy efficiency, renewable
+energy adoption, supplier engagement, and increased use of
+low-carbon materials.
+Near- T erm T argets (by 2030)
+VinFast is committed to achieving Net-Zero emissions across
+Scopes 1, 2, and 3 by 2040 through expanded renewable energy
+use, low-carbon technologies, and value-chain collaboration.
+Residual emissions will be addressed through credible carbon-
+removal solutions.
+Long- T erm T arget (Net Zero by 2040)
+
+## Page 42
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+42
+As a company in a phase of rapid global expansion, our primary
+challenge is to decouple our business growth from emissions.
+Projections based on our planned business scale-up—reaching
+a maximum production capacity of 500,000 cars, 3,000 buses,
+and 1,000,000 motorbikes—indicate that without significant
+intervention, our emissions could peak at 20.1 million tCO2e, a
+20-fold increase from our 2022 baseline.
+While external factors like the decarbonization of Vietnam’s national
+grid (as per Power Development Plan VIII) offer significant potential
+to reduce our future emissions, a substantial gap remains between
+our growth trajectory and our science-based targets. This gap
+defines the scale of our climate action imperative.
+The Scale of Our Challenge:
+Balancing Growth and Decarbonization
+Science-Based T argets Initiatives
+(SBTi) Alignment
+500,000 cars
+3,000 buses
+1,000,000 motorbikes
+T o bridge this gap and meet our targets, we have developed a clear
+mitigation strategy that prioritizes direct emissions reductions
+while acknowledging the need to neutralize residual emissions.
+For a detailed comparison of mitigation potentials against SBTi’s
+near-term and long-term net-zero targets, as well as an overview
+of our planned measures, please refer to Appendix 2.
+Our Mitigation Strategy and
+SBTi-aligned approach
+Graph 3: Mitigation potentials of VinFast’s measures
+10
+0
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Scope 1 Scope 2 Scope 3 T otal
+100%
+2%
+87%
+11%
+42%
+100% 100% 100%
+18% 16%
+15%
+82% 85% 77%
+0% 7%
+42%
+29%29%
+Our overarching strategy is to prioritize direct emissions
+abatement. In 2026, we will continue with the next GHG inventory
+cycle and evaluate the effectiveness of implemented emission
+reduction measures. We commit to neutralizing any final,
+technologically infeasible residual emissions across all scopes
+through certified, high-integrity carbon removal projects to
+achieve a Net Zero by 2040.
+Scope 1 (Direct Emissions)
+With a total identified reduction potential of only 13% from current
+and additional measures, a significant gap remains to our targets.
+Closing this will require future technological innovation and, to
+fulfill our Net Zero commitment, the neutralization of these hard-
+to-abate residual emissions through high-quality carbon removal
+projects (offsets).
+Scope 2 (Indirect Emissions from Electricity)
+We have a clear pathway to meet our near-term target, with planned
+renewable energy initiatives capable of reducing emissions by 82%.
+Achieving our long-term Net Zero goal will require scaling these
+solutions to address the final 18% of residual emissions.
+Scope 3 (Other Indirect Emissions)
+While this is a new area of focus, our initial analysis shows a potential
+to reduce emissions by 85% through value chain engagement. This
+meets our near-term target, and our long-term strategy will focus
+on closing the remaining 15% gap.
+Our current maximum production capacity
+Planned mittigation measuresAdditional measuresRemaining Emission
+Long-term Near-term
+
+## Page 43
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+43
+Net-Zero Strategy
+Solar Energy
+Battery TechnologySmart Energy
+Strategic Cooperation
+Electriﬁcation
+VinFast NetZero
+Strategy
+Energy Saving
+Energy Greening
+• Promote EV adoption among urban citizens and
+employees.
+• Expand charging infrastructure at key transit and
+urban locations.
+• Embed energy efficiency into company culture and
+employee KPIs (from 2025).
+• Install smart systems to monitor and manage energy
+consumption by 2028.
+• Implement carbon governance: product carbon
+footprinting, internal carbon pricing, and carbon
+credit trading.
+Energy greening is core to VinFast’s sustainable future vision and values, supporting SDG7, SDG12, SDG13,
+and SDG8. Key actions:
+• Prioritize renewable energy procurement for all
+facilities.
+• Invest in rooftop solar for factories and charging
+stations.
+• Scale BESS to support renewable integration and
+optimize energy use.
+• Transition all machinery, logistics, and operations
+(except aviation) to electric by 2030.
+• Continue research, develop and deliver quality,
+advanced, and safe BESS solutions.
+• Invest in energy-optimizing solutions for electricity and
+LPG.
+• Promote localization to reduce emissions and improve
+supply chain resilience.
+Energy saving aligns with Vingroup’s governance principles and supports environmental protection (SDG13),
+innovation (SDG9), and knowledge development (SDG4). Key actions:
+• Encourage suppliers to use recyclable, low-emission
+materials.
+• Raise awareness on the benefits of EVs, BESS, and
+renewable energy in contributing to reducing carbon
+emissions.
+Electrification is central to VinFast’s business and climate strategy, supporting cleaner cities (SDG11), climate action
+(SDG13), and sustainable economic growth (SDG8). Key actions:
+Electrification
+Energy saving
+Energy greening
+MISSION 1E
+MISSION 2E
+MISSION 3E
+VinFast’s ambitious goal to achieve Net-Zero
+emissions by 2040 is underpinned by a clear and
+actionable strategy: the 3E Mission – Electrification,
+Energy Saving, and Energy Greening. This mission
+addresses our entire value chain and aligns our
+business objectives with global sustainability
+imperatives. The success of our 3E Mission is
+propelled by key Drivers: Solar Energy, Battery
+T echnology, Smart Energy, and Strategic
+Cooperation.
+
+## Page 44
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+44
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040
+Remaining Emission - Non Electric Remaining Emission - Electric RE for factory RE for charging EE - LPG
+EE - Electric Recycle material FS for vehicle Friendly refrigerants SBTi minimum target
+Near - T erm Long - T erm
+Remaining
+emissions
+Emission reduction
+Decarbonization Plan
+T echnical solutions involve the adoption
+of advanced technologies, optimization of
+operational processes, and innovation in
+product development to directly reduce
+greenhouse gas emissions. These solutions
+are informed by VinFast’s  technical
+expertise and experience, aligned with
+national measures outlined in Vietnam’s
+NDC, international practices from industry
+peers, and results from VinFast’s GHG
+inventory and Decarbonization plan.
+In order to ensure the success of our strategy, the solutions proposed under the “Mission 3E” in VinFast’s Comprehensive Net Zero
+Strategy are categorized into (i) technical solutions and (ii) administrative solutions.
+Administrative solutions focus on
+implementing supportive policies,
+organizational adjustments, and
+effective management practices to
+enable and sustain long-term emission
+reduction efforts.
+Actions include but are not limited to:
+• Set KPI for all departments and employees
+on energy saving.
+• Enhance capability on energy saving,
+energy greening (internally and externally).
+• Promote and support suppliers in setting
+up the GHG emission reduction KPIs.
+• Set up monitoring and reporting as well
+as establishing internal KPI mechanisms
+related to energy saving and carbon
+reduction.
+• Promote localization.
+• Promote the elimination of fossil-fueled
+vehicles for logistics and transportations.
+• Implement management standards
+such as ISO 50001 (Energy Management
+system) or LCA (Life Cycle Assessment).
+Scope T echnical Mitigation potential
+Scope 1
+Energy efficiency - LPG
+Fuel switch for vehicle in manufacturing
+Friendly refrigerants
+Scope 2
+Renewable energy for factory
+Energy efficiency - Electric
+Scope 3
+Low carbon material
+Renewable energy for charging
+Other
+GHG Inventory and carbon footprint quantification
+Set up internal carbon price
+Particitpate in the carbon credit market
+Net-Zero Strategy
+Graph 4: Illustration of VinFast’s decarbonization roadmap based on technical solutions
+
+## Page 45
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+45
+Foundation & Strategy Activities
+Core Operational Activities
+Inbound Logistic
+& Responsible Sourcing Operation & Manufacturing Outbound Logistic
+& Distribution
+Marketing, Sales
+& Customer Experience
+Service, After-Sale
+& Ecosystem Management
+Corporate strategy, Governance & Finance
+T echnology, Research & Sustainable Design
+PROFIT
+R1, 3, 5, 6
+R2, 4, 7, 8 R2, 4, 7, 8 R2, 4 R5R1 - 4 R6 - 8
+O3, 4
+O1, 2R6
+O2 O1 O1, 2
+Climate Risk and Opportunity
+VinFast assesses the impacts of climate change on our business and integrates climate considerations into both the Net Zero strategy and the risk management processes.
+T o navigate the complexities of climate change, we have identified, assessed, and managed
+our climate-related risks and opportunities. Our approach is referenced to the globally
+recognized frameworks of IFRS S2 (Climate-related Disclosures) and the TCFD.
+We analyze these factors across three critical time horizons to inform both our immediate
+actions and long-term strategy:
+Our analysis categorizes these factors
+into three distinct types to ensure a
+comprehensive response:
+• Transition Risks:  Arising from the global shift
+toward a low-carbon economy, including evolving
+regulations, technological shifts, and changing market
+expectations.
+• Physical Risks: Arising from the acute and chronic
+impacts of climate change on our infrastructure,
+While our top priorities are continuously monitored, a detailed analysis of our principal climate-related risks
+and opportunities for the reporting period—along with our corresponding response actions and realized
+opportunities—is provided in Appendix 3.
+Graph 5: VinFast’s Value Chain with Climate Risks & Opportunities
+Short-term (0–3 years) Medium-term (3–10 years) Long-term (>10 years)
+supply chains, and operations.
+• Climate-related Opportunities: Associated with
+innovation and the low-carbon transition, which
+can strengthen our market leadership, enhance
+profitability, and build long-term resilience.
+
+## Page 46
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+46
+Climate Risk and Opportunity
+T able 4: List of Climate-Related Risks and
+Opportunities prioritized by VinFast
+IROs name Description
+TRANSITION RISKS
+R1 Reputational and brand risks due to non-adaptation to
+Net Zero expectations
+Risk of being perceived as slow to change, lacking substantive action (greenwashing), or failing to meet expectations from investors, customers,
+and the community. This negatively impacts brand, market value, and the ability to attract sustainable capital.
+R2 Risk of increased operating costs due to volatile fossil fuel
+prices
+VinFast faces financial risks from fossil fuel volatility, both directly through higher energy costs (e.g., electricity, LPG) and indirectly via increased
+prices of energy-intensive raw materials like plastics and metals. These pressures can raise operating expenses, affect profitability, and challenge
+our emission reduction goals.
+R3 Financial risks from incurring emission costs, carbon
+credits, or failing to meet targets
+Emission obligations, purchasing carbon credits, or failing to meet committed emission reduction targets can generate significant costs, affecting
+profitability and access to sustainable financing or tax incentives.
+R4 Risk of Skills Shortage and Workforce Transition
+The global shift from mechanical engineering to advanced electrical, software, and battery-centric engineering creates a severe talent shortage.
+There is fierce competition for specialists in battery chemistry, high-voltage systems, autonomous driving, and vehicle software. Failure to attract
+new talent and effectively upskill/reskill our existing workforce poses a direct threat to our innovation pipeline, product quality, manufacturing
+efficiency, and speed to market, potentially ceding competitive advantage.
+R5 Supply chain disruption risks due to climate change and
+geopolitical factors
+Dependence on strategic raw materials for battery production (e.g., lithium, cobalt, nickel) and international suppliers makes VinFast vulnerable to
+political fluctuations, energy crises, or natural disasters disrupting the supply chain.
+R6 Risk of insufficient charging and energy infrastructure for
+electric vehicles
+The deployment of charging infrastructure, energy stations, and smart grids not keeping pace with product development speed can reduce
+customers’ incentives.
+With our strategic shift to an outright battery ownership model, ensuring customers have seamless access to a robust and reliable charging
+network becomes even more critical. The absence of a battery swapping alternative means our customers will rely entirely on public, home, and
+workplace charging, making the quantity, speed, and interoperability of this infrastructure a direct determinant of customer satisfaction and our
+market success.
+PHYSICAL RISKS
+R6 Chronic physical risks Long-term climate changes such as rising average temperatures, water scarcity, sea-level rise, and changing rainfall patterns can severely impact
+production infrastructure, logistics, and the supply base.
+R7 Acute physical risks Increased frequency and severity of extreme weather events (floods, storms, heatwaves, etc.) cause disruptions across our supply chain and
+inputs, potentially leading to operational and financial damages.
+
+## Page 47
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+47
+Climate Risk and Opportunity
+T able 4: List of Climate-Related Risks and
+Opportunities prioritized by VinFast
+IROs name Description
+CLIMA TE-RELA TED OPPORTUNITIES
+O1 Product opportunity – expanding EV lineup and
+sustainable mobility services
+The accelerating global transition away from internal combustion engines presents a generational opportunity for an all-electric manufacturer
+like VinFast. By developing and expanding a diverse portfolio of EVs—from passenger cars and motorcycles to commercial trucks and buses—
+we can capture significant market share and drive revenue growth.
+O2 T echnology & Circularity Opportunity – Driving Efficiency
+and Decarbonization
+The convergence of advanced climate technologies at lower costs creates a transformative opportunity. High-density batteries are making
+EVs more accessible, while battery reuse and recycling support a secure, circular mineral supply. Combined with lightweight, recycled
+materials and factory energy optimization, these advances cut lifecycle carbon emissions, reduce long-term costs, and lessen exposure to
+market volatility.
+O3 Green & Climate Finance Opportunity
+The global financial landscape is rapidly reorienting to support the climate transition, unlocking significant opportunities for capital access. The
+market for green bonds and sustainability-linked loans has grown exponentially, with organizations like the Climate Bonds Initiative reporting
+record issuance year-over-year. These instruments often carry preferential terms for companies with credible decarbonization strategies.
+O4 Climate Governance & Resilience Opportunity
+As climate impacts intensify, strong climate governance is now essential for long-term resilience and value. With rising expectations from
+investors, regulators, and insurers, VinFast is leveraging accessible tools like energy monitoring and climate risk modeling to proactively
+manage risks. This agility enhances trust and may improve insurance terms and reduce valuation risk premiums.
+
+## Page 48
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+48
+Climate Governance
+Responsibilities and MandatesVinFast has established a tiered management structure to ensure the effective implementation of our Net Zero strategy and the
+management of climate-related risks and opportunities.
+Responsibilities for climate-related risks and opportunities are reflected across multiple levels of governance:
+T op leadership
+ESG Department
+The ESG Department acts as the
+central coordinating body for all
+ESG-related initiatives, including
+climate strategy. It supports the
+Board in setting climate targets,
+integrates climate risks and scenario
+analysis into strategic planning using
+global frameworks (e.g., CDP, TCFD),
+oversees data collection and ESG
+disclosures, monitors progress,
+and audits alignment with evolving
+market expectations and regulatory
+standards. The ESG team also leads the
+administrative climate solutions, working
+in close collaboration with departments
+and employees across the organization
+to ensure effective execution and cross-
+functional ownership.
+Operational
+Departments
+Operational units are responsible for
+driving technical climate solutions. The
+Plant Management T eam leads energy
+management initiatives, while the
+Product Development T eam, supported
+by Procurement and Finance, leads
+efforts such as adopting low-carbon
+materials and transitioning to renewable
+energy sources. These teams work in
+coordination with the ESG Department
+and other relevant functions—including
+Research Institutes and EHS—to
+implement practical measures aligned
+with VinFast’s Mission 3E (Electrification
+– Energy Saving – Energy Greening),
+ensuring an integrated approach to
+climate risk management and emissions
+reduction.
+The Company’s top management is
+actively engaged in steering VinFast’s
+climate  agenda. The Company’s
+CEO holds ultimate responsibility for
+approving the Net Zero Strategy, while
+senior leadership receives regular
+progress updates on the achievement
+of Net Zero targets and climate-related
+performance.
+
+## Page 49
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+49
+Skills and
+competencies
+VinFast continues to promote the development of the necessary skills and competencies
+to oversee and manage climate-related strategies through the following mechanisms:
+• The ESG Department conducts
+training and information sessions on
+climate-related issues, frameworks,
+and good practices for relevant
+departments. ESG training activities
+contribute to strengthening the
+competencies of operational teams
+and support functions, ensuring
+effective implementation of climate-
+related actions across the organization.
+• Management and the ESG Department
+facilitate knowledge transfer to
+senior leadership, thereby ensuring
+informed governance and decision-
+making on climate-related issues.
+• The ESG Department is also responsible
+for maintaining up-to-date knowledge
+of evolving climate-related disclosure
+standards and risk management
+practices (including ISSB, TCFD, CDP
+and GRI requirements), and ensuring this
+knowledge is disseminated internally.
+• In addition, we have engaged external
+consultants to provide technical
+support for greenhouse gas inventory
+and calculation, assess carbon credit
+potential for electric vehicle product
+lines, and advise on the development
+of the Net Zero strategy.
+Consideration of
+climate factors
+in strategy and
+decision making
+At VinFast, climate change management – particularly emissions reduction – are a
+core focus of the Company’s Net Zero strategy and are systematically considered by
+governing bodies when overseeing corporate strategy, major transactions, and risk
+management processes.
+The Company’s management aims to take the following structured approaches:
+Resource Allocation Principle
+Resource allocation across projects is guided by a risk -based and opportunity-driven
+approach, with clear consideration of climate-related impacts and financial trade-offs:
+Internal Carbon Pricing
+An internal carbon price will be embedded
+into financial evaluations of investment
+activities. This mechanism will ensure that
+the financial impacts of climate-related
+risks and opportunities are explicitly
+integrated into major investment decisions
+and strategic planning.
+Cost–Benefit Evaluation
+Systematic cost–benefit analyses are
+conducted to assess and prioritize
+emissions reduction solutions, ensuring
+that investments in decarbonization
+align with both environmental goals and
+economic efficiency.
+• Priority Projects: High-impact projects, such as deploying renewable energy for
+manufacturing and charging infrastructure — which can deliver potential annual emissions
+reductions exceeding 70% — are prioritized for capital allocation.
+ > Cost-Effective Solutions: Initiatives with
+negative or low abatement costs (e.g.
+renewable energy deployment, energy
+efficiency measures) are prioritized,
+recognizing both their financial return and
+climate benefit.
+Climate Governance
+ > Phased Implementation: Programs
+requiring higher upfront investment but
+with significant long-term impact (e.g.
+adoption of low-carbon or recycled
+materials) are phased into medium- and
+long-term business plans, balancing
+financial considerations with strategic
+climate objectives.
+
+## Page 50
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+50
+Control
+mechanism
+Reporting
+mechanism
+We will establish a structured and multi-channel information flow to ensure that
+governing bodies and responsible individuals remain regularly informed about climate-
+related risks and opportunities:
+Regular Reporting
+Periodic reports on KPIs related to the
+Net Zero strategy implementation are
+provided to department heads and senior
+leadership
+Communication Channels
+Information is disseminated through
+various internal channels including email
+updates, training sessions, internal
+websites, social media, workshops, and
+dedicated industry events.
+Two-Way Communication
+Feedback mechanisms — both internal and
+external — are actively maintained to enable
+continuous two-way communication
+between management, operational teams,
+and stakeholders (detailed in section
+2.4 Engaging Our Stakeholders for
+Shared Value).
+VinFast also targets to implement a multi-layered monitoring and control system that is
+fully integrated into our corporate governance framework to support the management
+and oversight of climate-related risks and opportunities:
+Performance Measurement
+Quantitative and qualitative indicators are
+established to measure the effectiveness
+of NetZero strategy implementation
+(detailed in section 3.1 - Climate Strategy
+and 3.4 - Climate Metrics).
+Internal and External Reviews
+Periodic reporting, internal assessments,
+and both internal and external audits
+are conducted to ensure the accuracy
+and integrity of climate-related data and
+progress tracking.
+Continuous Improvement
+Management annually reviews and refines
+decarbonization strategies and actions
+based on review outcomes, stakeholder
+feedback, and emerging industry trends.
+These processes and controls are
+embedded within VinFast’s enterprise
+risk management and operational
+management systems, ensuring that
+climate-related considerations are
+systematically incorporated into day-to-
+day decision-making and activities across
+relevant departments.
+Integration with Internal Functions
+Climate
+Governance
+
+## Page 51
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+51
+Climate Risk
+Management
+Governance Oversight Climate-related risks are subject to oversight by the Board of
+Directors and dedicated Board Committees responsible for ESG
+issues. These governance bodies are charged with providing
+strategic direction and ensure that material climate-related risks
+are managed in line with VinFast’s risk appetite and sustainability
+objectives.
+Integration with ERM Climate-related risks and opportunities are assessed and
+prioritized within the same governance structures, risk appetite
+statements, and reporting mechanisms as other enterprise risks.
+This integration ensures that climate-related risks are evaluated
+consistently alongside strategic, operational, financial, and
+compliance risks, with outputs informing enterprise-wide decision-
+making (detailed in section 6.3 Enterprise Risk Management).
+Annual Review
+Cycle and Ad Hoc
+Updates
+Climate-related risks and opportunities are systematically
+reviewed as part of VinFast’s annual enterprise risk assessment
+cycle. In addition, VinFast uses a dedicated tool to monitor and
+update new legal documents on a weekly basis. As a result,
+any ESG-related policy updates are promptly captured and
+fully reported.
+Compliance
+Monitoring
+Dedicated monitoring mechanisms ensure compliance with
+environmental regulations and climate disclosure requirements,
+including GHG emissions reporting.
+Plan–Do–Check–
+Act Approach
+VinFast applies a PDCA cycle in our climate risk management
+processes to enable continuous monitoring, strategic planning,
+execution, and refinement of risk mitigation and adaptation
+strategies.
+VinFast integrates climate-related risks into our Enterprise Risk
+Management (“ERM”) system to ensure a consistent, structured,
+and proactive approach to identifying, assessing, prioritizing,
+and monitoring both transition and physical risks arising from
+climate change.
+We plans to further integrate climate-related risks and opportunities to support informed decision-making, resilience building, and long-term value creation across VinFast’s value chain.
+Graph 5: Enterprise risk management process integrating climate risk management
+Risk Identification Risk Analysis Risk Evaluation Risk Treatment
+• Risk owners across business units are responsible for
+identifying climate-related risks within their areas of control
+and business activities. The risk identification process
+incorporates multiple sources of information, including
+internal and external contexts, regulatory and market
+developments, and early signs of emerging risks
+Identified risks are analyzed based on their:
+• Impact (effects on people, the environment, social
+systems, business continuity, and financial value
+creation)
+• Likelihood
+• Effectiveness of existing controls
+• Control gaps, where additional risk treatments may
+be required
+• Risks are evaluated against established risk criteria
+to determine whether additional response actions are
+required. Evaluation outcomes inform prioritization and
+selection of appropriate risk treatment options
+Based on risk evaluation, VinFast may adopt a range of risk
+treatment options, including:
+• Maintaining current controls
+• Implementing additional mitigation or adaptation measures
+• Modifying business objectives and strategies in response
+to material climate risks
+The selection of risk treatment options is based on a cost-
+benefit assessment that considers the balance between
+anticipated benefits, implementation costs, execution
+efforts, and potential disadvantages
+
+## Page 52
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+52
+Tracking Our Net-Zero Strategy Execution
+Note: Data tracking will commence in 2024 with the launch of VinFast’s NetZero strategy, as detailed in below section. Metrics that are currently unavailable will be disclosed in subsequent reporting years.
+We commit to tracking and disclosing key climate-related metrics
+to evaluate progress against our decarbonization commitments
+and to ensure accountability across operations, products, and
+investments. The following indicators are key KPIs VinFast
+intends to monitor and report as part of the integrated climate
+management framework:
+T able 5: List of key climate KPIs
+Mission KPI/ Metrics Unit
+E1 Percentage of electrification of machinery/ vehicles/ equipment %
+E2 Number of energy and carbon solutions implemented Number
+E2 Energy consumption per unit of production kWh/vehicle
+E3 Percentage of renewable energy used in manufacturing operations %
+E3 Percentage of renewable energy for charging stations %
+E3 Solar energy generated kWh/vehicle
+E2 Carbon footprint of products tCO2e/vehicle
+E2 Localization rate %
+E3 Amount invested in energy greening projects $ Million
+
+## Page 53
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+53
+Tracking Our Net-Zero
+Strategy Execution
+GHG Emissions
+Graph 6: GHG Emissions in Manufacturing Activity (2022-2024)
+Graph 7: GHG Emissions in Trading Activity (2022-2024)
+2022 2023 2024
+1,600
+1,400
+1,800
+2,000
+1,200
+1,000
+800
+600
+200
+400
+2022 2023 2024
+100,000
+120,000
+80,000
+60,000
+40,000
+20,000
+tCO2e
+160,000
+140,000
+180,000
+120,000
+100,000
+80,000
+60,000
+20,000
+Pcs
+40,000
+VinFast quantifies Scope 1, 2 and 3 (categories 1, 2, 4,
+5, 6, 7, 8, 11) GHG emissions across our manufacturing
+facilities and trading operations in accordance with the
+Greenhouse Gas Protocol. Emissions data is audited
+annually, with performance assessed relative to
+VinFast’s carbon reduction targets. GHG accounting
+methodologies prioritize company-reported data,
+supplemented by operational energy consumption and
+emissions factors where needed. We have not used
+carbon credits to offset Portfolio Emissions in 2024,
+focusing instead on reducing traditional energy use.
+Achieving our Net Zero target will ultimately depend
+on our decarbonization progress.
+Scope 1 (tCO2e) Scope 1 (tCO2e)Scope 2 (tCO2e) Scope 2 (tCO2e)Number of vehicles manufactured (Pcs)
+
+## Page 54
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+54
+GHG Emissions
+T able 6: GHG emission by scope in ton of CO2e
+Metric Description 2022 2023 2024
+GHG emissions - Manufacturing activity [1]
+Scope 1
+Stationary energy
+6,248 7,747
+10,109.39
+Transportation energy 127.77
+Refrigeration and air conditioning system 667.87
+IPPU 0.71
+Wastewater disposal 67.78
+Scope 1 T otal 6,248 7,747 10,973.53
+Scope 2 Electricity consumption 103,942 93,293 114,105.25
+Scope 3
+Category 1: Purchased goods & services Not calculated Not calculated 463,003.62
+Category 2: Capital goods Not calculated Not calculated 76,196.77
+Category 4: Upstream Transportation & Distribution Not calculated Not calculated 33,306.57
+Category 5: Waste generated in Operation Not calculated Not calculated 16,648.75
+Category 6: Business Travel Not calculated Not calculated 2,245.83
+Category 7: Employee Commuting Not calculated Not calculated 5,552.13
+Category 8: Upstream leased assets Not calculated Not calculated 2,283.83
+Category 11: Use of Sold Products Not calculated Not calculated 1,338,907.27
+T otal tCO2e  Scope 3 T otal Not calculated Not calculated 1,938,144.77
+T otal tCO2e All sources 110,190 101,040 2,063,223.297
+Metric Description 2022 2023 2024
+GHG emissions - Trading activity
+Scope 1
+(tCO2e) Stationary energy
+110.00 N/A 56.92Scope 1
+(tCO2e) Transportation energy
+Scope 1
+(tCO2e) Refrigeration and air conditioning system
+Scope 2
+(tCO2e) Electricity consumption 1,688.00 651 597.24
+T otal tCO2e  All sources 1,798.00 651 654.15
+[1] GHG emissions associated with electric vehicle and automobile manufacturing at
+the VinFast factory in Hai Phong, Vietnam, were collected for the period from 1 January
+to 31 December 2024. The base year for comparison is 2022.
+• Scope 1 and Scope 2 emissions were calculated using facility-level activity data and
+default emission factors as prescribed in Decision No. 2626/QD-BTNMT (dated 10
+October 2022) and Official Document No. 327/BDKH-PTCBT (dated 19 March 2024),
+which provides the national grid emission factor in 2022.
+• In FY 2024, the Company assessed its indirect value chain emissions (Scope 3) in
+accordance with the GHG Protocol Corporate Value Chain (Scope 3) Standard.
+Based on data availability and material screening, eight Scope 3 categories were
+questioned for this reporting cycle. These categories represent the upstream and
+downstream activities most relevant to the Company’s operations and value chain.
+• Scope 3 category 11 was calculated using the average electricity consumption and
+travel distance over the vehicles lifetime and the Emission factor from and Official
+Document 327/BDKH-PTCBT dated 19th March 2024 on Publishing the result of
+Viet Nam Electricity grid Emission factor in 2022.
+
+## Page 55
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+55
+Product Carbon Footprint
+Compared to an International Transport Forum (“ITF”) case study in India
+dated 2023, VinFast’s EVs demonstrate a favorable carbon footprint in
+both production and use phases relative to other Battery Electric Vehicles
+(“BEVs”). While VinFast’s EV production emissions are higher than ICE vehicles
+due to battery manufacturing, operational emissions from VinFast EVs are
+significantly lower than those from ICE vehicles.
+Product Unit Emissions intensity
+(cradle to gate + use phase-lifetime)
+E- scooter tCO2e/product 1.28
+E-car tCO2e/product 35.59
+E-bus tCO2e/product 376.99
+VinFast produced 67,382 electric motorcycles, 25,480 electric cars, and 188
+electric buses in 2022. Based on operational data and energy allocation at the
+plant in the base year 2022, the carbon footprint per vehicle type is:
+
+## Page 56
+
+VinFast’s 2024 Sustainability Report  Charting a Net-Zero Path – Climate Strategy & ResilienceChapter 3
+56
+Product Carbon Footprint
+Graph 8, 9, 10: Comparison of VinFast scooter to other BEV and ICE scooters
+E-scooter comparison E-car comparison E-bus comparison
+VinFast BEV ICE
+1.0
+1.2
+0.8
+0.6
+0.4
+0.2
+60
+50
+40
+30
+10
+20
+VinFast BEV ICE
+10
+14
+12
+8
+6
+4
+2
+200
+150
+100
+50
+VinFast BEV ICE
+100
+120
+80
+60
+40
+20
+1,000
+800
+600
+400
+200
+Note: Comparison of VinFast scooters to other BEV and ICE scooters (Compiled based on International
+Transport Forum in 2023).
+Note: Comparison of VinFast cars to other BEV and ICE cars (Compiled based on International Transport
+Forum in 2023)
+Note: Comparison of VinFast bus to other BEV and ICE buses (Compiled based on International Transport
+Forum in 2023)
+Manufacturing (tCO2e/vehicle) Use (gCO2/km) Manufacturing (tCO2e/vehicle) Use (gCO2/km) Manufacturing (tCO2e/vehicle) Use (gCO2/km)
+
+## Page 57
+
+04
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+57
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4 57VinFast’s 2024 Sustainability Report 57
+ Energy, Water
+& Circularity
+ACCELERA TING GREEN OPERA TIONS
+Energy Stewardship
+Water Stewardship: Managing a Vital
+Resource Responsibly
+Resource Circularity
+59
+70
+75
+
+## Page 58
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+58
+2024 Environment Highlights
+in electricity at the Hai Phong Plant
+(~1,782.28 tCO2).
+kWh2,703,704
+Saved
+reduced water consumption
+directly per automotive.
+pcs/m32.48
+Reached
+of treated wastewater at the Hai
+Phong Plant.
+m326,404
+Recycled
+though energy optimization.
+USD2~227,880
+Saved
+ISO 14001:2015
+Hai Phong Plant is certified for
+of waste diversion rate at
+the Hai Phong Plant.
+89.2%
+Reached
+
+## Page 59
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+59
+Energy Stewardship
+Energy Transition Landscape And Strategic Drivers
+2024 marked a pivotal year in the energy landscape, shaped by tightening policy
+requirements and intensifying market dynamics. Rising electricity prices, stricter
+emission regulations across supply chains, and national commitments under Vietnam’s
+Power Development Plan VIII and reaffirmed Vietnam’s NDC target at COP 29 continue
+to drive the demand for energy transition.
+Global trends are rapidly electrifying operations and transportation, placing pressure
+on business not only to decarbonize internally but also to enable a broader energy
+transition ecosystem.
+In this context, VinFast’s commitment to achieve Net-Zero emissions by 2040 is a key
+internal driver, accelerating the integration of sustainable practices across the entire
+value chain—from manufacturing to customer engagement. T o align with the strategic
+energy objectives, VinFast has focused on:
+• Driving an inclusive energy transition
+by enabling consumers and partners to
+participate in and benefit from the green
+shift.
+ Graph 11: 03 implemented initiative groups are linked to 03 energy strategic action plans
+Production System
+Operational Optimization
+Products & Services
+Advancing Energy Transition
+• Optimizing internal energy systems
+to reduce direct emissions and control
+costs.
+Infrastructure
+Charging Network, BESS
+technology & Renewable Energy
+Solar Energy
+Battery TechnologySmart Energy
+Strategic Cooperation
+Electriﬁcation
+VinFast NetZero
+Strategy
+Energy Saving
+Energy Greening
+
+## Page 60
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+60
+Energy Optimization In Production System
+In alignment with VinFast’s long-term Net Zero commitment, our Hai Phong
+manufacturing plant has taken proactive and systematic steps to optimize energy
+consumption across operations.
+We have developed a five-year strategy (2025–2029) focused on three core areas.
+First, we will integrate smart technologies, including the deployment of AI-powered
+control systems to optimize energy-intensive equipment such as chillers, HV AC systems,
+and air compressors across key production workshops. Second, we aim to significantly
+increase our renewable energy self-generation capacity , with a major rooftop solar
+project targeting 30 MWp. These initiatives will be underpinned by a strong commitment
+to continuous improvement, including the installation of advanced energy monitoring
+systems and the implementation of regular comprehensive energy audits to identify new
+efficiency opportunities.
+T o institutionalize these efforts, we established a framework for operational optimization
+that is implemented across VinFast’s global operation:
+• The Functional Energy Committee
+in VinFast Trading and Production
+JSC (“VFVN”), established in 2020,
+tasked with guiding and coordinating
+all internal initiatives related to energy
+efficiency. This committee plays a pivotal
+role in identifying opportunities for
+improvement and ensuring alignment
+with both Vietnam’s national regulations
+and stakeholder expectations.
+• T o further formalize our approach,
+on June 10, 2024, we issued the
+official “Procedure on Economical and
+Efficient Use of Energy” , applicable to
+all departments within the Hai Phong
+Plant. This procedure provides a unified
+framework for monitoring, controlling,
+and reducing energy use, while ensuring
+full compliance with the Law on Efficient
+Energy Use.
+• T o measure progress, we implemented
+internal KPIs to help benchmark
+performance against peers, industry
+standards and drive continuous
+improvement.
+• Energy-saving solutions have been
+implemented through production
+process optimization and machinery
+upgrades , based on action plans
+registered with the ESG Department
+at the end of the previous year—all of
+which were fully executed in 2024. In
+parallel, regular energy audits were
+conducted to identify non-compliance
+issues and new efficiency opportunities.
+All corrective actions were consolidated
+into a master action list, monitored on a
+monthly basis to ensure accountability
+and track implementation. Results of
+these initiatives are summarized in T able
+6 below.
+
+## Page 61
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+61
+Energy Optimization In Production System
+Energy Consumption at our Hai Phong Plant and trading activity in the Vietnamese market:
+T able 6 & Graph 12: Energy consumption statistics in Vietnam (2022-2024)
+4 Electricity consumption associated with the production of electric vehicles and automobiles at VinFast’s Hai Phong manufacturing facility (Vietnam) was recorded
+for the reporting period January 1 to December 31, 2024. Data was compiled based on electricity purchase invoices from the national power grid.
+5 Electricity consumption associated with showrooms managed by VinFast in provinces and cities in Vietnam, were collected for the period from 1 January to 31
+December 2024.. Data was compiled based on electricity purchase invoices from the national power grid.
+Progress
+Parameter Unit 2022 2023 2024
+Energy Consumption
+Manufacturing Activity 4
+Electricity consumption
+(Manufacturing Activity) million kWh 143.9 129.2 173.1
+Trading Activity 5
+Electricity consumption
+(Trading Activity) million kWh 2.3 0.8 0.9
+Energy Consumption Intensity
+E-Car kWh/ product 2,288  2,474  1,298
+E-Scooter kWh/ product  96  204   274
+1 2 3
+100
+120
+140
+160
+180
+200 2,5
+1,5
+0,5
+0
+2
+180
+60
+40
+20
+0
+Electricity consumption (Manufacturing Activity) millionk Wh Electricity consumption (Trading Activity) million kVWh
+
+## Page 62
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+62
+T able 7: Energy saving solutions and progress in 2024
+Applied energy-saving solution Solution description Energy saving (kWh) Cost saving (mil VND/year)
+Optimize lighting for production workshops. Turn off some lights in hallways and areas above production lines where local lighting is already sufficient. 1,037,021 2,447
+Optimize Chiller and DHU operation in the
+GEN5 workshop.
+1. Adjust chiller temperature from 5°C to 7°C.
+2. Reduce DHU drying temperature from 180°C to
+130°C.
+3. Turn off unnecessary DHUs.
+573,333 1,118
+Optimize boiler operation in the Paint
+workshop.
+1. Adjust the drying oven maintenance temperature
+from 80°C to 120°C when the oven is off.
+2. Improve to stop the paint tank pump immediately
+after the last vehicle passes. 504,102 983
+Optimize ventilation fans in the Gas workshop. Reduce ventilation fan frequency from 50Hz to 40Hz. 201,538 393
+Optimize Chiller operation in the Electric Motor
+workshop.
+1. Reduce 1 water pump compared to previous
+operation.
+2. Shut down chiller 30 minutes earlier than break
+time. 137,456 268
+Cooling system in the V AP A1 workshop. Shift production to V AP A2 and turn off the cooling system in V AP A1. 133,846 261
+Optimize ventilation fans in the Interior
+workshop.
+1. Reduce ventilation fan frequency from 50Hz to
+40Hz.
+2. Turn off some air conditioners in canteen area.
+52,820 103
+Optimize Chiller operation in the VFE
+workshop.
+Reduce frequency of cooling water and chilled water pumps to 40Hz at night or when not in production. 38,461 75
+Optimize press machine operation in Press
+workshop.
+Set timer function for oil pump on/off.
+14,358 28
+Optimize ventilation fans in DC warehouse. Reduce ventilation fan frequency from 50Hz to 40Hz. 10,769 21
+T otal electricity savings from optimized production at Hai Phong Plant in 2024 2,703,704 5,697
+~1,782.28 tCO2
+1 ~227,880 USD2Note:
+1  Converted at Vietnam’s 2023 grid emission factor (0.6592 tCO 2/MWh, MONRE Official Letter
+No. 1726/BĐKH-PTCBT , dated 03/12/2024).
+2 Converted at the average exchange rate in 2024 is 25,000 VND/USD
+Energy Optimization In Production System
+In 2024, VinFast has implemented a series of energy-
+saving initiatives at our Hai Phong manufacturing
+plant, achieving a total reduction of over 2.7 million
+kWh of electricity consumption, equivalent to
+approximately 1,783 tCO2 of emissions avoided ,
+and cost savings exceeding 5.7 billion VND. These
+actions not only lowered operational costs but
+also contributed significantly to VinFast’s energy
+efficiency and sustainability goals.
+of electricity consumption
+2.7
+of emissions avoided
+1,783
+5.7
+Achieving T otal reduction
+Equivalent to approximately
+Cost savings exceeding
+million kWh
+tCO2 of emissions
+avoided
+billion VND
+
+## Page 63
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+63
+Impact
+These efforts have helped strengthen the foundation of
+an effective energy management strategy within VinFast’s
+manufacturing ecosystem. We’ve built a stronger foundation for
+energy governance, enhanced legal compliance, and improved
+transparency in how we use power in production.
+More importantly, this initiative sets the stage for scaling our
+energy-saving efforts in the coming years, especially as we
+prepare for increased production volumes and a more complex
+product portfolio.
+Energy Optimization In Production System
+
+## Page 64
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+64
+Energy Transition Acceleration Across Products & Services
+VinFast is accelerating the global shift to clean transportation
+by delivering a comprehensive electric mobility portfolio—
+from e-scooters and e-bikes to electric cars, buses, and
+upcoming commercial vehicles (vans and trucks)—for our
+markets. All vehicles are manufactured at VinFast’s state-
+of-the-art complex in Hai Phong, Vietnam.
+We also provide financial support programs that lower barriers
+to switching from gasoline to electric cars and cooperate with
+partners within Vingroup to expand the service ecosystem
+(VinBus, GSM, etc.) to normalize zero-emission mobility in
+urban and rural regions around the world.
+Progress
+Electric vehicle sales
+VinFast sold 97,399 electric cars globally, with around 10,000
+units (10%) exported to major markets such as North America,
+the Middle East, India, and Southeast Asia. The VF3, optimized
+for urban driving, is projected to become VinFast’s best-selling
+export model, launched in the Philippines in September 2024.
+Additionally, VinFast delivered 70,977 e-scooters and e-bikes,
+a steady year-on-year growth.
+• Through partnerships with VinBus and GSM, VinFast provided
+transportation products to partners for the expansion of a
+zero-emission mobility ecosystem across Vietnam. VinBus
+operates electric bus fleets in five major cities and provinces—
+Hanoi, Ho Chi Minh City, Phu Quoc, Hai Phong, and Nha Trang—
+strengthening the sustainability of Vietnam’s public transit
+systems.
+• GSM offers electric taxis and motorbike rentals through the GSM car booking platform. As of December 31, 2024, VinFast delivered
+approximately 46,500 EVs and 41,650 e-scooters to GSM. In 2024, GSM continued to build a system of fast charging stations at strategic
+locations, ensuring continuous operation. Not stopping at the Vietnamese market, GSM has entered the foreign market, deploying
+electric taxi services in Laos, with plans to provide about 1,000 VF5 Plus vehicles in the capital Vientiane, major cities and further global
+expansion plans.
+VinFast signed a strategic MoU with the Durango Drivers’ Union
+(“CTM”) in November 2024 to replace Durango City’s gasoline-
+powered fleet with up to 3,000 VF5 electric cars and 300 electric
+buses. Once finalized, this would represent one of VinFast’s
+largest international fleet deals, significantly expanding our Latin
+American presence. VinFast and V-Green will work with CTM
+to study, install, and operate charging infrastructure to support
+the deployment.
+Fleet electrification in Mexico
+VinFast introduced campaigns to accelerate EV adoption in
+2024, including incentives for customers switching from gasoline
+cars to VinFast EVs and the “Greening Vietnam” program to
+transition gasoline motorbike users to electric two-wheelers.
+VinFast also launched the “Vietnam Strong Spirit - For Green
+Future” program in 2024, offering free charging services for our
+EV users until 2027.
+Consumer incentives
+Urban green mobility ecosystem
+electric cars globally
+97,399
+to GSM in the capital Vientiane
+EVs VF5 Plus vehiclese-scooters46,500 1,00041,650
+e-scooters and e-bikes
+70,977
+VinFast sold
+VinFast delivered approximately GSM plans to provide
+VinFast delivered
+
+## Page 65
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+65
+VinFast’s expansion of our EV portfolio, targeted financial incentives, and development
+of urban green mobility ecosystems through strategic partnerships are accelerating
+the shift toward clean transportation in Vietnam and global markets. These initiatives:
+T able 8: Fuel Economy of Passenger Vehicle Fleet
+Metric Unit 2024
+T otal number of vehicles manufactured Number 160,642
+T otal number of vehicles sold 6 Number 168,376
+Zero-emission vehicles Number 168,376
+Hybrid vehicles Number -
+Plug-in hybrid vehicles Number -
+Sales-weighted average passenger fleet fuel economy in VN market 7
+EV kWh/100km 11.52
+E-Bus kWh/100km  1.73
+E-Scooter kWh/100km 108.08
+Sales-weighted average passenger fleet fuel economy in US market 6
+EV kWh/100km 17.43
+E-Scooter kWh/100km 0.57
+Sales-weighted average passenger fleet fuel economy in Indo market 6
+EV kWh/100km 13.12
+Sales-weighted average passenger fleet fuel economy in Canada market 6
+EV kWh/100km 17.46
+6 VinFast only sells zero-emission vehicles (incld. EV , E-Bus and E-Scooter). The scope of disclosure includes all vehicles sold globally 5
+7  In 2024, VinFast discloses the representative average fuel economy data for our 04 largest markets: Vietnam, the United States, Indonesia, and Canada. The figures cover 03 product categories—EV , E-Bus, and E-Scooter — and reflect average
+energy consumption by market.
+Note: The reported data is derived from vehicle and battery design specifications. It does not account for external operating conditions (e.g., urban or highway driving). For EVs, the Eco and Plus trims are reported using average figures representative
+for each model line.
+Energy transition acceleration across products & services
+Impact
+These efforts are reshaping mobility ecosystems and supporting national and urban
+climate objectives, while also creating scalable business opportunities for VinFast in
+our markets.
+1
+2
+3
+Support Vietnam’s action program for transition to green energy
+(Decision 876/QĐ- TT g, 2022), advancing the goal of 100% road
+electric and green energy vehicle by 2050 across all segments,
+from two-wheelers to buses and fleets.
+Strengthen sustainable public and private transport networks
+by deploying electric buses, taxis, and shared mobility services,
+reducing fossil fuel reliance in urban centers.
+Lower barriers to EV adoption through consumer incentives
+and collaborations, fostering behavioral change among both
+individual and commercial users.
+
+## Page 66
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+66
+VinFast discloses energy consumption performance across all vehicle categories to provide transparency
+for customers, investors, and regulators. (Refer to Appendix 4 for detailed tables by model)
+Energy transition acceleration across products & services
+Energy Consumption Disclosure
+In the absence of national regulatory standards for
+EV energy consumption, VinFast reports the average
+fuel economy (kWh/100 km) for each model based
+on manufacturer’s technical specifications. Results
+cover the full portfolio of passenger EVs, E-buses,
+and E-scooters. For example, compact models such
+as the VF 3 achieve around 8.65 kWh/100 km, while
+larger SUVs such as the VF 9 Plus average about
+20.43 kWh/100 km. E-buses consume approximately
+108.08 kWh/100 km, while E-scooter models range
+from 0.57–2.55 kWh/100 km depending on size and
+performance.
+Vietnam Market
+For international markets, VinFast reports in
+accordance with the U.S. Environmental Protection
+Agency (EP A) methodology, which combines city
+(55%) and highway (45%) driving cycles. In 2024, the
+VF 9 Eco and VF 9 Plus were tested as “ All-Electric
+Vehicles – Special Purpose 4WD.” EP A-estimated
+performance results were:
+International Market
+• VF 9 Eco: 75 MPGe combined (45 kWh/100 mi), with
+a 330-mile range.
+• VF 9 Plus: 69 MPGe combined (49 kWh/100 mi), with
+a 291-mile range.
+Both models received a maximum GHG rating of
+10/10 and annual fuel costs of approximately USD
+1,000–1,100.
+Fuel efficiency advantage over
+comparable models
+These disclosures also provide stakeholders with a clear view of VinFast’s progress
+on energy efficiency, both in the domestic market and internationally, and support
+comparability with global peers. The VF 9 Eco and Plus offer better fuel efficiency than
+comparable 4WD special-purpose vehicles from Cadillac, Chevrolet, and GMC:
+Graph 13: Fuel efficiency comparison between VF 9 and other brands
+0
+10
+20
+30
+40
+50
+60
+70
+80
+CADILLAC - XT5
+Hearse AWD
+CADILLAC - XT5
+Limo AWD
+CHEVROLET -
+Silverado Cab
+Chassis 4WD
+GMC - Sierra Cab
+Chassis 4WD
+VINFAST -
+VF 9 Eco
+VINFAST -
+VF 9 Plus
+21 21
+15 15
+75
+69
+
+## Page 67
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+67
+Clean infrastructure for energy and mobility
+VinFast is accelerating the clean mobility transition by developing
+a future-ready green energy and charging infrastructure. In
+Vietnam, this involves developing a nationwide EV charging
+network, investing in rooftop solar power projects, and
+researching cutting-edge battery energy storage systems.
+Aligned with our Electrification Mission, a charging
+network has been deployed across all 63 provinces
+and cities in Vietnam, featuring European-standard
+chargers (i.e. CCS2, Type 2, ISO 15118-1:2019, IEC
+61851-1:2017) with water and fire resistance, leakage
+protection, and automatic shut-off systems. Through
+our “Zero Capital Investment – Revenue Sharing” site
+model, VinFast accelerates station deployment at
+gas stations, shopping malls, basement parking, and
+highway stops without altering existing infrastructure.
+Nationwide charging network
+As part of our Energy Greening Mission – “Invest in
+rooftop solar for factories and charging stations,”
+VinFast initiated our first 30 MWhp rooftop solar project
+at the Hai Phong assembly complex. Despite a one-
+year delay caused by legal procedure issues, VinFast
+is actively working to overcome challenges and ensure
+timely completion of the project as per our revised
+timeline. This project serves as the foundation for
+expanding rooftop solar investment beyond factories
+— to VinFast’s charging stations, offices, and facilities in
+Vietnam and globally. Once completed, the system will
+produce 34.6 million kWh annually, cutting 24,986 tCO 2e
+per year, equivalent to 24% of the site’s operational
+emissions.
+Rooftop Solar Power project in Hai Phong Plant
+Through VinFast Energy, the Company is advancing
+grid-stabilizing, renewable-integrated BESS solutions
+using high-density lithium-ion batteries with liquid
+cooling. These systems will support to store electricity
+during off-peak hours, release it during peak demand,
+and integrate seamlessly with solar and wind power,
+ensuring energy reliability and cost optimization for
+factories, showrooms, and urban infrastructure, while
+supporting the EV charging network’s expansion.
+Smart Energy Storage T echnology
+annually
+34.6
+24,986
+The system will produce
+Cutting
+million
+kWh
+tCO2e
+per year
+
+## Page 68
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+68
+Clean infrastructure for energy and mobility
+Progress
+• Installed 150,000+ charging ports across
+all 63 provinces of Vietnam, covering key
+urban areas and major transportation
+corridors.
+• A full range of charging solutions—from
+mobile (2.2kW, 3.5kW) and home chargers
+(7.4kW, 11kW) to fast DC (30kW, 60kW)
+and ultra-fast (150kW, 300kW).
+• Rolled out 300kW ultra-fast chargers,
+reducing charging time to 18–30 minutes
+and enhancing the efficiency for both
+personal and commercial EVs.
+Charging network
+• Phase 1 (15 MWhp) became operational
+in January 2025, producing 17.3 million
+kWh annually and reducing 12,493 tCO 2e
+per year.
+Rooftop solar project (at Hai Phong Plant)
+• On May 6, 2024, VinFast signed a
+distribution agreement with ON Energy
+(KTG Group) to deliver UL- and IEC-
+certified lithium-ion BESS for rooftop solar
+applications in households, offices, and
+industrial zones.
+BESS cooperation and development
+• Enhanced customer convenience via the
+VinFast App for real-time station access
+and payments.
+• In May 2024, VinFast signed a cooperation
+agreement with Bosch, one of the leading
+global suppliers of automotive technology
+and services, giving VinFast customers
+in Europe access to Bosch’s extensive
+network of 700,000 charging points in
+30 European countries. • Phase 2 (15 MWhp) will be deployed later,
+targeting a total capacity of 30 MWhp and
+reducing 24,986 tCO2e per year, equivalent
+to 24% of the facility’s operational
+emissions.
+• On October 31, 2024, VinFast partnered
+with Schneider Electric and ESEC to
+integrate advanced BESS with microgrid
+controls, meeting the growing demand
+for flexible, resilient energy infrastructure
+across EV charging networks and factories.
+across all 63 provinces of Vietnam
+150,000+
+in 30 European countries
+700,000
+Installed
+Giving access
+charging
+ports
+charging
+points
+
+## Page 69
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+69
+Clean infrastructure for energy and mobility
+VinFast’s integrated energy and charging infrastructure directly
+supports Vietnam’s Power Development Plan VIII (PDP8), which
+targets 50% of households and offices using rooftop solar by
+2030, and contributes to the national energy transition by:
+Impact • Accelerating EV adoption by alleviating
+“range anxiety” through widespread,
+fast-charging coverage domestically and
+internationally.
+• Scaling renewable energy use by pairing
+rooftop solar with energy storage,
+reducing dependence on fossil-based
+grid power, and building a carbon-free
+production and mobility ecosystem.
+• Strengthening grid resilience and
+lowering energy costs through BESS,
+while enabling decentralized electricity
+generation and preparing VinFast’s
+network for future integration of large-
+scale solar and wind resources.
+• Positioning VinFast as a leader in
+sustainable infrastructure development,
+laying the foundation for its Net Zero
+2040 ambitions and providing a scalable
+model for clean mobility ecosystems in
+emerging and developed markets.
+
+## Page 70
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+70
+Water Stewardship: Managing a Vital Resource Responsibly
+At VinFast, we recognize water as a vital shared resource, essential to our manufacturing
+operations and the well-being of the communities we serve. Our approach to water
+stewardship is grounded in the principles of efficiency, circularity, and rigorous
+compliance, managed through our ISO 14001:2015 certified Environmental Management
+System. We are committed to minimizing our water footprint and protecting local water
+ecosystems at every stage of our value chain.
+Water Use and Management Strategy
+Water consumption: Our primary water consumption occurs at the Hai Phong
+manufacturing complex, where we source water from municipal and industrial supply
+systems. This water is essential for our operations and is consumed across these main
+areas:
+• Manufacturing activities: At our Hai
+Phong manufacturing complex, water is
+essential for a wide range of functions,
+including core production processes
+such as painting and cooling; facility
+operations like fire suppression systems
+and landscape irrigation; and the domestic
+needs of our on-site personnel.
+• Trading activities: Across our national
+network of showrooms and service
+centers, water consumption is driven by
+customer and employee amenities, facility
+sanitation, and vehicle servicing activities
+such as car washing.
+Wastewater treatment and reuse: All wastewater generated from these activities is
+meticulously collected and channeled into a centralized, on-site treatment facility.
+Equipped with advanced Sequencing Batch Reactor (SBR) technology, this plant
+ensures our effluent consistently meets Vietnam’s discharge standards (QCVN 40:2011/
+BTNMT and QCVN 14:2008/BTNMT , Column A – Appendix 6). We also benchmark our
+performance against international good practices, including the IFC Environmental,
+Health, and Safety (EHS) Guidelines. The primary discharge destination for this highly
+treated water is the sea. Critically, we have also integrated a circularity loop: a portion of
+the treated effluent is repurposed for non-production needs like irrigation and cleaning,
+directly reducing our demand for fresh water.
+Manufacturing Activities
+Irrigation and Cleaning
+Wastewater discharge and reuse
+QCVN 40:2011/BTNMT and QCVN
+14:2008/BTNMT , Column A
+Re-use
+Treatment
+WA TER
+WITHDRAWAL
+AND
+CONSUMPTION
+Sea
+Graph 14: Overview of VinFast’s water management process
+
+## Page 71
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+71
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+1,200,000
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+2022 2023 2024
+ 2022
+0.82
+6.91
+4.70
+2023 2024
+2.24
+3.23
+2.48
+We systematically monitor both water consumption to track performance and inform resource efficiency strategies. All wastewater generated from these activities is meticulously collected and channeled into a centralized, on-site treatment facility.
+Manufacturing
+Water consumption direct
+per automotive pcs/m 3
+Water consumption direct
+per e-scooter pcs/m 3
+Trading
+At Hai Phong Plant, we do not exploit water. Our water consumption is supplied by Hai Phong Water Supply
+Joint Stock Company.  This calculation is performed on a monthly basis to provide a clear understanding of
+our operational water footprint.
+Water consumption
+Graph 15: T otal water consumption in Manufacturing and Trading activity (m3)
+Water Use and Management Strategy
+An analysis of our performance from 2022 to 2024 shows a clear upward trend in total water consumption,
+driven primarily by the significant scaling of our operations:
+• For manufacturing activities: the increase from
+449,636 m³ in 2020 to 1,002,811 m³ in 2024 is
+attributed to factors such as increased production
+volume of electric vehicles, expansion of the Hai
+Phong factory complex.
+• For trading activities: which include the network of
+showrooms, water consumption has fluctuated,
+reflecting the dynamic pace of market expansion.
+These changes were influenced by the rapid
+expansion of the showroom and service center
+network.
+Graph 16: Water consumption per unit (pcs/m3)
+Despite an overall increase in absolute consumption,
+VinFast remained focused on improving water
+efficiency in 2024. Key measures included targeting
+the most water-intensive production steps,
+eliminating unnecessary processes, conducting
+regular checks of plumbing systems and shut-
+off valves, reusing water wherever possible, and
+promoting awareness through 5S training programs
+and water-saving competitions. These efforts
+delivered tangible results: direct water consumption
+per car reached 2.48 m³/unit.
+Meanwhile, direct water consumption per scooter
+was 3.23 m³/ unit, up from previous years because our
+plant expanded production of new electric scooter
+models that consume more water in production,
+leading to an increase in average water demand.
+
+## Page 72
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+72
+Wastewater Treatment and Circularity
+VinFast operates a comprehensive wastewater management system at the Hai Phong complex to treat and recycle effluent:
+Internal facilities
+Seven pre-treatment and recycling
+stations with a combined capacity of
+53,096 m³/day. These units provide
+essential preliminary treatment and enable
+water to be recycled directly within our
+production processes.
+Equipped with Sequencing Batch Reactor
+(SBR) technology, total treatment capacity:
+3,200m³/day.
+Central Wastewater Treatment Plant
+(WWTP)
+Includes a 500 m³ monitoring tank for a
+final quality assessment before discharge,
+and a 35,500 m³ emergency pond to
+contain any effluent that does not meet
+standards, allowing it to be securely held
+and re-treated, thereby preventing any
+non-compliant discharge to the sea.
+Robust monitoring and compliance
+Automatic monitoring system continuously
+operates 24/7 and transmits data
+directly to the Hai Phong Department
+of Natural Resources and Environment
+(“DONRE”). This system tracks 14 key
+parameters in real-time, including flow,
+pH, temperature, COD, TSS, NH 4
++, total
+phosphorus, and various heavy metals
+(e.g., As, Cd, Hg, Pb, Cr).
+Mitigation safeguards
+Periodic in-depth laboratory analysis is
+conducted monthly by a licensed party;
+these analyses cover over 30 parameters,
+including biological indicators (E.coli,
+coliforms), organic compounds, nutrients,
+and a comprehensive suite of heavy metals.
+All effluent monitoring adheres strictly
+to Vietnam’s national regulations and the
+IFC guidelines.
+The effluent ourselves, we proactively
+assess our impact on the receiving
+ecosystem. This involves quarterly
+monitoring of the surface water in the
+project premises and marine water quality
+in the vicinity of our discharge point. The
+results are assessed against Vietnam’s
+national standards for surface water and
+coastal seawater.
+The first layer The second layer Beyond monitoring
+
+## Page 73
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+73
+Wastewater Treatment and Circularity
+The following tables provide detailed performance data related to our water discharge volumes, quality, and recycling efforts:
+Wastewater discharge and recycling
+Graph 17: Wastewater discharge and recycling at Hai Phong Plant
+In 2024, our total wastewater discharge
+from manufacturing activities was 578,139
+m³, representing an increase compared
+to 2023. This change was primarily driven
+by our expanded production scale.
+Furthermore, we recycled 26,404 m³ of
+treated wastewater, achieving a recycling
+rate of 6% through reusing treated
+effluent for purposes such as landscape
+irrigation and facility cleaning.
+For the 2024 reporting period, the sole
+destination for treated wastewater from
+our Hai Phong Plant was discharge to
+the sea, a process conducted in strict
+compliance with the conditions of our
+environmental permit. Based on its T otal
+Dissolved Solids (TDS) concentration,
+the effluent is classified as TDS ≤ 500
+mg/L) – a quality that is fully compatible
+with the receiving marine environment.
+As part of our stewardship, we maintain
+a quarterly seawater quality monitoring
+program in the surrounding area to ensure
+our operations do not cause adverse
+impacts on the local ecosystem.
+Concentration of priority substances of concern (PSCs)
+The average concentrations of all Priority
+Substances of Concern (PSCs) at the
+point of discharge were significantly
+below the stringent limits set by QCVN
+40:2011/BTNMT (Column A) and QCVN
+14:2008/BTNMT (Column A) for PSCs
+with this mark * which is not regulated in
+QCVN 40:2011.
+Specifically, the average Chemical
+Oxygen Demand (COD) concentration
+for the year was 15.7 mg/L, representing
+only 20.9 % of the 75 mg/L regulatory
+limit. Similarly, concentrations of all heavy
+metals such as Lead (Pb), Chromium VI (Cr
+VI), Copper (Cu), etc. remained at very low
+levels, demonstrating the effectiveness
+of our advanced treatment technology
+and rigorous quality control protocols.
+We are committed to maintaining this
+high standard of treatment performance
+to protect the marine environment.
+was discharge from
+manufacturing activities
+578,139
+T otal wastewater
+m³
+of treated wastewater
+26,404
+Recycled
+m³
+700,000
+600,000
+500,000
+400,000
+300,000
+200,000
+100,000
+0
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+2022 2023 2024
+Wastewater Discharge Water Recycled Recycling Rate
+
+## Page 74
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+74
+Managing Water-Related Impacts and Setting T argets
+Our most direct water-related impact is the discharge of treated effluent into the marine environment. We manage and mitigate this impact through a systematic framework of assessment, continuous monitoring, and target-setting to drive performance.
+Systematic Impact Assessment and Risk Management
+• The identification and assessment of water-related impacts
+are conducted systematically, in accordance with Vietnamese
+environmental regulations and the international standards
+we have adopted. From the initial project development stage,
+VFVN conducted a comprehensive Environmental Impact
+Assessment (“EIA ”) to analyze and forecast potential impacts on
+water resources throughout the full lifecycle of the Hai Phong
+manufacturing complex.
+• During ongoing operations, our ISO 14001:2015 certified
+Environmental Management System provides the core
+methodology for continuously identifying, assessing, and
+managing significant environmental aspects, including water
+use and discharge. The scope of this assessment covers all
+production, utility, and support activities at the facility, ensuring
+we control risks and maintain regulatory compliance.
+Continuous Monitoring and Compliance
+• T o ensure the protection of the receiving marine ecosystem, we
+employ a multi-layered monitoring strategy. Wastewater quality
+is monitored continuously through an automated 24/7 system
+that transmits data directly to regulatory authorities. This is
+supplemented by periodic sampling and laboratory analysis,
+performed at the frequency stipulated by our discharge permit
+quarterly, and regular internal audits. This rigorous monitoring
+ensures our treated effluent remains safely within all permitted
+parameters.
+T arget Setting, Performance, and Continuous Improvement
+• VinFast has implemented a structured process for setting
+ambitious water-related goals, combining technical feasibility
+analysis, regulatory requirements, and local environmental
+context. These goals are reviewed annually as part of our formal
+environmental management review, to evaluate performance and
+set objectives for the following year.
+Throughout 2024, a total of 26,404 m³ of treated wastewater was
+successfully reused for approved purposes. This represented
+a 6% reuse rate for the period. While this demonstrates our
+operational capacity for reuse, we did not meet our 20% target.
+A formal root cause analysis, which is part of our documented
+continuous improvement process, identified the primary shortfall
+drivers as operational challenges, including periods of exceptionally
+heavy rainfall which diluted demand for irrigation, and temporary
+excursions in treated water quality that rendered it unsuitable for
+reuse. Corrective action plans are now in place to improve the
+stability and quality of our treated water supply to better achieve
+our reuse targets in the coming year.
+
+## Page 75
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+75
+Resource Circularity
+Circular economy strategy
+T o drive the global
+electric vehicle revolution
+must go hand-in-hand
+with our responsibility to
+protect the planet.
+At VinFast, we recognize that our mission
+Therefore, we are aiming to transitioning from a traditional linear
+economic model to a circular economy model. Our approach
+extends beyond ‘end-of-pipe’ waste treatment, focusing
+instead on optimizing the entire material life cycle, starting
+from the ‘source’—from design and material selection, through
+production, to end-of-life product management.
+Graph 18: Material lifecycle approach: From input materials to output waste management
+We apply product life cycle thinking to systematically manage materials and waste, encompassing the following key stages:
+• Design for sustainability
+• Procurement of recycled and renewable materials
+• Efficient manufacturing and waste minimization
+• Customer and service center process
+• Reverse logistics and circular pathways
+• Performance and network coverage
+• Identifying waste streams and impacts
+• Managing waste-related impacts
+Our vision is to build a green mobility
+ecosystem where all materials are used at
+their highest value for as long as possible,
+contributing to a sustainable future for
+everyone:
+Minimizing environmental impact
+By reducing the extraction of virgin resources, limiting waste
+generation, and lowering associated greenhouse gas emissions.
+Enhancing supply chain resilience
+By reducing dependence on scarce and price-volatile natural
+resources, while creating a more closed-loop and sustainable
+value chain.
+Closing the Loop through
+End-of-Life Management
+(focus on Battery)
+Responsible waste
+management and
+circularity
+Optimizing input
+materials
+
+## Page 76
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+76
+Sustainable materials in EV products
+Our strategy for “optimizing input materials” is built on 03 fundamental pillars. This holistic approach ensures we minimize our
+environmental impact from the very beginning of the product life cycle.
+We integrate sustainable design principles
+to optimize vehicle structures, reducing
+weight to enhance energy efficiency and
+lessen the demand for raw materials.
+Prioritizing lightweight yet high-strength
+materials, such as advanced aluminum
+alloys, not only improves vehicle
+performance but also minimizes our
+resource burden.
+We are actively working with our suppliers
+to increase the use of recycled materials
+in our manufacturing processes. Our
+strategy focuses on key inputs like low-
+carbon aluminum (produced using
+renewable energy) and increasing the
+proportion of recycled content in steel
+and plastics.
+Efficient manufacturing and waste
+minimization: At our manufacturing
+facility in Hai Phong, we implement Lean
+Manufacturing processes and a high
+degree of automation to optimize material
+usage and minimize scrap at the source.
+Continuous improvement initiatives
+are deployed to enhance efficiency
+and reduce waste at every stage, from
+stamping, welding, and painting to final
+assembly.
+Key Focus Areas:
+• Steel and aluminum: As our highest-
+volume materials, we focus on reducing
+their embodied carbon. We partner with
+suppliers to source low-carbon aluminum
+made with renewable energy and aim to
+increase recycled content in our steel
+inputs—key steps in cutting our vehicles’
+carbon footprint from the outset.
+• Plastics: T o reduce plastic pollution
+and reliance on virgin fossil fuels, we are
+integrating more high-quality recycled
+plastics into non-structural vehicle
+components.
+• Battery materials:: Our EV battery
+strategy emphasizes a full-lifecycle
+approach. Through end-of-life recycling
+partnerships, we recover critical minerals
+and reintroduce them into the supply
+chain, reducing dependence on new
+resource extraction.
+Design for
+Sustainability
+Procurement of
+Recycled & Renewable
+Materials
+Efficient Manufacturing
+and Waste Minimization
+PILLAR 1
+PILLAR 2
+PILLAR 3
+
+## Page 77
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+77
+Waste management inproduction operations
+Our management approach to waste is guided by the principles of the circular economy and the waste management hierarchy.
+We understand that our operations generate waste, and we are committed to managing the associated impacts by prioritizing
+the most sustainable solutions.
+Identifying waste streams and impacts
+We identify and manage two main groups of waste arising from our activities: waste from production operations and end-of-life
+products:
+• Waste from production operations: At our Hai Phong Plant,
+we have classified waste into 03 main categories: domestic
+waste, normal industrial waste, and hazardous waste.
+• End-of-life products: We have recognized that products
+such as automobiles, batteries, air-conditioners, tires, and
+electronic equipment can cause environmental pollution if not
+handled appropriately. Therefore, collecting and treating them
+properly have become one of our core responsibilities during
+the process of operation.
+Managing waste-related impacts
+All wastes were rigorously segregated at the source and stored in designated areas. We have signed a contract with licensed and
+professional waste management companies to ensure all kinds of waste were collected, recycled, and treated in compliance with
+regulations. For hazardous waste, in particular, we have been working toward the goal of “Zero landfill”  to strengthen the protection
+of soil, water, and the ecosystem.
+For manufacturing waste
+• For hazardous waste, our management protocol has begun
+with rigorous at-source segregation and secure storage. Key
+hazardous waste streams from our production processes
+included hard metal waste packings, waste chemicals, solvents,
+oil-contaminated rags, paint dust and residue, and sludge from
+our wastewater treatment system. All hazardous materials were
+then transferred to licensed contractors for proper treatment. In
+line with our goal of “Zero landfill” for this stream, we prioritized
+treatment methods that enable circularity, such as re-refining for
+solvents or decontamination for recycling over final disposal.
+• For non-hazardous waste, our main streams consisted of both
+normal industrial solid waste and domestic waste, including
+materials such as domestic waste, scrap metal, plastics, paper,
+cardboard, and wood pallets. We have implemented strict
+segregation programs at the point of generation to maximize the
+volume of materials diverted to our recycling companies. This
+meticulous process was critical for transforming waste into a
+resource and advancing our circular economy objectives.
+Since 2019, VinFast has published information on our collection point, developed an internal “Procedure of Discarded Product” and
+prepared annual reports for the Ministry/ Department of Natural Resources and Environment (MONRE/DONRE).
+Procedures and reporting
+
+## Page 78
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+78
+2022 2023 2024
+50,000.00
+60,000.00
+70,000.00
+80,000.00
+40,000.00
+30,000.00
+20,000.00
+10,000.00
+0.00
+100,000
+120,000
+140,000
+160,000
+180,000
+80,000
+60,000
+40,000
+20,000
+0.00
+tonnes
+Pcs
+Hazardous waste Non - hazardous waste T otal number of vehicles manufactured
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+0.00
+2022 2023 2024
+Overall
+Recycling Rate
+Hazardous waste
+recycling rate
+Non - hazardous waste
+recycling rate
+Progress in 2024
+Waste management in production operations
+In 2024, our total waste generation increased to 71,797 tonnes. This rise corresponds with
+the significant expansion of our production activities at the Hai Phong manufacturing
+complex, where the total number of vehicles manufactured increased substantially, as
+illustrated in Graph 19.
+Graph 19: T otal hazardous and non-hazardous waste (tonnes of kilograms) (2022-2024)
+In this context, we achieved an overall waste diversion rate of 89.2% and maintained
+a high recycling rate for non-hazardous waste, which stood at 92.5% in 2024. This
+reflects our ongoing processes for segregating and recycling common industrial
+materials like scrap metal and packaging.
+The overall diversion rate changed from 91.2% in 2023 to 89.2% in 2024, a shift that
+is primarily related to the recycling rate for hazardous waste. This can reflect the
+challenges of scaling up new production lines, which may introduce more complex or
+difficult-to-recycle hazardous materials, such as specific solvents, paint sludges, or
+certain battery-related waste streams.
+Graph 20: : Waste recycling rate at Hai Phong Plant (%) (2022-2024)
+71,797 89.2%
+T otal waste generation in 2024 Overall waste diversion rate of
+tonnes
+
+## Page 79
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+79
+End-of-Life management for
+EV batteries
+EV batteries are at the heart of the green mobility revolution
+and are a focal point of our circular economy strategy. VinFast is
+committed to responsibly managing the entire battery lifecycle
+through a multi-faceted, global strategy focused on maximizing
+value and minimizing environmental impact:
+Our priority is always to extend the battery’s operational life.
+VinFast service workshops are equipped with advanced
+diagnostic tools and robust protocols for battery maintenance
+and restoration. This allows our technicians to precisely assess
+battery health and perform modular repairs. This approach not
+only ensures the best possible customer experience but also
+significantly minimizes waste and conserves resources.
+Maximizing operational life
+Innovating for future
+circularity
+Giving batteries
+a second life
+Repair
+Research Reuse and Recycling
+Repair: Maximizing operational life
+
+## Page 80
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+80
+BA TTERY REUSE
+Extending Life through
+Second-Life Applications
+End-of-Life management for EV batteries
+• Battery Subscription & T ake-Back: Under our battery
+subscription model, once a battery’s capacity falls below the
+contractual threshold (typically 70%), it is automatically collected
+and replaced. This system ensures a reliable stream of used
+batteries for second-life applications.
+• Repurposing into BESS: In partnership with Marubeni Corporation
+in Japan, VinFast is developing Battery Energy Storage Systems
+using decommissioned EV batteries without disassembly or
+repacking. This innovative, cost-efficient approach enables large-
+scale reuse while minimizing environmental impact.
+Enabling Circularity
+Across Markets
+COLLECTION AND
+REVERSE LOGISTICS
+• Official Collection Infrastructure: We
+operate an official collection point at
+the VinFast Hai Phong Manufacturing
+Complex, offering free disposal for
+used VinFast-labeled products and
+accessories. Customers can bring directly
+to Hai Phong Plant or bring to any service
+centers in Vietnam, and we will transfer to
+the Plant for classification and processing
+in accordance with the law.
+• Customer Drop-off & Service Protocols:
+Customers can return used or end-of-
+life batteries by contacting their nearest
+VinFast showroom or authorized service
+center. Our trained technicians at these
+locations then follow a strict Standard
+Operating Procedure (“SOP”) which
+includes initial safety inspection, secure
+disconnection from the vehicle, diagnostic
+testing, and specialized packaging for
+safe storage and transport.
+• Battery Management by VinES: All
+used or damaged batteries collected by
+VinFast are transferred to our affiliate,
+VinES, which leads the battery recycling
+process. VinES ensures proper treatment,
+recovery, or reuse depending on the
+condition of the battery.
+Reuse and Recycling
+Giving batteries a
+second life
+1
+2
+
+## Page 81
+
+VinFast’s 2024 Sustainability Report Accelerating Green Operations – Energy, Water & CircularityChapter 4
+81
+Repair & Refurbishment
+Batteries suitable for further use are
+repaired and returned to circulation in
+vehicles.
+Batteries that can no longer be used in
+vehicles but retain usable capacity are
+repurposed, such as in BESS applications
+through our Marubeni partnership.
+Second-Life Repurposing
+Global Recycling
+Network and 2024
+Performance
+Strategic partnership with Li-Cycle
+Since November 2022, VinES (a VinFast subsidiary) and
+VinFast have entered a global partnership with Li-Cycle, a world
+leader in lithium-ion battery recycling. We are implementing
+their advanced “Spoke & Hub” model, which allows for the
+recovery of valuable metals such as lithium, nickel, and cobalt
+to produce new batteries, creating a true closed-loop cycle.
+This agreement was strengthened in 2023, making Li-Cycle
+a strategic partner for VinES in Vietnam, with a plan to build a
+“Spoke” facility near our plant, with investment planned for 2025.
+Through our strategic partnerships with Li-Cycle and Marubeni,
+we are building a comprehensive circular ecosystem. The
+recovery of critical materials from recycled batteries allows them
+to become recycled input materials for the supply chain, reducing
+our dependence on virgin resource extraction and effectively
+closing the material loop.
+Research: Innovating for future circularity
+We continuously invest in R&D to develop new battery technologies
+that are not only higher in performance but also more durable and
+easier to process at their end-of-life. Our key R&D focus areas for
+enhancing battery circularity include:
+Collected batteries are evaluated and directed to one of three circular pathways:
+End-of-life batteries are sent to certified
+recycling partners—including Li-Cycle and
+VinES—for recovery of critical materials
+like lithium, nickel, and cobalt.
+Recycling & Material Recovery
+• Developing more durable and sustainable battery materials to
+extend lifespan.
+• Innovating ‘Design for Disassembly’ principles to make batteries
+easier and safer to deconstruct for repair or recycling.
+End-of-Life management for EV batteries
+Reuse and Recycling
+Giving batteries a
+second life
+CIRCULAR P A THWA YS
+Repair, Repurpose,
+Recycle
+3
+4
+
+## Page 82
+
+01
+05
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+82
+VinFast’s 2024 Sustainability Report
+Human Capital, Safety
+& Community
+ EMPOWERING PEOPLE
+A workplace to drive a Sustainable Future
+Occupational Health & Safety (“OHS”)
+Community engagement &
+Socioeconomic contribution
+84
+93
+97
+
+## Page 83
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+83
+At VinFast, our people are the driving force behind our innovation, performance, and
+long-term success. We are committed to cultivating a safe, inclusive, and empowering
+work environment where every employee can thrive. Through strategic investments in
+talent development, diversity and inclusion, occupational health and safety, and employee
+engagement, we aim to build a resilient and future-ready workforce aligned with our mission
+of sustainable mobility.
+2024 Social Highlights
+929,761,669 VND
+Invested in our community
+(52% growth compared to 2023)
+50%
+Board members are women
+6,940
+Reaching 480,965.34 hours
+and engaging 482,087 attendees
+Courses
+conducted 85%
+employees in Vietnam’s satisfied
+with “Inclusive culture”
+ISO 45001:2018
+Hai Phong Plant is certified
+
+## Page 84
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+84
+A workplace to drive a
+Sustainable Future
+At VinFast, we believe our people are the driving force behind our innovation and impact. As we work to pioneer a sustainable mobility future, we are equally committed to creating a
+workplace where every employee feels valued, supported, and empowered to thrive professionally and personally.
+Offering knowledge
+acquisition, self-
+development and promotion
+opportunities.
+Thinking highly of fairness,
+transparency and having
+utter respect for discipline.
+Being courteous, respectful,
+and cooperative.
+A place for capable,
+passionate and devoted
+leaders.
+Offering competitive
+compensation and benefits
+together with satisfying
+working conditions.
+
+## Page 85
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+85
+3-5 years
+8.5%
+5-7 years
+11.0%
+5-7 years
+11.5%
+7-10 years
+0.5%
+1-3 years
+37.7%
+<1 years
+42.3%
+<1 years
+42.5%
+3-5 years
+8.6%
+7-10 years
+0.5%
+1-3 years
+36.9%
+T alent Attraction in 2024
+2024 was a year of significant talent acquisition to fuel
+our growth. Globally, there were 7,520 employees
+who joined VinFast, with 97% of these new hires
+were in Vietnam to continue strengthening our core
+operations. This included 222 senior leaders (Grade
+T4 and above), who are crucial for scaling Research
+and Development, Manufacturing and Business
+operations and driving our strategic priorities.
+This surge in hiring was strategically aligned with
+our expansion roadmap. A significant portion of
+new hires was concentrated at our Hai Phong Plant
+to support production ramp-up for new EV models,
+while the growth in expatriate talent was closely
+tied to the establishment of new factories in India
+and Indonesia and the build-out of global sales and
+marketing teams. In markets such as the Philippines
+and the Middle East, 100% of the current workforce
+was recruited within the year, demonstrating our
+rapid market-entry capabilities.
+Employee tenure and retention
+VinFast focuses on retaining a high-quality workforce and
+recruiting new talent to meet business and production plans.
+As of December 31, 2024, VinFast’s workforce expanded
+a 40% increase to the same period in 2023. The workforce
+growth figures over the years, together with employee tenure
+data, reflect trends commensurate with our rapid growth.
+Forty-two percent of our employees have been with the
+company for less than one year. A stable core of experienced
+professionals is evident, with 20% of the team having been
+with us for over three years, providing essential mentorship
+and stability.
+Graph 21: Work tenure at VinFast’s Vietnam and globally
+T o enhance retention and employee engagement, in 2024 we launched several key initiatives, including enhanced onboarding
+programs, clear career pathing frameworks, and competitive benefits reviews.
+ Globally  VinFast Vietnam
+T alent Attraction
+In the upcoming period, VinFast aims to strengthen
+its position as an employer of choice by advancing a
+forward-looking, inclusive, and impact-driven talent
+strategy. Our approach focuses on three core pillars:
+future-ready capabilities, diversity and inclusion, and
+purpose-driven culture.
+T o meet the growing demand for green mobility
+and digital transformation, we are prioritizing the
+recruitment of high-potential talent in key areas such as,
+Electric Vehicles Development and Production, battery
+technology, AI, and sustainability. VinFast is expanding
+its partnerships with top universities in Vietnam and
+globally through internship programs, joint research
+projects, and career fairs. We also plan to launch a
+program to attract young professionals passionate
+about climate innovation and sustainable development.
+In Vietnam, our employer branding efforts will
+highlight career progression, innovation, and our
+mission of creating a sustainable future. In other
+markets, we will continue to offer competitive
+relocation packages, hybrid work models, and
+project-based roles to effectively tap into the global
+EV talent pool.
+7,520 employees
+joined VinFast in 2024
+
+## Page 86
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+86
+EXECUTIVES
+MANAGERS
+ST AFFS
+T1 & above
+CEO, Chairman,
+Deputy CEO
+Division Head,
+Senior Director
+Specialist/
+Engineer Staff, T eam Member
+T2
+Head of Department,
+Manager
+T eam Leader,
+Shift Leader
+Director,
+Senior Manager
+T3 T4 T5
+Senior Specialist/
+Senior Engineer
+T6 T7 T8
+Employee Development and Career Growth
+Learning and Capability Building
+Investing in our people’s continuous development is vital to cultivating
+a skilled, agile, and engaged workforce equipped to meet strategic and
+operational goals in a fast-evolving industry.
+VinFast’s organizational structure is delineated into eight employment
+tiers, from T8 to T1. Specifically, Tiers T8– T6 represent staff-level
+roles, Tiers T5– T3 representing mid encompass middle management
+positions and Tiers T2– T1 include executives and Board of Directors.
+Graph 22: Categorization of tiers from staff level to Board level
+
+## Page 87
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+87
+Learning and Capability Building
+VINFAST’S TRAINING
+AND DEVELOPMENT
+VinFast’s training system is built on three key pillars: T o foster continuous growth, VinFast has invested in digital
+learning platforms, including the SabaCloud training hub,
+providing employees with constant access to leadership,
+technical, and professional upskilling. In Vietnam, employees
+are also encouraged to share new ideas via v.creative@VinFast.
+vn, reinforcing a culture of innovation.
+In 2024, VinFast executed an extensive training agenda, delivering
+6,940 courses that amounted to 480,965 training hours and
+engaged 482,087 participants. On average, each employee
+received 24.4 training hours, with staff-level employees (T5 and
+below) averaging 24.9 hours and management-level employees
+(T4 and above) averaging 14.3 hours.
+A key focus in 2024 was on ESG training, which was delivered
+through two complementary approaches:
+ESG-specific training:
+T ailored courses for employees working directly on sustainability,
+covering Climate Change Management – Carbon Neutrality,
+Quantifying the Carbon Footprint of Products, GRI Standards, and
+Environmental Management, among others.
+ESG-integrated training:
+ESG principles were embedded into broader programs, including
+onboarding for new hires and periodic refresher training on ESG
+policies, ensuring that all employees remain aligned with VinFast’s
+sustainability commitments.
+Employee Development and Career Growth
+Foundational Training
+Skills Upgrading
+Leadership Development
+Programs such as “VinFast – The Origins of Excellence” introduce employees to
+our culture, internal regulations, and service standards.
+Includes orientation, cultural integration, ten standardized soft-skill modules,
+role-specific specialization courses, and advanced professional development.
+Competency-based programs designed to nurture current leaders and prepare
+future ones.
+
+## Page 88
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+88
+Performance, Career Development, and Succession Planning
+The Company prioritizes ensuring business
+continuity and leadership resilience
+across critical management positions.
+The Company identified key roles—
+such as R&D Directors, Plant Directors,
+Department Heads, Senior T echnical
+Experts as priorities for succession
+planning. Succession reviews were
+conducted twice a year to evaluate bench
+strength and readiness levels.
+High-potential employees were identified
+using performance ratings, leadership
+competencies, manager nominations,
+and were incorporated into tailored
+development plans. These included [insert:
+development methods, e.g., leadership
+training, mentorship, cross-functional
+assignments, or international exposure],
+designed to prepare successors for future
+responsibilities. In 2024, 100% of key roles
+had at least one identified successor.
+There are initiatives complimented by a
+strong focus on interal mobility, with 53%
+of management vacancies filled through
+internal promotion. The HR Department
+monitored progress and reviewed
+succession metrics regularly. These
+initiatives reflect VinFast’s commitment
+to long-term workforce sustainability by
+cultivating leadership talent from within
+and reducing reliance on external hiring for
+strategic roles.
+Ultimately, process ensures that employees
+not only receive regular performance
+feedback but also have a clear pathway to
+grow and thrive within VinFast’s ecosystem.
+VinFast applies to a structured KPI-based performance management system. In
+Vietnam, employees with at least three months of service usually undergo semi-annual
+evaluations. In contrast, operational roles are subject to monthly or quarterly reviews to
+ensure goal alignment.
+Employee Development and Career Growth
+• Role-specific certification exams to
+validate skills required for specialized
+positions.
+• Internal trainer programs to grow peer
+learning and leadership.
+• Annual competency assessments,
+which emphasize hands-on application
+(80%) alongside theoretical knowledge
+(20%).
+In Vietnam, employees are classified into four performance tiers based on
+evaluation results:
+Performance outcomes serve as
+direct inputs for decisions related to
+promotions, salary adjustments, and
+reward eligibility.
+T o support career advancement, in
+some regions, VinFast offers several
+development tools:
+Tier A
+(maximum 20% of
+employees)
+≥90%
+Tier B
+(maximum 50%)
+80–<90%
+Tier C
+55–<80%
+Tier D
+<55%
+
+## Page 89
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+89
+Compensation, Welfare, and Benefits
+VinFast complies with Vietnamese labor laws,
+providing at least 85% of full salary during probation
+period.
+Employee salaries are reviewed on a regular annual
+basis, based on performance evaluations, or an
+ad-hoc basic when deemed nesessary. The key
+critical considered for salary adjustment include: i)
+Exceptional performance: provide timely reconigtion
+and motivation for individuals who deliver outstanding
+archivement and work results, bringing significant
+value to the Company; ii) Change in scope and
+responsibilities: when there is a significant change in
+volume, scope or responsibilities of a role, resulting in
+increased pressure and a higher expertation for the
+employee. iii) Competency framework and Career
+path: to ensure compensation level is commensurate
+with the role, position, and employee’s development
+potential within the established competency
+framework and career trajectory.
+Employees who demonstrate exceptional
+contributions are rewarded with bonuses and
+recognition incentives. In Vietnam, employees are
+also entitled to a 13th Month Bonus and participate in
+a Recruitment Referral program, along with Rewards
+for campaign, project achievements.
+Compensation &
+Recognition
+Health, Safety &
+Security
+We are evolving our support systems to meet
+changing employee needs, exploring flexible work
+arrangements, expanded paid leave policies, and
+future offerings in retirement planning and education
+support.
+We believe that we maintain a positive working
+relationship with our employees, and we have not
+experienced any significant labor disputes or work
+stoppages.
+Future-Focused
+Benefits  &
+Flexibility
+Our employees are enrolled in locally mandatory social,
+health, and unemployment insurance programs.
+Employees must undergo a health examination
+once a year, those who perform heavy, dangerous
+and hazardous works or those who are disabled or
+have reached certain age must undergo for medical
+examination twice a year.
+Beyond that, VinFast’s tiered healthcare packages
+offer enhanced coverage. In moments of illness,
+accident, or unexpected life events, VinFast provides
+support, where possible, for employees and their
+families.
+
+## Page 90
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+90
+Female
+20%
+18-30
+39%
+Male
+80%
+30-50
+59%
+Vietnam
+96.74%
+>50
+2%
+Others
+1.62%
+North America
+2.63%
+• Fair Recruitment & Advancement
+Hiring, training, and promotions are merit-based, regardless
+of race, gender, age, sexual orientation, disability, or other
+protected statuses.
+• 2024 Workforce Diversity Metrics
+Our commitment to diversity is reflected in our workforce
+composition. As of year-end 2024, our global team shows a
+dynamic mix of age groups, with a strong foundation of experienced
+professionals and a significant cohort of emerging talent.
+Equal Opportunity Commitment
+Graph 23: Diversity, Equity and Inclusion statistics at VinFast in 2024
+VinFast’s Equal Opportunity Policy ensures that all employment decisions-recruitment, advancement, compensation, and benefits-are
+free from discrimination and based solely on personal achievements and merits.
+By Gender
+Global Workforce Breakdown
+By Age Group By Region
+Diversity, Equity, and Inclusion (DEI)
+At VinFast, a diverse, equitable, and inclusive workforce is central to our identity and strategy for sustainable success. We believe that
+embracing differences fuels innovation and enables us to lead in smart mobility.
+
+## Page 91
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+91
+Inclusive & Respectful Culture
+Our Code of Conduct reinforces respectful behavior and
+inclusion. Employees are expected to treat others with
+dignity and professionalism and avoid inappropriate or
+offensive remarks.
+In line with GRI 405 and SDG 5, 50% of the Board are
+women, including our Chairwoman. In 2024, VinFast
+established an internal Global DEI Council to advise on fair
+recruitment, inclusive workplace culture, and succession
+planning.
+Diversity, Equity, and Inclusion (DEI)
+Zero T olerance for Harassment
+VinFast prohibits all forms of harassment, including based
+on gender, race, religion, or other protected traits. This
+includes sexual harassment and unwelcome advances.
+Our workplace must remain safe, respectful, and inclusive
+for all.
+
+## Page 92
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+92
+CHANNELS
+COMPLAINT HANDLING PROCESS
+OVERSIGHT AND GOVERNANCE
+Grievance and speak-up system
+VinFast has established a grievance mechanism to support
+employee accountability and protection.
+• Email: v.speakup@VinFast.vn
+• In person: by speaking with the person’s manager or a member
+of the HR, IA, or Legal teams.
+An independent employee survey in Vietnam in late 2024 showed 85% of employees in Vietnam’s satisfied with “inclusive culture”, up from 78% in 2023, affirming our belief that an open
+culture drives loyalty, productivity, and innovation.
+• Intake and Acknowledgment: The Internal Audit (“IA ”)
+department receives the report, logs the case, and acknowledges
+receipt.
+• Preliminary Review: A preliminary assessment is conducted to
+determine the nature, validity, and scope of the concern.
+• Case Assignment: For valid cases, an investigation team—
+known as the Speak Up Panel—is formed. This panel includes
+representatives from directly relevant departments to ensure
+impartiality.
+The system is governed by a multi-layered oversight structure to ensure effectiveness and protection of all involved:
+VinFast continuously evaluates its accountability mechanisms to ensure they remain effective, accessible, and aligned with international
+good practices.
+• Whistleblower Protection Officer (“WPO”): Safeguards against
+retaliation and ensures fair treatment of complainants.
+• Speak Up Administrators: Manage case intake, routing, and
+process tracking.
+• IA T eam: Maintains oversight of investigations and ensures
+compliance with internal policies.
+Diversity, Equity, and Inclusion (DEI)
+• Confidential Investigation: The panel conducts a thorough and
+confidential investigation, protecting the identity of the reporting
+person wherever possible.
+• Resolution and Communication: Upon concluding the
+investigation, the panel documents findings, determines
+appropriate actions, and communicates the resolution to the
+relevant parties. Feedback to the complainant is provided where
+applicable.
+• Follow-Up: If applicable, corrective actions are implemented and
+tracked to ensure closure of the issue.
+VinFast follows a transparent and structured approach to handling complaints:
+• Speak Up Panel: A cross-functional team responsible for
+conducting fair, timely, and thorough investigations.
+• Audit Committee: Provides oversight of the entire Speak Up
+program, including periodic reviews of policy effectiveness and
+response integrity.
+• Grievance boxes.
+• Written complaints to the Audit Committee.
+
+## Page 93
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+93
+Occupational Health & Safety (“OHS”)
+At VinFast, the health, safety, and well-being of our employees
+are paramount; especially when over 40% of our employees are
+considered to work under an inherent harsh and toxic environment. Our
+comprehensive OHS management system, established in accordance
+with ISO 45001:2018 in 2020 and re-certified in June 2023, covers 100%
+of our workforce across operational sites in 2024. We embed safety into
+every aspect of our operations through a structured governance system
+with defined responsibilities, including a safety organization chart that
+ensures accountability at every level.
+The Plant’s OHS Committee (“OHS Committee”), chaired by the
+Plant Director and comprising 25 representatives from the safety
+department, trade union, medical team, and shop leadership, oversees
+implementation. In 2024, the OHS Committee held 12 formal meetings,
+coordinated routine inspections, and guided interdepartmental action
+plans to ensure ongoing compliance and continuous safety improvement.
+Environmental condition monitoring remained a cornerstone of risk
+control at VinFast, supported by an investment of 1,319.27 million VND
+in 2024. In collaboration with the National Institute for Occupational
+Safety and Hygiene in Vietnam, the Plant conducted a total of 13,220
+environmental samples to assess temperature, noise, and air quality—
+representing a 4% increase from 2023 and 87% from 2022. While
+347 samples exceeded regulatory thresholds, the proportion of non-
+compliant results dropped to 2.6% in 2024, continuing the positive trend
+from 5% in 2022 and 3% in 2023, despite expanded sampling. These
+results reflect measurable improvements in environmental control and
+workplace safety. Key interventions included the installation of additional
+ceiling fans to reduce heat, improved airflow and lighting, noise isolation
+for high-decibel equipment, and the distribution of environment-specific
+PPE such as earplugs and masks. T ogether, these upgrades contributed
+to safer, more comfortable working conditions and demonstrated
+VinFast’s commitment to proactive and data-driven occupational health
+management.
+We aim to integrate our OHS management system (ISO 45001:2018)
+with our Environmental Management System (ISO 14001:2015). This
+integration is facilitated through the use of common assessment
+tools and unified procedures related to OHS, fire prevention, and
+environmental protection, creating a more holistic approach to managing
+our operational impacts.
+At VinFast, the health, safety, and well-being
+of our employees are paramount.
+Environmental
+samples13,220
+Increase
+from 202287%
+
+## Page 94
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+94
+System & Risk Management
+Our OHS framework proactively identifies, assesses, and mitigates workplace hazards.
+In 2024, we conducted 2,532 site-specific risk assessments across all production zones.
+These assessments led to the implementation of 9,497 targeted corrective actions
+and maintained rigorous incident reporting and investigation protocols. These efforts
+contributed to a 20.9% reduction in repeat incidents year-over-year.
+Risk prevention measures remained
+comprehensive. The Plant continued
+rearranging work positions and schedules
+to minimize exposure to harmful factors,
+upgraded equipment, provided area-
+specific protective gear, and implemented
+routine environment monitoring—
+especially in high-risk areas. Workers
+were trained in prevention and personal
+protection measures to address exposure
+risks effectively.
+VinFast recorded a total of 21 occupational
+accidents in 2024—a notable improvement
+compared to 39 cases in 2023. As a result,
+our Lost- Time Injury Frequency Rate
+(“L TIFR”) dropped to 0.7, down from 1.54
+the previous year (including Manufacturing
+site only). Additionally, we recorded zero
+occupational disease cases or fatalities
+in 2024. The company allocated 48.34
+million VND to compensation related to
+occupational incidents, underscoring our
+commitment to transparent reporting and
+remediation.
+Occupational Health & Safety (“OHS”)
+site-specific risk
+assessments
+In 2024 we conducted
+2,532
+targeted corrective
+actions
+Led to the implementation of
+9,497
+reduction in
+repeat incidents
+year-over-year
+20.9%
+
+## Page 95
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+95
+Worker Participation & Training
+We cultivate a safety-first culture where every employee plays a vital role. In 2024, we
+delivered comprehensive training programs to our workforce, supported by a total budget
+of 1,832.57 million VND for OHS and first aid training initiatives.
+• Emergency Response T eam Training:
+100% of the members of our emergency
+response team, received specialized
+training.
+• OHS training for contractor employees:
+100% of our employees received training.
+• Occupational Safety Training: 100% of
+employees received training.
+• First Aid Training: 100% of employees
+received training.
+OHS mandatory training
+• External Training: in Vietnam, 100% of the
+OHS personnel and employees are trained
+on mandatory OHS by licensed third party
+training providers in compliance with
+Decree No. 44/2016/ND-CP.
+• In-House Training: We conducted in-
+house OHS training for employees. Key
+information on the in-house training
+programs conducted during the reporting
+period is presented in below table
+T able 9: In-house safety training programs during 2024
+No. Training Program T argeted participants Participation rate
+1 Safety Orientation training All new employees 100%
+2 Electric safety training Shop/Dept EHS PIC 100%
+3 Hazardous Chemical and Dangerous Goods procedure training Shop/Dept EHS PIC 100%
+4 Risk and impact assessment procedure training T eam lead, management 100%
+5 Safety Traffic Procedure training Shop/Dept EHS PIC 100%
+6 Contractor Safety Management training Shop/Dept EHS PIC 100%
+7 Safety Observation T our procedure training T eam lead, management 100%
+8 Hazardous Energy Control Procedure training (LOTO) Production personnel 100%
+9 Fire Protection & rescue All new employees 100%
+10 Fire protection & rescue equipment use practice Shop/Dept EHS PIC 100%
+11 Work permit procedure training Shop/Dept EHS PIC 100%
+12 Environmental Management System, Environment Impact
+Assessment and Waste classification
+Newcomer 100%
+13 Environmental aspect evaluation and management Shop/Dept EHS PIC 100%
+14 Context analysis and risk assessment T eam lead, management 100%
+15 E&S monitoring plan ESG & EHS Staff 100%
+Occupational Health & Safety (“OHS”)
+
+## Page 96
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+96
+Health, Emergency & Supply Chain Safety Initiatives
+Caring for employees’ health
+VinFast goes beyond compliance by promoting holistic
+employee well-being. Our OHS management system
+remained operational across all production and support
+all of our global facilities. 100% of our workforce, including
+contractors, was covered by this system.
+OUR ONSITE CLINIC
+CHECK-UPS
+Operating 24/7 with doctors, nurses, and hygiene staff—conducted 2,722 consultations in 2024.
+T able 10: The number of employees who visited the clinic in Hai Phong Plant (2022-2024)
+VinFast is committed to safeguarding the
+health and well-being of our workforce. In
+accordance with Vietnamese regulations,
+we conduct comprehensive health programs
+tailored to different work -related exposures.
+• In  2024, 5,908 employees participated
+in periodic health check -ups, with results
+indicating a strong overall state of health:
+74% were classified in the top two health
+categories (I and II), enabling our medical
+team to provide targeted preventative care
+where needed.
+• For employees in roles with specific
+occupational risks, we conducted dedicated
+screenings. A total of 6,129 employees
+underwent examinations for the detection
+of occupational diseases, fully complying
+with legal requirements for at-risk positions.
+• We invested a total of 11,918.63 million VND
+in these vital health programs this year,
+including 7,721.5 million VND for periodic
+check -ups and 4,197.13 million VND for
+occupational disease screenings. We
+are pleased to report that no new cases
+requiring compensation for occupational
+diseases were recorded in 2024.
+2021 2022 2023 2024
+The number of
+employees who
+visited the Clinic
+972 2,505 2,234 2,722
+EMERGENCY RESPONSE
+Activities on Fire Prevention and Safety  in out Plant
+During 2024, our Plant maintained an Emergency Response team with a total of 241
+members (including 14 women). All members were trained by experts from Vinmec Hai
+Phong Hospital. The team is responsible for providing first aid where needed.
+The Plant has a Safety and Fire Protection department, including one Occupational Safety
+T eam with five members, 11 Safety Specialists at each Shops and one Fire Protection and
+Rescue T eam with 12 members.  The Emergency Response Command Board, established
+in 2023, is responsible for developing and implementing accident prevention and response
+programs. Auxiliary emergency team members were trained by the Hai Phong Fire Fighting
+Police Department.
+• In 2024, a total of 23 emergency drills were
+conducted across the facility. The drill
+schedule was comprehensive, covering a
+wide range of workshops from E-motor and
+Battery (battery cell, battery pack) to Paint
+and Assembly shops, reflecting a risk -based
+approach. The primary focus was on fire
+and explosion scenarios but also included a
+dedicated drill for a hazardous chemical spill.
+• Crucially, our drills emphasized collaboration
+with external professional bodies. Several
+exercises, including those for the Electrical
+bike warehouse and with key partners like
+Lear and Antolin, were conducted with
+the direct participation of the Hai Phong
+City Fire Police and Rescue Department.
+This ensures our internal procedures
+are robust and aligned with professional
+emergency services. Furthermore, the
+chemical spill drill at the Central Chemical
+Warehouse was formally witnessed by the
+Hai Phong Department of Industry and
+Trade, demonstrating our commitment to
+transparency and regulatory oversight.
+T able 10: The numberof employees who visited the clinic in Hai Phong Plant (2022-2024)
+2022 2023 2024
+Men Women Men Women Men Women
+Emergency
+Response team 166 42 171 53 227 14
+
+## Page 97
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+97
+Community engagement & Socioeconomic contribution
+VinFast is steadfast in its commitment to fostering positive and sustainable
+development within the communities where we operate, particularly in the Cat
+Hai Island district. In 2024, we continued and expanded several key programs
+centered on community health, access to essential resources, livelihood support,
+and educational advancement. These programs were implemented in close
+collaboration with local authorities and residents, ensuring that local voices are
+reflected in both design and delivery.
+T able 12 and 13: 2024 Community Investment Highlights
+T otal Direct Community Investment:
+Primary Beneficiaries
+Households, students, and community members in the Cat Hai Island district.
+2022 2023 2024 YOY growth %
+604,102,000 612,405,000 929,761,669 52%
+2022 2023 2024 YOY growth %
+587 1,027 1,316 28%
+
+## Page 98
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+98
+Key Focus Areas: Based on the results of the needs assessment
+and consultation with affected households and local authorities,
+VinFast has developed and implemented social programs
+including the Livelihood Restoration Plan, Community Health
+Development Plan, Community Development Plan and
+Supplemental Resettlement Action Plan. These activities are
+crucial for achieving our SDGs by addressing the environmental
+and social impacts of the project:
+Community Health
+Development Plan (CHDP);
+Community
+Development Plan (CDP) CHDP focuses on improving health
+outcomes by addressing health-related
+needs, promoting access to healthcare
+services, and improving sanitation and
+hygiene.
+CHDP often includes interventions to
+improve access to clean water and
+sanitation facilities, directly contributing
+to this SDG.
+Supplemental Resettlement
+Action Plans (SRAP)
+SRAPs can provide additional support to
+ensure that vulnerable households are not
+left behind during resettlement, helping
+them to achieve a level of livelihood similar
+to their pre-displacement status.
+SRAPs can focus on addressing the
+specific needs of vulnerable groups,
+including women, the elderly, and people
+with disabilities, to reduce inequalities
+within the affected communities.
+Community engagement
+& Socioeconomic contribution
+Livelihood Restoration
+Plan (LRP)
+LRPs specifically target vulnerable groups,
+ensuring they receive tailored support to
+restore or improve their livelihoods and
+reduce inequalities.
+By providing training, skills development,
+and access to resources, LRPs contribute
+to creating sustainable livelihoods and
+economic opportunities.
+LRPs aim to restore or improve livelihoods,
+ensuring affected individuals and
+communities can maintain or improve their
+income levels and reduce poverty.
+
+## Page 99
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+99
+Enhancing Access to Clean Water and Sanitation (CHDP, CDP)
+Recognizing the fundamental importance of clean water for health and well-being, VinFast made significant investments in improving
+access for the Cat Hai Island community.
+Clean Water for Kindergartens
+• Cat Hai Island had not been supplied with clean water before
+VinFast was established there. Local people were used to relying
+on rainwater or buying clean water from private companies at an
+exorbitant cost. T o support local people and enhance community
+health, since 2019, VinFast has provided support on clean water
+for Van Phong kindergartens at no cost.
+• Since 2023, based on the result of a survey and needs assessment,
+VinFast decided to provide clean water to all kindergartens in Cat
+Hai Island including Van Phong, Dong Bai, Nghia Lo, Hoang Chau
+kindergartens.
+• VinFast sponsored for kindergartens by cash, then they bought
+clean water from the private water company (this company carried
+water from central points which are connected from VinFast and
+delivered to households by truck).
+BACKGROUND OBJECTIVE
+• Sponsoring clean water costs for kindergartens, including Van
+Phong, Sao Mai, Dong Bai and Hoang Chau, aims to support
+children of households with access to free clean water. This
+program will help reduce education costs for households,
+improve hygiene and safety in food consumption, and help prevent
+diseases caused by using unsanitary water sources.
+IMP ACT OBSERV A TIONS
+• Health & Hygiene: Parents feel more secure when sending their
+children to school, no longer worrying about the lack of clean
+water, especially in the dry season.
+• School Feedback: T eachers report that children enjoy drinking
+more water and that having access to clean water has reduced
+the administrative burden on school staff.
+• Local Voices: School administrators have noted that the clean
+water program has improved trust between the community and
+private sector actors like VinFast.
+IMP ACT MEASUREMENT
+• Annual Site Visit: Conducted by VinFast’s ESG team members
+to confirm quality, volume, and satisfaction.
+• Beneficiary Survey: Baseline survey conducted in 2020; follow-
+up planned in 2025 to assess long-term behavioral and health
+outcomes.
+2024 HIGHLIGHT
+467 children
+Beneficiaries
+2024 Disbursement (since Februrary 2024)
+72,240,000VND
+Cumulative Investment (2022–2024)
+139,440,000VND
+1
+
+## Page 100
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+100
+Enhancing Access
+to Clean Water and
+Sanitation (CHDP, CDP)
+OBJECTIVES
+The core objective of the clean water support program for the
+swimming practice training plan is to help students at Van Phong,
+Hoang Chau, and Nghia Lo primary and secondary schools in
+areas affected by the project to enhance drowning prevention
+skills during summer 2024, as planned by the People’s Committee
+of Cat Hai District.
+IMP ACT OBSERV A TIONS
+• Health & Safety: Since the swimming program’s implementation,
+supported schools have reported improved water safety skills and
+increased confidence.
+• School Feedback: T eachers note improved student confidence
+in water and fewer absences during physical education classes
+due to fear or inability to swim.
+• Local Voices: Parents and community leaders report greater
+peace of mind knowing children are equipped with life-saving
+swimming skills, enhancing community perception of VinFast’s
+social impact.
+Drowning prevention program
+(CHDP, CDP) T o support raise awareness on drowning prevention in Cat Hai
+District, VinFast partnered with Cat Hai District Education Office
+to extend water access support to three local schools that conduct
+drowning prevention program in summer 2024.
+BACKGROUND
+2024 HIGHLIGHT
+students in primary
+and secondary school
+Beneficiaries
+105 T otal investement (June 2024)
+10,000,000VND
+Cumulative Investment (2023-2024)
+20,000,000VND
+2
+Photo blurred for privacy reasons.
+
+## Page 101
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+101
+Enhancing Access
+to Clean Water and
+Sanitation (CHDP, CDP)
+Water Infrastructure for Phong Nien
+Village (CHDP, CDP)
+households
+in Phong Nien village
+Beneficiaries
+~300
+Pipes, valves, filtration connectors and
+other water supply materials
+Materials Delivered
+T otal Investment (December 2024)
+307,481,669VND
+MEASUREMENT
+• Annual Site Visit: Carried out by VinFast’s ESG team to inspect
+infrastructure conditions, usage, and cost.
+• Beneficiary Survey: Socio-economic baseline survey in early of
+2025.
+IMP ACT OBSERV A TIONS
+• Health & Hygiene: Residents report improved access to clean
+water, reducing reliance on unfiltered sources and lowering
+waterborne illness rates, especially during the dry season.
+• Community Feedback: Villagers express relief at reduced time
+spent collecting water, especially women and the elderly. Local
+officials highlight improved living standards and reduced pressure
+on healthcare services. Reduce waiting time for water purchase
+from trucks, significantly reduce costs when purchasing water at
+government-regulated prices.
+BACKGROUND
+Similar to the “Clean water project for kindergartens”, VinFast
+conducted a survey combined with a needs assessment; and
+local consultation with Van Phong Commune People’s Committee
+before deciding to support the installation of new water pipelines
+for Phong Nien village.
+2024 HIGHLIGHT
+3
+Photo blurred for privacy reasons.
+
+## Page 102
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+102
+Promoting Community Health and Disease Prevention
+• Health & Hygiene: Local health stations report decreased
+mosquito populations and lower dengue fever incidence during
+the peak season. Improved chemical coverage has contributed
+to safer living environments in high-risk zones.
+• Community Feedback: Health workers note increased
+operational readiness and reach. Residents appreciate proactive
+support, particularly in vulnerable and flood-prone areas.
+Impact Observations
+T otal investement (November 2024)
+45,600,000VND
+Cumulative Investment (2022-2024)
+110,390,000VND
+Beneficiaries
+4 health stations across Van Phong, Dong Bai, Nghia Lo, and
+Hoang Chau
+Materials Delivered
+Mosquito sprayers and chemical vials
+Local Partner
+Commune Health Stations & Local Authorities
+2024 Highlight
+Photo blurred for privacy reasons.
+
+## Page 103
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+103
+2024 Highlight
+T otal investement (December 2024)
+30,000,000VND
+Cumulative Investment (2023-2024)
+60,000,000VND
+Beneficiaries
+Local fishermen in Hoang Chau Commune
+Activities
+Release of 10,000 juvenile crabs into coastal waters
+Local Partner
+Hoang Chau fishermen, Border Guards
+Supporting Livelihoods and the Local Economy (LRP)
+• Economic Resilience: Fishermen report early signs of crab
+population recovery, supporting future income stability and
+reducing overfishing pressure.
+• Community Feedback: Local fishing households have expressed
+optimism about long-term resource regeneration. The initiative
+also fostered stronger collaboration between community
+members and enforcement units.
+• Local Voices: Border guards and commune officials praised the
+program for combining environmental restoration with sustainable
+economic development, reinforcing VinFast’s commitment to
+local livelihoods.
+Impact Observations
+• Annual Site Visit: Conducted by VinFast’s ESG team and local
+authorities to assess release sites and ecological conditions.
+• Follow-up Survey: Survey to update local people feedback &
+their change in livelihood in early 2025.
+Measurement
+
+## Page 104
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+104
+• Economic Resilience: Participants gain skills that are directly
+applicable to industry and tourism, increasing job opportunities.
+• Community Feedback: Local workers express gratitude for
+practical training that aligns with job market needs.
+• Local Voices: Local people advocate for broader access and
+diversity in course offerings.
+Impact Observations
+• Annual Site Visit: Conducted by VinFast’s ESG team, participants
+and local people to plan and implement in the upcoming years.
+• Follow-up Survey: T o collect data from participants post-training
+and local people to assess long-term impacts.
+Measurement2024 Highlight
+T otal investement
+133,800,000VND
+Cumulative Investment (2022-2024)
+365,800,000VND
+Beneficiaries
+Members of project-affected households, students
+in Cat Hai Island, local people.
+Activities
+English communication and forklift operation training.
+Local Partner
+Local authorities, third parties, training centers.
+Vocational training: English communication and forklift operation training courses
+
+## Page 105
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+105
+Support Vulnerable Households
+• Economic Resilience: Provision of cost and essentials helps
+stabilize households facing economic hardship.
+• Community Feedback: Beneficiaries express appreciation for
+timely support.
+• Local Voices: Local people advocate for broader outreach and
+participatory planning.
+Impact Observations
+• Annual Site Visit: Conducted by VinFast’s ESG team, participants
+and local people to plan and implement in the upcoming years.
+• Follow-up Survey: Survey recipients for feedback and impacts
+from the funding, as well as their needs post-donation.
+Measurement
+2024 Highlight
+T otal investement
+77,000,000VND
+Cumulative Investment (2023-2024)
+87,500,000VND
+Beneficiaries
+3 vulnerable households with the
+disabled and the elderly
+Activities
+Donation to help eradicate poverty
+for households experiencing difficult
+circumstances.
+Local Partner
+Local authorities
+Photo blurred for privacy reasons.
+
+## Page 106
+
+VinFast’s 2024 Sustainability Report Empowering People – Human Capital, Safety & CommunityChapter 5
+106
+• Educational Outcomes: T eachers report improved school
+attendance and motivation among recipients, particularly those
+from economically disadvantaged households.
+• Community Feedback: Parents have expressed gratitude for
+reduced financial pressure, while local schools noted stronger
+student engagement and peer inspiration.
+• Local Voices: Commune leaders highlighted the program’s role
+in bridging educational gaps and fostering youth development,
+reinforcing long-term community resilience.
+Impact Observations
+• Annual Site Visit: Conducted by VinFast’s ESG team to verify
+scholarship distribution and gather school-level feedback.
+• Academic Monitoring: Partner schools track recipient
+performance and participation through internal reporting.
+• Follow-up Survey: Survey to update local people feedback &
+their change in livelihood in early 2025.
+Measurement
+2024 Highlight
+Investing in Education and Future Generations
+T otal investement (December 2024)
+168,500,000VND
+Cumulative Investment (2022-2024)
+557,000,000VND
+Beneficiaries
+160 students from Van Phong, Dong Bai,
+Nghia Lo, and Hoang Chau
+Program Goal
+Support excellent and vulnerable students to improve
+academic performance and social development
+Support Delivered
+Academic scholarships
+
+## Page 107
+
+02
+06
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+107
+Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6VinFast’s 2024 Sustainability Report 107
+Governance, Risk &
+Ethical Supply Chains
+LEADING RESPONSIBL Y
+Corporate Governance Excellence
+Ethical Governance & Responsible
+Advocacy
+Enterprise Risk Management:
+Safeguarding Sustainable Growth
+Data Governance, Cybersecurity &
+Privacy: Protecting Our Connected
+Ecosystem
+Governance of a Sustainable & Resilient
+Supply Chain
+109
+112
+115
+118
+120
+
+## Page 108
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+108
+2024 Governance Highlights
+New Global Speak-up policy and
+procedures were launched to enhance
+transparency and accountability.
+80%
+Tier 1 suppliers are aligned with our
+new Supplier Code of Conduct.
+Company’s management, as of the
+date of this report, was not aware
+of any violations, fines, breaches of
+business ethics/code of conduct.
+$ 1.2 million
+total tax amount paid by VinFast.
+33.3%
+of the Company’s Directors are
+considered independent under the
+U.S. Exchange Act and Nasdaq rules.
+Independent Security T esting:
+All identified vulnerabilities have
+been remediated.
+
+## Page 109
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+109
+Corporate Governance
+Excellence
+VinFast is committed to maintaining the strong standards of corporate
+governance, consistent with international good practices and the regulatory
+requirements of the jurisdictions in which we operate, including Singapore
+(as our corporate jurisdiction), the USA (as a Nasdaq-listed company),
+and Vietnam (as our headquarters and primary manufacturing hub). Our
+governance framework is designed to promote effective decision-making,
+accountability, transparency, and the protection of shareholder rights,
+serving as the bedrock for long-term sustainable growth.
+VinFast is committed to
+maintaining the strong standards
+of corporate governance.
+
+## Page 110
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+110
+Board of Directors: Structure,
+Independence, and Effectiveness
+At VinFast, sound corporate governance provides the
+backbone for our sustainable growth and responsible
+leadership. As of 31 December 2024, our Board of
+Directors comprises six members, including two
+independent directors who meet the independence
+criteria under Rule 10A-3(b) of the U.S. Exchange Act
+and Nasdaq listing standards.
+As a foreign private issuer, VinFast applies Singapore’s
+home country governance standards in certain areas that
+differ from Nasdaq’s requirements, which are disclosed
+transparently and implemented responsibly to protect
+shareholders’ trust.
+The Board brings diverse  expertise across the automotive
+industry, international markets, finance, manufacturing,
+risk management, and corporate law. This breadth of
+knowledge supports effective decision-making and
+strengthens oversight of VinFast’s expanding global
+operations.
+Beyond its dedicated sustainability oversight role, the
+Board’s core responsibilities include approving major
+investments and transactions, monitoring financial
+reporting, and ensuring compliance with all legal and
+regulatory obligations.
+
+Our Board meets on a regular basis, typically at least four
+times per year, with additional sessions held as needed to
+address material developments. The Board also decides
+Company’s matters via written consent. In 2024, the
+Board convened 06 (six) meetings with most directors
+attending the meetings, reflecting the commitment
+of each director to the Company’s governance and
+strategic direction.
+Ms. Le Thi Thu Thuy
+• Chairwoman and Director
+• Chair of the Disclosure Committee
+• Chair of the Nominating and Corporate
+Governance Committee
+Mr. Pham Nhat Vuong
+• Managing Director and CEO
+• Member of the Nominating and Corporate
+Governance Committee
+Mr. Tham Chee Soon
+• Independent Director
+• Member of the Audit Committee
+• Member of the Compensation Committee
+Ms. Nguyen Thi Van Trinh
+• Director
+• Member of the Nominating and Corporate
+Governance Committee
+• Member of the Disclosure Committee
+Ms. Nguyen Thi Lan Anh
+• Director and Chief Financial Officer
+(“CFO”)
+• Member of the Disclosure Committee
+Mr. Ling Chung Y ee, Roy
+• Independent Director
+• Chair of the Audit Committee
+• Chair of the Compensation Committee
+
+## Page 111
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+111
+Committees Supporting Good Governance
+T o uphold strong and accountable corporate governance, VinFast’s Board is supported by dedicated committees that ensure deep
+oversight across our financial, strategic, and sustainability commitments.
+Mr. Ling Chung Y ee Roy (Chair), oversees the integrity of VinFast’s
+financial and non-financial disclosures. This includes our
+sustainability reporting, internal controls, and our enterprise risk
+management system. Both Mr. Roy and Mr. Tham Chee Soon, a
+fellow member, are independent directors and designated financial
+experts.
+Audit Committee
+Led by Mr. Ling, our Compensation Committee’s role is to ensure
+that executive remuneration structures are aligned with VinFast’s
+strategic priorities and long-term sustainable growth. It oversees
+policies that link performance with fair, competitive rewards,
+encouraging responsible leadership, innovation, and retention of
+top talent.
+Compensation Committee
+Chaired by Ms. Le Thi Thu Thuy, the Nominating and Corporate
+Governance Committee (“NCGC”) plays a role in shaping the
+effectiveness and continuity of the Board itself. The NCGC reviews
+the Board composition, nomination processes, and succession
+planning to ensure diversity of expertise and alignment with our
+strategic direction. It also supports ongoing improvements to
+governance practices, ethics programs, and compliance with
+applicable laws and standards — reflecting VinFast’s commitment
+to credible and responsible leadership.
+Nominating and Corporate Governance Committee
+Chaired by Ms. Le Thi Thu Thuy, the Disclosure Committee is
+responsible for ensuring the accuracy, transparency, and timeliness
+of VinFast’s public financial and non-financial disclosures, including
+ESG-related reporting disclosures. The Committee oversees the
+integrity of our sustainability disclosures, ensuring that they are
+consistent, reliable, and in compliance with regulatory requirements.
+Disclosure Committee
+Shareholder Rights and Home Country Provisions
+Our constitution provides that any general meetings of
+shareholders  require a quorum of two members present in person
+or by proxy, differing from the Nasdaq rule that typically requires
+at least one-third of outstanding shares to form a quorum.
+We believe that following home country’s practices, where
+appropriate, allows us to remain agile and consistent with local
+regulatory frameworks while meeting the expectations of our
+global investor community. As disclosed in our filings, we may in
+the future apply additional exemptions under the “foreign private
+issuer” status, always with clear communication to shareholders.
+
+## Page 112
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+112
+Ethical Governance
+& Responsible Advocacy
+At VinFast, ethical governance is not simply a policy — it is our commitment to act with
+credibility, integrity, and compassion. We believe that doing business responsibly, fighting
+corruption in all its forms, and engaging constructively with public policy are fundamental
+to building trust and driving our mission: create a sustainable future for everyone.
+Embedding Integrity in How We Operate
+VinFast’s Code of Conduct is our global compass for fair and
+transparent behavior. It applies to every director, executive, and
+employee, setting out clear expectations for avoiding conflicts of
+interest, protecting confidential information, fair dealing, and full
+compliance with all applicable laws. Every year, our people are
+expected to reaffirm their commitment to this Code of Conduct
+through mandatory acknowledgment and dedicated training
+modules designed to bring ethical principles to life in our daily
+work.
+Our Bribery and Anti-Corruption Policy aligns with global good
+practices, from the U.S. Foreign Corrupt Practices Act to local
+laws across Vietnam, Singapore, and our other markets. Through
+based due diligence, clear rules on gifts and hospitality, robust
+controls, and regular employee training, we equip our people to
+uphold the strong ethical standards wherever we do business.
+In 2024, all new employees joining VinFast are expected to be
+trained in our Anti-Bribery and Anti-Corruption Policy. Not only
+that, but we also organize periodic retraining for all employees.
+
+## Page 113
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+113
+Empowering People to Speak Up
+At VinFast, we believe that a culture of integrity and accountability is built on trust. We nurture an open and
+transparent culture where all employees and external stakeholders feel safe and empowered to raise concerns
+about potential breaches of our Code of Conduct, policies, or the law. We believe that providing accessible and
+secure channels is fundamental to upholding our values and identifying and mitigating risks early. As such, in 2024,
+we incorporated policies and procedures for complaints regarding accounting, internal accounting controls, fraud
+or auditing matters for a more comprehensive Speaking-up policies and procedures.
+Direct Internal Dialogue
+We encourage open communication, and individuals may report
+concerns directly to their manager, or to key oversight functions
+such as the Human Resources, Legal, or Internal Audit Departments.
+Independent Third-Party Ethics Hotline
+T o guarantee impartiality and offer anonymity, VinFast partners
+with an independent third-party provider to manage our global
+ethics hotline. This service is accessible 24/7 via phone and a secure
+web portal.
+Direct Reporting to the Audit Committee
+Any person can report to the Audit Committee openly, confidentially,
+or anonymously, ensuring independent oversight at the highest
+level. Allegations can be made orally or in writing to the Audit
+Committee and should be marked as Confidential and mailed to the
+following address: Attention: Audit Committee – Speak up Channel
+VINFAST AUTO L TD. - Address: 61 Robinson Road #06-01 (Suite
+608), 61 Robinson, Singapore 068893.
+Confidential Company Channels
+For sensitive issues, we provide secure channels, including a
+dedicated email v.speakup@VinFast.com and physical grievance
+boxes at our manufacturing and office locations.
+T o ensure all concerns can be heard, we have established multiple, accessible reporting channels:
+Accessible and Confidential Reporting Channels
+Our Speak -up Program is built on an unconditional promise: we
+have zero tolerance for retaliation. We unequivocally protect
+any individual who reports a concern in good faith from any
+adverse consequences. This protection explicitly prohibits any
+form of victimization, harassment, demotion, negative impact on
+compensation, or any other penalty. Any employee found to have
+engaged in retaliatory behavior will be subject to strict disciplinary
+action, up to and including immediate termination of employment.
+A Foundation of Trust:
+Our Non-Retaliation Commitment
+Once a report is made, a professional and structured process
+ensures it is handled appropriately. Investigations are conducted
+fairly, impartially, and promptly by trained personnel. All information
+related to a report and any subsequent investigation is kept
+confidential to the fullest extent possible, consistent with the
+need to be thorough and to comply with legal obligations. All
+records are maintained securely in accordance with our corporate
+retention policies.
+A Fair, Impartial, and
+Professional Process
+At VinFast, we believe that a culture of integrity
+and accountability is built on trust.
+
+## Page 114
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+114
+Empowering People
+to Speak Up
+Our Speak -up Program is a dynamic part
+of our governance framework, not a static
+policy.
+Governance, Oversight, and
+Continuous Improvement
+A designated management panel is responsible
+for overseeing the process, analyzing trends, and
+identifying emerging risks from the data gathered
+through our speak -up channels. These insights are
+used to proactively update our corporate risk portfolio.
+Oversight and Monitoring
+1 2 3 4
+Board-Level Reporting
+The number and nature of complaints, along with the
+performance of the Speak -up Program, are reported
+and reviewed at regular meetings of the Audit
+Committee, ensuring robust oversight.
+Communication and Training
+We are committed to ensuring our program is visible
+and understood. The Speak -up Policy is communicated
+annually to all new and existing employees through
+targeted training and communication campaigns.
+Policy Review
+The policy itself is subject to periodic review by the
+Audit Committee, which recommends any necessary
+updates to the Board of Directors for approval, ensuring
+our program remains effective and aligned with good
+practices.
+
+## Page 115
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+115
+Enterprise Risk Management:
+Safeguarding Sustainable Growth
+A Culture of Foresight
+and Accountability
+As a global pioneer in a rapidly transforming industry, our ability to anticipate, understand,
+and manage risk is fundamental to our success and our promise of a sustainable future.
+At VinFast, we cultivate a culture where risk management is not a separate function but
+an embedded and shared responsibility. This mindset of foresight and accountability,
+championed by our leadership and embraced by our teams, ensures that we navigate
+the complexities of our global operations with both agility and discipline.
+
+## Page 116
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+116
+Board of Directors
+Board of Management
+External Audit
+Regulators
+Functions that own and manage risks
+1st line
+Management Controls Internal Control Measures
+Risk owners who own manage risks and are responsible
+for managing risk within their sphere of operations e.g.
+indetification, update, assess, treat risks.
+2nd line
+Functions that oversee risks
+Risk Managment
+Facilites and monitors the implementation of risk
+management practices and assists risk owners in
+identifying, assessing, montoring and reporting adequate
+risk related information throughout the organization
+Audit Committee
+3rd line
+Functions that provide independent assurance
+Internal Audit
+Provide independent assurance to BOD on the
+effectiveness of the risk management controls
+Governance: Clear Oversight
+from the T op
+T o ensure robust governance and clear
+accountability, our ERM framework is structured
+around the internationally recognized Three
+Lines Model: Our business units and functional leaders are on the front
+lines. As risk owners, they are responsible for identifying
+and managing risks within their day-to-day operations and
+decision-making, embedding risk management directly into the
+fabric of the business.
+First Line - Risk Ownership
+Management, supported by key functions like Internal
+Control, provides the framework, tools, and expertise to
+support the first line. This includes facilitating risk assessments
+and ensuring that risk information is properly communicated
+throughout the organization.
+Second Line - Oversight & Enablement
+Our Internal Audit function operates independently to provide
+objective assurance to the Board and Audit Committee on
+the effectiveness of our risk management and internal control
+processes, validating the integrity of the entire framework.
+Third Line - Independent Assurance
+Graph 24: Illustration of the organizational structure for VinFast’s Three lines of defense
+
+## Page 117
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+117
+Board of Directors
+Chief Executive Officer
+Audit Committee
+Internal AuditBusiness Unit/Functions Internal Control
+Governance: Clear Oversight from the T op
+Our commitment to robust risk management is anchored at the
+highest level of our company.
+The Board of Directors holds the ultimate responsibility for
+overseeing our Enterprise Risk Management (ERM) framework.
+The Audit Committee supports the Board by providing oversight
+of management’s implementation of risk management policies and
+processes, such as financial integrity, cybersecurity threats, and
+supply chain resilience.
+Senior Management, led by our CEO, is tasked with translating
+this strategic oversight into effective, day-to-day risk management
+practices across all business units and functions, ensuring our
+operational reality aligns with our governance framework.
+Legends
+First line
+Second line
+Third line
+Interaction, consultaiton
+Direct reporting
+Graph 25: Illustration of the organizational structure for VinFast’s Three lines of defense
+Integrating ESG and Climate into Our Risk DNA
+We do not view ESG factors as a separate category of risk;
+they are fundamental drivers of value and risk across our entire
+enterprise. From the physical impacts of climate change on
+our manufacturing facilities to the transition risks associated
+with evolving regulations and consumer expectations, ESG
+considerations are woven into our core risk identification
+and assessment processes. Please refer to Part 3 for further
+information.
+From Resilience to Opportunity
+Effective risk management does more than just protect value;
+it creates the conditions for sustainable growth. Our robust risk
+framework gives us the confidence to innovate boldly, enter new and
+dynamic markets, and invest in the next-generation technologies
+that will define the future of mobility. By managing uncertainty with
+discipline and foresight, we build the resilience necessary to seize
+strategic opportunities, ensuring VinFast is built not just to last, but
+to lead.
+
+## Page 118
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+118
+Data Governance, Cybersecurity & Privacy:
+Protecting Our Connected Ecosystem
+As a smart mobility company, protecting confidentiality, integrity, and availability of our critical information and systems is fundamental
+to our operations, our product safety, and the trust of our stakeholders. We have developed and are in the process of implementing a
+comprehensive cybersecurity risk management program designed to meet these modern challenges.
+Governance and Strategy: Oversight from the Board Down
+Our approach to cybersecurity is integrated into our highest
+levels of corporate governance. Cybersecurity risk is an
+important consideration in the Board of Directors’ management
+of operational risk. The Board’s oversight is directly supported
+by the Audit Committee, which is responsible for overseeing
+management’s implementation of our cybersecurity program.
+Our management team has established processes to update the
+Audit Committee on any material cybersecurity incidents, and
+• The overall management team, led by our Deputy CEO in charge
+of IT , is responsible for our cybersecurity program and supervises
+our internal personnel and external consultants.
+• For the specific needs of automotive security, our Electric &
+Electronic (“EE”) department, including the Deputy CEO in charge
+of EE, is responsible for ensuring the safety and protection of our
+vehicles.
+This governance is executed by a clear structure of management responsibility:
+the committee, in turn, is expected to report on these activities
+to the full Board.
+Our strategy is guided by the National Institute of Standards and
+T echnology Cybersecurity Framework (NIST CSF), which we
+use to help us identify, assess, and manage the cybersecurity
+risks relevant to our business.
+• Quarterly report is submitted to Audit Committee, including risks,
+incidents and major preventative activities.
+T o date, we have not identified risks from known cybersecurity threats, including as a result of any prior
+cybersecurity incidents, that have materially affected our company’s operations, business strategy,
+or financial condition.
+We conduct assessments designed to identify material
+cybersecurity risks to our critical systems, information,
+products, and our broader IT environment.
+Systematic Risk Assessments
+Where appropriate, we engage external service
+providers to assess, test, or otherwise assist
+with aspects of our security controls. In 2024, we
+commissioned Viettel and VinCSS – independent
+cybersecurity service providers –to conduct
+penetration testing and external threat hunting on
+some critical applications; all identified vulnerabilities
+were remediated.
+Independent Verification
+We have established a formal cybersecurity
+incident response plan and maintain backup and
+recovery procedures for our critical systems
+and data.
+Incident Response and Recovery
+We have a dedicated security team with diverse
+experience across IT , operational technology (OT),
+and security infrastructure. This team is principally
+responsible for managing our risk assessment
+processes, security controls, and incident response.
+Dedicated Security T eam
+We conduct cybersecurity awareness training for
+our employees, incident response personnel, and
+senior management. In 2024, we implemented SANS
+standard cybersecurity awareness training with
+various engagement materials such as emails, posters,
+screensavers, etc. New employees must enroll in offline
+training, while online training is provided quarterly
+for all employees, with 99.3% of end-users learning
+and passing the exam. We also conducted phishing
+simulations every month with 19% leaked usernames
+and passwords being detected.
+Building a Human Firewall
+Our Cybersecurity Program in Action
+Our management team supervises a multi-faceted program to prevent, detect, and remediate cybersecurity
+risks. As disclosed in our 2024 Form 20-F, our current risk management practices include:
+
+## Page 119
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+119
+Leading Responsibly – Governance, Risk & Ethical Supply Chains
+Upholding Privacy and Looking Ahead
+While our cybersecurity program provides a strong foundation for protecting all
+data, we recognize the specific importance of personal data privacy.
+Looking ahead, our 2025–2026
+roadmap prioritizes stronger
+integration of privacy with our
+sustainability strategy.
+This includes adopting Privacy by Design principles in our expanding features
+such as advanced driver assistance systems, connected services, and AI-driven
+personalization. Furthermore, we continue enhancing customer-facing
+transparency dashboards and aligning with new international and cross-border
+regulations such as regulations or framework on AI, data governance and
+cybersecurity.
+Our Commitment to Privacy
+At VinFast, protecting personal data and privacy is not only a legal
+responsibility but also a commitment to core values: trust, integrity and
+respect. In the context of constantly changing privacy regulations, VinFast
+strives to always proactively update and strictly comply with data protection
+laws across the countries in which we operate.
+Governance and Framework
+Privacy governance is anchored at the highest level of our organization.
+Oversight is provided through our Data Protection Officer (DPO) and cross-
+functional privacy ambassadors. We align our practices with leading global
+frameworks, including the EU General Data Protection Regulation (GDPR), the
+California Consumer Privacy Act (CCP A), the Personal Information Protection
+and Electronic Documents Act (PIPEDA) of Canada, and the newly adopted
+Vietnam Personal Data Protection Decree (PDPD). All employees commit to
+undergo privacy and cybersecurity training on an annual or quarterly basis,
+depending on their roles.
+Managing Third-Party Risk
+We recognize that privacy responsibilities extend beyond our direct
+operations. All third-party vendors, including cloud providers and charging
+network partners, are subject to strict due diligence and contractual
+safeguards. In 2024, we conducted privacy assessments on 95% of our key
+technology partners.
+
+## Page 120
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+120
+Governance of a Sustainable
+& Resilient Supply Chain
+Our Philosophy: Partnership
+Built on Shared Principles
+This partnership is governed by our Supplier Code of Conduct
+Policy. These are the non-negotiable frameworks that set the
+minimum standards for doing business with VinFast, and we
+expect every partner to uphold these principles as a prerequisite
+for collaboration.
+Our mission, “Create a sustainable future for everyone”,
+extends deep into our global value chain. We view our network
+of more than 1,300 suppliers globally—of which over 700 are
+direct suppliers—not as vendors, but as essential partners in
+our journey. From our integrated supplier park in Hai Phong to
+our global network providing critical components like battery
+cells and semiconductors, we are building a supply ecosystem
+founded on mutual trust, transparency, and a shared commitment
+to responsible business practices.
+
+## Page 121
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+121
+Our Philosophy: Partnership Built
+on Shared Principles
+Respect for People and Human Rights
+Suppliers are responsible for cultivating a safe, respectful,
+and fair workplace. This includes ensuring all employment is
+voluntary, with a zero-tolerance policy for forced or child labor,
+providing a workplace free from discrimination and harassment,
+offering fair compensation that meets or exceeds legal standards,
+and respecting employees’ rights to freedom of association
+were permitted by law.
+Environmental Stewardship
+Suppliers are responsible for pursuing continual improvement
+in their operations, with a focus on reducing emissions,
+increasing energy efficiency, and responsibly managing
+hazardous materials. We also encourage the use of recycled
+and renewable materials and strictly prohibit the use of conflict
+minerals from specified regions.
+Unyielding Business Integrity & Information Security
+We have a zero-tolerance policy for bribery and corruption.
+For any partner handling VinFast data, robust cybersecurity
+must  be in place.
+Our Supplier Code of Conduct is the foundation for how we build
+trusted, responsible partnerships. All suppliers must comply
+fully with applicable laws, but we expect partners to share our
+commitment to people, the planet, and ethical business.
+
+## Page 122
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+122
+Governance in Action:
+Our Foundational Due Diligence Process
+In 2024, we moved from policy to practice by embedding a formal ESG
+due diligence process into our procurement activities. This ensures our
+principles are integrated at the most critical stage: supplier selection.
+Commitment as a Prerequisite
+Our process begins with a clear commitment. A potential supplier can
+only become an official VinFast partner after signing our Declaration
+Form, formally acknowledging their commitment to comply with
+our Responsible Sourcing Policy and Supplier Code of Conduct.
+In 2024, this foundational step yielded a significant outcome: 80%
+of our Tier 1 suppliers have signed this commitment (excluding
+certain exemptions as specified in our internal procedures)
+Risk-Based ESG Screening
+During the procurement process, our Purchasing and Logistics teams
+conduct an initial ESG risk screening. Potential suppliers are assessed against
+three specific risk triggers:
+Any supplier flagged under these criteria is referred to our dedicated ESG Department for a more detailed assessment before they can be onboarded.
+Sourcing from regions covered by conflict minerals legislation
+or known for high climate-conflict vulnerability, or from
+sectors identified with a high risk of child or forced labor.
+GEOGRAPHIC AND SECTOR RISK
+Contractors providing services with a direct and significant
+ESG footprint, such as waste management or other
+environmental and social services.
+HIGH-IMP ACT ESG SERVICES
+The existence of any concerns, complaints, or lawsuits
+raised by interested parties (such as customers or lending
+institutions) regarding a supplier’s ESG performance.
+ST AKEHOLDER CONCERNS
+of our Tier 1 suppliers have signed
+this commitment
+80%
+
+## Page 123
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+123
+Building Our Framework for Future Impact
+Having established our foundational policies and initial screening
+process, our focus in 2025 and 2026 will shift to a critical
+next step: designing the detailed operational procedures and
+governance to bring these policies to life across our entire supply
+base. We are now in the process of developing a comprehensive
+operational framework to guide our Purchasing, ESG teams and
+relevant departments in implementing a more mature program,
+which will be rolled out in phases to different supplier groups.
+
+## Page 124
+
+VinFast’s 2024 Sustainability Report Leading Responsibly – Governance, Risk & Ethical Supply ChainsChapter 6
+124
+Building Our Framework for Future Impact
+T o ensure suppliers meet our expectations on conflict minerals
+and ESG performance, we are developing a tiered remediation
+framework. Where non-conformances are identified, suppliers
+will be required to implement a Corrective Action Plan (CAP)
+within defined timelines. For conflict minerals in particular,
+corrective actions may include improving traceability, enhancing
+CMRT disclosures, or transitioning to RMI-certified smelters.
+When suppliers fail to address critical issues or refuse to
+engage, VinFast will apply a tiered escalation process, ranging
+from temporary suspension of new business to responsible
+disengagement, always conducted in line with our Sustainable
+Sourcing Policy. Progress under remediation will be tracked
+through follow-up assessments and integration into our supplier
+ESG scorecards and annual sustainability reporting.
+T o support continuous improvement, we are embedding
+capacity-building measures, including training and joint
+workshops, such as those initiated in 2025 with conflict mineral
+relevant suppliers to strengthen mineral traceability systems.
+Establishing a Formal Remediation and Engagement Process
+Based on our 2024 analysis, our next step is to launch a
+traceability pilot for key battery materials in 2025. Following the
+finalization of our Scope 3 emissions baseline, we plan to initiate
+direct communications with strategic suppliers regarding our
+decarbonization expectations in early 2026.
+In 2024, VinFast focused on building the groundwork for future
+action on supply chain traceability and decarbonization. This
+preparatory work included defining methodologies, assessing
+data requirements, and identifying priority areas where action
+would have the greatest impact.
+Starting in 2025, we will launch two critical initiatives: the
+development of our Scope 3 emissions baseline and the creation
+of a comprehensive Decarbonization Plan. The plan will outline
+projects such as factory solar rooftop installations, logistics
+optimization, supplier engagement programs, and renewable-
+powered EV charging infrastructure. These initiatives will form
+the backbone of our emission reduction strategy and will be
+phased in beginning in late 2025.
+Advancing Traceability and Decarbonization
+Developing Our Monitoring and Verification Program
+VinFast is developing a formal supplier ESG assessment procedure to strengthen oversight and ensure
+consistent application of our sustainability standards across the supply chain. The assessment will combine
+risk -based screening, on-site or remote evaluations, and standardized scoring to identify gaps in human rights,
+environmental performance, conflict minerals reporting, and business integrity. A pilot assessment program
+targeting suppliers with potential risk is scheduled to launch in 2025, with a broader rollout planned for 2026.
+As part of our commitment to responsible sourcing, VinFast launched a Conflict Minerals Reporting
+(CMR) project in 2025 to strengthen due diligence on critical minerals and align with global best practices.
+This project reflects our recognition that minerals such as tin, tungsten, tantalum, and gold  are essential
+to electric vehicle production but carry significant environmental and social risks when sourced from
+conflict-affected and high-risk areas (CAHRAs). Through the CMR project, we are:
+• Mapping supply chains for critical minerals.
+• Requiring suppliers to submit Conflict Minerals
+Reporting T emplates (CMRTs) in line with the
+Responsible Minerals Initiative (RMI) framework.
+• Enhancing traceability and transparency through
+supplier engagement and disclosure.
+• Building capacity within our supplier base to
+transition toward responsible sourcing aligned with
+OECD Due Diligence Guidance.
+Conflict Minerals Reporting (CMR) Project
+1
+2
+
+## Page 125
+
+03
+07
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+125
+Trust in Motion – Product Excellence & Customer ExperienceChapter 7VinFast’s 2024 Sustainability Report 125
+Product Excellence &
+Customer Experience
+TRUST IN MOTION
+Product Governance and Innovation
+Customer Relationship Management:
+A “Customer-Centric” Journey
+127
+136
+
+## Page 126
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+126
+1
+Peace-Of-Mind
+Ownership
+Experience
+2
+Inclusive Price
+& Accessibility
+3
+Premium Quality
+Product
+Product
+Exelence’s
+Key Factors
+Com
+petitive Pricing
+Flexible Ownership
+Driving Global EV Adoption
+Thoughtful & Stylish design
+World-Class Safety Standard
+Technology For Life
+Sustainable by Design
+Best-in-Class Warranty
+Ease-of-Access
+Seam
+less Services
+Our innovation and product development are guided by the concept
+of Smart Mobility, a holistic philosophy built on three core pillars:
+delivering a Premium Quality Product, ensuring an Inclusive Price,
+and providing a Peace-of-Mind Ownership Experience.
+Graph 26: Illustration of key factors for product excellence
+This framework ensures
+that every VinFast vehicle
+embodies our core values
+and commitment to our
+customers.
+
+## Page 127
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+127
+Product Governance
+and Innovation
+We have established a robust product governance framework to ensure
+that safety, quality, and integrity are guided by internationally recognized
+standards and systematically embedded across our product lifecycle.
+Our product governance framework ensures that innovation in electric
+mobility is both responsible and responsive to evolving customer needs,
+market expectations, and regulatory landscapes.
+
+## Page 128
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+128
+Global QMS/ ISO
+System & Compliance Manager
+Global Manufacturing
+Quality Director
+QMS-ISO Quality
+Group Leader
+SAC & VQC
+Expert
+Quality Process Senior
+Quality Specialist VCR & Rel Expert
+Management Structure & Accountability
+Product Safety & Quality
+Management Structure VinFast’s quality assurance is anchored in a CFT model, which serves as the core
+governance mechanism at the process level. Each CFT is responsible for developing and
+continuously improving the PFD-PFMEA-PCP set (Process Flow Diagram, Failure Modes
+& Effects Analysis, and Process Control Plan) for their assigned production process.
+THE CROSS-FUNCTIONAL TEAM (“CFT”) MODEL
+This collaborative model ensures controls are well-designed, formally validated, and
+integrated into the plant’s management system. By involving experts from key functions,
+it enables a holistic, data-driven approach to risk and quality management:
+Accountability for product quality and safety
+begins at the highest levels of our organization and
+is embedded throughout our operational fabric.
+Our multi-layered governance structure ensures
+oversight, risk management, and determination
+of responsibility, cascading from the Board of
+Directors to our cross-functional teams on the
+factory floor. The implementation, performance,
+and continuous improvement of our comprehensive
+Quality Management System are under the direct
+responsibility of the Deputy CEO of Manufacturing
+through frequent revision of the QMS system.
+T akes the lead in developing proactive defect prevention
+strategies and establishing robust process control methods.
+Manufacturing
+Engineer
+Is responsible for validating the effectiveness of all control
+methods, ensuring they maintain both process stability and
+final product integrity.
+Quality
+Engineer
+Investigates and addresses the root causes of equipment and
+tool-related failures that could impact quality.
+Maintenance
+Group Leader
+Confirms the real-world feasibility of control methods and
+oversees their direct implementation at production stations.
+Production
+Group Leader/
+Shift Manager
+Provides critical technical assessment on how potential
+process failures could impact the product’s design
+specifications, performance and safety.
+Design
+Engineer
+The team is further strengthened by QA/QC Engineers
+and Material Flow Leaders, who ensure comprehensive
+risk management.
+Other
+Key Roles
+
+## Page 129
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+129
+Policy Framework & Management Systems
+VinFast has established a comprehensive Quality Management System (QMS) that serves as the overarching framework for all
+quality-related activities—from product design and development to manufacturing and after-sales service. Our QMS is certified to
+the ISO 9001:2015 standard, and we are actively working toward applying IA TF 16949:2016, the Automotive Quality Management
+System, through the deployment of six core quality tools: Advanced Product Quality Planning, Failure Mode and Effects Analysis,
+Measurement System Analysis, Statistical Process Control, Production Part Approval Process, and Control Plan. This advancement
+will provide external assurance of our commitment to consistent quality and customer satisfaction, while serving as the foundation
+for all detailed policies and procedures across the company.
+QUALITY MANAGEMENT SYSTEM (“QMS”)
+• Design and manufacture of passenger electric cars, electric
+buses, electric two-wheel motorcycles, and electric mopeds.
+• Manufacture of components and spare parts for these
+vehicles, including aluminum casting products, electric motors,
+plastic injection molding products, mechanical parts, and interior
+components.
+• Production of charging infrastructure, including charging
+stations and equipment.
+• Manufacture and assembly of electronic spare parts,
+components, and devices for electric vehicles and smart homes.
+• Design, manufacture, and assembly of molds and dies.
+CORE QUALITY & SAFETY POLICIES
+Our QMS is guided by a hierarchy of corporate policies that set clear expectations for all employees and
+operations.
+Our global quality policy: “Quality is Everyone’s responsibility”. This policy provides a shape for setting quality
+objectives, including a commitment to conform to applicable requirements and continually improving the
+quality management system. The policy is communicated and understood throughout the organization. We
+emphasize requirement for quality in each step, each product, and clearly demonstrate the role of all VinFast
+employees in delivering a quality product.
+Management Structure & Accountability
+Our commitment to product quality and safety is formalized through a comprehensive framework of policies, procedures, and internationally
+recognized management systems. This ensures that our management structure is supported by standardized processes that drive
+continuous improvement and accountability across the organization.
+Looking ahead, we plan to expand ISO 9001 certification to new
+factories, including VinFast Ha Tinh (2025), VinFast India, and
+VinFast Indonesia (2026).
+Our most recent re-certification audit, conducted by Bureau
+Veritas Certification, identified one minor non-conformity,
+which has since been fully corrected in line with international
+requirements. T o strengthen proactive risk management, we
+have developed and implemented a comprehensive internal
+audit program, comprising nearly 60 audit plans covering more
+than  40 divisions and departments  by 2024. This program
+ensures early detection of non-conformities and continuous
+improvement across all operations.
+The current ISO 9001:2015 certification scope at VinFast covers:
+RELEV ANT PROCEDURES & REGULA TIONS
+T o build towards a global model, ensuring leanness and synchronization, in 2024, VinFast developed an
+integrated document system of the quality management system for 03 companies: VinFast Trading and
+Production Joint Stock Company, VinEG Green Energy Solutions Joint Stock Company and VinES Ha Tinh
+Energy Solution Joint Stock Company.
+• Quality Manual: This manual provides a
+comprehensive description of our QMS, detailing the
+scope, key processes, and interactions required to
+meet our quality objectives.
+• PFD-PFMEA-PCP Procedure: A cornerstone of
+our proactive quality assurance in manufacturing,
+this internal regulation standardizes the process for
+identifying potential failures (Process Failure Mode and
+Effects Analysis - PFMEA), mapping process flows
+(Process Flow Diagram - PFD), and implementing
+robust controls (Process Control Plan - PCP). This
+procedure ensures a systematic and data-driven
+approach to risk mitigation directly on the shop floor.
+• Supplier Compliance in 2024: All critical Tier-1
+suppliers successfully complied with PP AP
+submission requirements. Each part was evaluated,
+and Part Submission Warrants were approved by the
+responsible Supplier Quality Engineers.
+• Supplier Quality Management Procedure: Defines
+the requirements for all suppliers, covering initial
+quality audits, ongoing performance monitoring, and
+mandatory submission of Production Part Approval
+Process (PP AP) documentation for every new
+component.
+• Post-Market Surveillance & Recall Procedures:
+Designed to ensure systematic monitoring of product
+performance, customer feedback, and satisfaction. By
+collecting and analyzing field data—including warranty
+claims, service reports, and customer complaints—
+the process enables early detection of potential safety,
+reliability, or quality concerns. Root cause analyses
+lead to corrective and preventive actions that are
+integrated into design and manufacturing, closing the
+feedback loop to drive continuous improvement and
+enhance customer satisfaction.
+
+## Page 130
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+130
+A Foundation in Design and Engineering
+Our pursuit of high-quality products begins with a meticulous
+approach to design, engineering, and component selection:
+Product Quality: Engineering Excellence from Design to Delivery
+Our commitment to product quality and customer safety
+is operationalized through a holistic quality management
+framework that governs every stage of our value chain, from
+the first sketch to the final vehicle inspection and beyond.
+The Digital Twin: Driving Quality and Speed
+VinFast leverages a full digital enterprise approach using
+Siemens’ Xcelerator suite - NX™ software for Computer-Aided
+Design (“CAD”), Computer-Aided Manufacturing (“CAM”), and
+Computer-Aided Engineering (“CAE”), and T eamcenter® for
+Product Lifecycle Management (“PLM”) to create “digital twins” of
+products and processes. This enables virtual design, simulation,
+and optimization before production.
+Rigorous Virtual and Physical T esting
+Before any component is sourced or a production line is
+configured, our vehicles undergo extensive testing on our proving
+grounds under diverse and demanding conditions.
+Comprehensive Automation and Smart Control
+VinFast also automate key production lines (press, body, paint,
+assembly, and powertrain) using Siemens’ T otally Integrated
+Automation (“TIA ”) platform; whilst the SIMA TIC controllers
+and SINUMERIK CNC systems ensure precision, consistency,
+and compliance with global quality standards. This modular
+automation allows for flexibility and rapid scale-up.
+Integrated Digital Manufacturing
+Our end-to-end digital value chain is connected through a PLM-
+driven digital thread, enabling real-time synchronization across
+design, manufacturing, and service. With Siemens Opcenter, our
+advanced Manufacturing Execution System (“MES”), we close
+the loop between design and production by feeding actual shop-
+floor data back into the digital twin—enhancing our ability to
+continuously improve.
+Engineered to Meet and Exceed Global Safety Standards
+Our commitment to safety is validated by designing our vehicles
+to meet the highest and most rigorous standards in the global
+automotive industry. Key models, including the VF 6, VF 7, VF 8,
+and VF 9, are engineered with the goal of achieving top safety
+ratings, such as 5-star EURO NCAP and 5-star NHTSA.
+Premium Parts & Global Suppliers
+Critical vehicle systems are sourced from globally recognized
+Tier 1 suppliers like ZF (wheel axles) and Continental (airbag
+control units). This strategy ensures that core components
+meet the highest benchmarks for quality, reliability, and safety.
+World-Class Design Philosophy
+We collaborate with renowned design studios such as
+Pininfarina and T orino Design to create vehicles that are not
+only aesthetically striking but also aerodynamically efficient,
+forming the basis of a premium and sustainable product.
+
+## Page 131
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+131
+Smart T echnology & Safety Innovation
+Product Quality: Engineering Excellence from Design
+to Delivery
+Quality and safety at VinFast are defined by both physical integrity
+and intelligent technology.
+Our smart vehicle capabilities are a unique competitive
+advantage, powered by the deep technological expertise
+within the Vingroup ecosystem. We leverage dedicated
+technology arms like VinBrain, VinAI, VinBigData, and VinITIS
+for advancements in artificial intelligence and big data. This
+allows our software, including the ViVi Virtual Assistant, to be
+continuously updated over-the-air (“OT A ”), increasing safety
+and entertainment features throughout the vehicle’s life. This
+unique feature ensures VinFast electric cars never become
+outdated; the more they operate, the smarter they become,
+demonstrating our mastery of technology in the Industry 4.0
+revolution.
+Powered by the Vingroup T echnology Ecosystem
+With VinFast’s ViVi AI Virtual Assistant,
+users can control features like air
+conditioning, fans, and Wi-Fi by voice. This
+minimizes manual adjustments, allowing
+drivers to remain focused on the road and
+enhancing overall safety.
+1 2 3SMART IN-CAR EXPERIENCE
+In 2024, VinFast also collaborated with AI
+specialist subsidiary VinAI to develop the
+world’s first AI-driven automatic mirror
+adjustment technology, which detect
+a driver’s head position and eye gaze
+direction with up to 10 mm accuracy,
+and automatically adjusts all mirrors
+accordingly.
+VinFast is a pioneer in bringing advanced
+safety technology to the Vietnamese
+market and beyond. Uniquely, our system
+is enhanced with a surround-analytics
+LiDAR sensor, a technology typically found
+on much higher-end vehicles, to provide a
+more robust and reliable perception of the
+vehicle’s environment.
+LEADERSHIP IN ADAS
+TECHNOLOGY
+AI TECHNOLOGY
+The integrated VinFast App extends our smart vehicle experience, serving as a
+comprehensive digital hub for the entire ownership journey. Key functionalities include:
+THE VINFAST APP:
+YOUR VEHICLE IN YOUR P ALM
+Remote Control
+Lock/unlock, climate pre-conditioning.
+Charging Management
+Monitor charge, find stations, manage
+sessions, and process payments.
+Safety & Security
+Geofencing, vehicle locator, and remote
+status monitoring.
+Navigation
+Plan EV-optimized routes with integrated
+charging stops.
+Service & Support
+Schedule maintenance, request 24/7
+roadside assistance, and receive vehicle
+health alerts.
+4
+
+## Page 132
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+132
+Product Quality: Engineering Excellence from Design to Delivery
+VinFast EV Battery T echnology – The Heart of the Green Journey
+As a pure electric vehicle manufacturer, VinFast
+considers the battery the core component determining
+performance, safety, and user experience. We are actively
+building a smart energy platform through our subsidiary,
+VinFast Energy, to lead in advanced battery technology
+and storage ecosystems.
+• LFP (Lithium Iron Phosphate): Chosen for its exceptional safety,
+long lifespan (up to 12 years), and environmental friendliness. It is
+ideal for our e-scooters and small to mid-size EVs like the VF 5,
+VF 6, and VF 7.
+• NMC (Nickel Manganese Cobalt): Selected for its high
+performance, large capacity, and ultra-fast charging capabilities
+(24–35 minutes), making it perfect for our premium SUVs like the
+VF 8 and VF 9, which can achieve a range of up to 680 km.
+VinFast leverages two primary battery chemistries to optimize
+performance for different vehicle segments, with cells locally
+manufactured at the VinES factory in Ha Tinh and assembled
+into packs in Hai Phong. This is done in collaboration with global
+technology leaders such as CA TL, Samsung SDI, Gotion, and
+LG Chem.
+Eco-Friendly Lifecycle
+We are committed to a sustainable battery lifecycle. LFP
+chemistry is inherently easier to recycle, and our strategic
+partnerships with global leaders like Li-Cycle and raw material
+providers like Red Dirt Metals are establishing pathways for
+recycling and using clean, responsibly sourced raw materials.
+1
+• A rugged battery casing with IP67–IP68 water and dust
+resistance protects against environmental factors.
+• A smart Battery Management System (BMS) continuously
+monitors temperature, voltage, and current to prevent short
+circuits, overcharging, or over-discharging.
+Battery Safety by Design
+Our battery packs are engineered with multi-layered safety
+features:
+2 3 Industry-Leading Warranty
+We back our battery quality with an industry-leading warranty
+of up to 10 years with unlimited mileage for EV batteries
+and a full lifetime warranty for customers who choose our
+battery rental option.
+4
+
+## Page 133
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+133
+1
+Product Quality: Engineering Excellence from Design to Delivery
+Manufacturing with Precision & Managing a High-Quality Global Supply Chain
+Proactive Risk Management & In-line Quality Gates
+We systematically apply PFMEA to prevent defects before
+they occur.
+End-to-End Traceability and Real- Time Monitoring
+With Industrial Identification systems, we track and
+trace every component throughout the material flow,
+ensuring product authenticity and enabling targeted quality
+interventions. Operators monitor processes using SIMA TIC
+HMI (Human-Machine Interface) systems for real-time
+machine status and performance control.
+4
+Supplier Potential Assessment (PSA) & Engineering
+System Assessment (ESA)
+Before a supplier can join the VinFast network, a PSA
+is conducted to evaluate the supplier’s Quality System
+capabilities. Results from PSA directly inform supplier
+selection decisions.
+For Full-Service Suppliers, an additional ESA is carried out,
+focusing on product design, development, and integration
+capabilities.
+5
+Supplier Screening & Performance Monitoring
+All new suppliers undergo rigorous onboarding processes
+aligned with VinFast’s supplier quality manual. In 2024:
+2
+• 227 new suppliers  were screened for quality and safety
+compliance, and only those meeting requirements were
+added to the VinFast supplier base.
+• 320 existing suppliers were evaluated for continued
+compliance.
+• 2% of suppliers were involved in significant quality defects
+and were placed under New Business Hold. These suppliers
+were required to implement corrective actions while the
+Purchasing Department developed resourcing plans to
+mitigate risks.
+Assessment Process
+The PSA begins with the Buyer issuing a bidder list and providing
+initial project information to the supplier. Suppliers complete
+a self-assessment to demonstrate alignment with VinFast’s
+general and project requirements. A VinFast SQ Engineer
+then schedules an onsite assessment, with participation
+from relevant internal stakeholders. In exceptional cases, the
+audit may be conducted remotely at the discretion of the SQ
+Engineer.
+Once the assessment is complete, results are reviewed and
+approved by the SQ Manager and Director, then shared with
+Purchasing. Suppliers can access their results through the
+VinFast SQ portal.
+3Our factories are built around the principle of
+embedding quality at every step, supported by a
+world-class supply chain.
+
+## Page 134
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+134
+Product Quality: Engineering Excellence from Design to Delivery
+“In 2024, to express gratitude for the companionship and support of
+customers, VinFast has decided to give all customers who owns VinFast
+cars before December 31, 2024, a special T et gift set personally selected
+by Vingroup Chairman Pham Nhat Vuong. The program applies to all
+owners of gasoline and electric vehicles.”
+Our definition of quality extends beyond the vehicle itself to encompass the
+entire ownership experience. Customers benefit from the unique strengths
+of the integrated Vingroup ecosystem, which provides unparalleled support,
+convenience, and value.
+The VinFast Ecosystem: A Comprehensive
+Ownership Experience
+Extensive & Reliable Charging Network
+We have addressed one of the biggest barriers to EV adoption with a
+commitment to build a widely covered charging station system. These are
+strategically located, especially in residential areas, urban centers, and
+high-end Vinhomes apartments, and are managed to ensure a civilized and
+reliable experience. T o accelerate this growth, we have established V-Green,
+a dedicated investment arm focused on developing and expanding our
+charging infrastructure globally.
+1
+Lifecycle Support & Accessibility
+Through our For Green Future (FGF) entity, we are actively working to
+make EV ownership more accessible and sustainable. FGF’s initiatives
+include programs to balance market prices of used EVs, EV repurchase
+commitments, and EV rental services, providing customers with flexibility
+and confidence in the long-term value of their vehicle.
+2
+Integrated Rewards & Benefits
+Owning a VinFast vehicle provides access to a world of benefits. VinClub,
+our loyalty program, allows users to accumulate and redeem benefits across
+Vingroup’s diverse products and services. Customers enjoy exclusive
+privileges, such as vouchers for 5-star services at Vinpearl resorts or
+seamless travel on VinBus electric buses within cities, creating a unique value
+proposition that no other automaker can offer.
+3
+
+## Page 135
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+135
+Product Quality: Engineering
+Excellence from Design to Delivery
+Closed-Loop Feedback System
+A Commitment to Continuous Improvement
+& Future Innovation
+Our quality journey does not end when a vehicle leaves the factory.
+We operate a closed-loop feedback system analyzing data
+from in-factory metrics, warranty claims, and direct customer
+feedback. This data is fed directly back to our engineering
+and manufacturing teams to drive continuous improvement in
+current and future products.
+Looking Ahead
+While we are proud of our current capabilities, we are actively
+researching and developing next-generation technologies. We
+acknowledge current limitations, such as the weight of LFP
+batteries and the early-stage nature of solid-state and ultra-fast
+charging technologies, and we are investing in R&D to overcome
+these challenges and maintain our position at the forefront of
+the EV industry.
+
+## Page 136
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+136
+Customer Relationship Management: A “Customer-Centric” Journey
+VinFast places the customer at the center of our strategy. Our “Customer-Centric” philosophy is about delivering a seamless, end-to-end experience built
+on trust, transparency, and convenience—from the first point of contact throughout the entire ownership lifecycle.
+Notable support programs in 2024
+Owners of gasoline cars for ≥ 3 months (individuals, family
+members, or companies with controlling stakes) switching
+to purchase VF 7/8/9 models.
+Eligible Participants
+• Applicable alongside other sales programs (VinClub,
+B2B2C, etc.).
+• Gasoline cars can be sold via partner showrooms or
+independently (with valid documentation).
+• Customers who placed deposits before November 1, 2024,
+and have not yet received their vehicles are still eligible
+(based on the current price, not the deposit date).
+Special Conditions
+• 100% registration fee exemption (per Decree 51/2025/NĐ-CP).
+• Free charging until June 30, 2027.
+• Exclusive regional offers: “For a Greener Hanoi” and “For
+a Greener Ho Chi Minh City” until January 2026.
+Additional Benefits
+T able 14: VinFast’s incentive policy by the end of 2024
+Model VinFast Old Car (Lux/Fadil/President) Other Gasoline Car Brands
+VF 7 (battery rental) VND 30 million VND 15 million
+VF 8 (battery rental) VND 50 million VND 25 million
+VF 9 (battery rental) VND 30 million VND 15 million
+VF 7 (battery purchase) VND 80 million VND 50 million
+VF 8 (battery purchase) VND 120 million VND 80 million
+VF 9 (battery purchase) VND 70 million VND 40 million
+(based on vehicle model and battery ownership option)
+Financial IncentivesIncentive Policy for Switching
+from Gasoline Cars to VinFast
+Electric Vehicles
+1
+2
+3
+4
+
+## Page 137
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+137
+Notable support programs in 2024
+Post-discount Pricing (with battery)
+25,900,000 VND
+Evo200 Lite
+“Greening Vietnam” Program
+for switching from gasoline
+motorbikes to electric ones
+September 20 – December 31, 2024
+Support the public in replacing gasoline
+motorcycles with electric ones.
+Duration1
+Objective
+• Up to 35% operating cost savings
+over 3 years vs. gasoline motorcycles.
+• 5-year warranty – the longest on the
+market.
+• IP67 water resistance – submersible
+up to 0.5m for 30 minutes.
+Customer Benefits3
+• Battery rental: VND 3 million discount
+(converted via VinClub points or
+direct price deduction).
+• Battery purchase: Direct discount of
+VND 12 million.
+Support Amount2
+• Each kilometer on an electric motorcycle
+reduces CO2 by 0.048 kg.
+• Each customer switching to electric is
+equivalent to planting 36 trees per year.
+Environmental Impact4
+5
+34,900,000 VND
+Feliz S
+42,900,000 VND
+Klara S2
+57,900,000 VND
+Vento S
+70,900,000 VND
+Theon S
+
+## Page 138
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+138
+Notable support programs in 2024
+• The free charging program was launched in 2024 and will continue
+until June 30, 2027, or until December 31, 2027 if our customer
+purchased EVs with battery before March 01, 2025.
+• Under the program, our CEO is responsible for paying the
+battery charging costs for all eligible sales until December 31,
+2024. Subsequent to December 31, 2024, the Company will be
+responsible for the payment.
+• The Company acts as an agent in facilitating free charging service
+for its customers.
+“Vietnam Strong Spirit - for Green
+Future” Program
+
+## Page 139
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+139
+The VinFast Global Community Program
+At the heart of our loyalty strategy is the VinFast Global
+Community, a structured program designed to recognize and
+reward customers at different stages of their ownership journey.
+The program is built on a tiered system to offer progressively
+exclusive benefits.
+The Global VinFast Community is the official forum established
+by VinFast with the aim of creating an engaging and interactive
+platform for VinFast enthusiasts. It serves as a place for users
+to connect, exchange experiences, and engage directly with
+VinFast. In 2024, the forum welcomed 4,735 newly registered
+member accounts, with over 117,000 interactions recorded.
+T o further enhance customer benefits and experiences,
+VinFast’s customers in the Vietnamese market have joined
+VinClub – an exclusive loyalty program designed for customers
+of Vingroup and its strategic partners. Through VinClub, VinFast
+customers enjoy additional financial and non-financial benefits
+when using services from participating companies within the
+Vingroup ecosystem.
+VinClub membership is divided into three tiers – Gold, Platinum,
+and Diamond – determined by a customer’s cumulative spending
+across member companies. A distinctive feature of VinClub is its
+unified tier privilege: achieving a certain tier with one member
+company automatically grants customers the same tier across
+all other participating companies. By joining VinClub, VinFast
+reinforces its customer-centric philosophy—continuously
+enhancing value, strengthening customer engagement, and
+cultivating lasting loyalty.
+In addition, VinFast places a strong emphasis on organizing
+gatherings and networking activities for members of the
+Global VinFast Community and VinClub. These initiatives aim to
+strengthen connections, recognize active members, and build a
+civilized owner community that contributes collectively to social
+and community causes.
+In just the first six months of the year, more than 50 online and
+offline activities were held, attracting over 7,200 registrations. A
+notable highlight in January 2024 was the “T et Gift Giving 2024”
+campaign. Running for two weeks, the program mobilized over
+24 teams with 700 members of the Global VinFast Community to
+deliver 50,000 gifts directly to families in difficult circumstances.
+The Global VinFast Community also organized two “VinFast
+Club Awards 2023” nights to honor individuals and groups with
+vibrant and active contributions throughout the year. The events
+welcomed nearly 300 guests and became one of the most
+talked-about topics on the community forum for many days.
+By creating this vibrant and rewarding ecosystem, we are not
+just selling electric vehicles; we are building a global community
+of advocates who are integral to our brand’s growth and our
+shared journey towards a more sustainable future.
+We are not just selling electric vehicles,
+we are building a global community.
+
+## Page 140
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+140
+Engaging and Understanding Our Customers
+We believe that building lasting relationships requires open communication and a deep understanding of customer needs.
+We actively implement customer satisfaction measurement and evaluation activities across all markets, aiming to deliver service
+excellence. In Vietnam, the customer satisfaction score for hotline support reached an impressive 99%. Meanwhile, in the North
+American market, the score stood at 80%.
+Building Trust Through Responsible Marketing
+As outlined in our Code of Conduct, we are dedicated to promoting our products and services truthfully and
+competing ethically in every market.
+Graph 28: Complaint rate in Vietnam, the U.S., Canada
+and globally (%)
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+25206 7
+Vietnam U.S. Canada T otal
+Ethical Marketing Principles
+Our marketing communications are designed to be clear
+and accurate, providing customers with the information they
+need to make informed decisions. Our employees are trained
+to avoid discussions or agreements with competitors that
+could undermine competition or violate antitrust laws.
+Value Chain Accountability
+T o maintain these standards, we extend our principles to
+our partners. We screen marketing suppliers for ESG and
+ethical compliance, embed our brand’s advertising code of
+conduct into contracts, and evaluate agencies for potential
+reputational risks.
+Notably, VinFast’s customer service hotline operates 24/7 in key
+markets - a significant advantage over many other automakers.
+This commitment ensures customers receive support at any time,
+delivering a service experience that surpasses competitors. In
+2024, the average complaint rate across markets stood at 7%, with
+variations between newer and more established markets. These
+figures highlight VinFast’s continuous efforts to refine both products
+and services, striving to achieve ever-higher levels of customer
+satisfaction. (Refer to Appendix 8  for further details)
+Global Contact Centers & Feedback Channels
+Our global contact centers serve as a primary touchpoint for
+timely and effective support. We actively collect customer
+feedback through multiple channels, including post-service
+surveys, social media monitoring, and direct interactions. This
+feedback is crucial for our continuous improvement process.
+
+## Page 141
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+141
+Delivering a World-Class After-Sales and Service Experience
+Our commitment to quality extends far beyond the sales,
+reinforced by an industry-leading service ecosystem and
+warranty.
+* Warranty coverage is available throughout Vietnam, at showrooms and authorized dealers of VinFast.
+INDUSTRY -LEADING WARRANTY COMMITMENT*
+Our EVs come with comprehensive warranties, including up
+to 10 years or 200,000 km for the vehicle and up to 10-year
+unlimited mileage for the battery. Customers using our battery
+rental option benefit from a full lifetime warranty.
+Electric vehicles
+We offer a 3- to 5-year unlimited mileage warranty, with a 5-year
+battery safety warranty.
+Electric motorbikes
+New Vehicle 4 Y ears/ Unlimited mileage 4 Y ears/ Unlimited
+mileage, High-voltage Battery (First time purchase with vehicle)
+8 Y ears/ Unlimited mileage.
+Ebus warranty time
+A HYBRID AND ACCESSIBLE SERVICE ECOSYSTEM
+We operate a comprehensive network of 3S (Sales, Service,
+Spare Parts) showrooms and workshops, all meticulously
+designed to present the VinFast corporate identity. By the end
+of 2024, VinFast maintained a total of 153 operational 1S+, 2S,
+and 3S dealerships worldwide.
+VinFast auto service workshop system
+We have developed a diverse range of customer contact
+channels to cater to the habits and preferences of different
+customer segments (e.g., hotline, email, mobile app, live chat,
+social media, etc.). In each market, we provide localized contact
+information and deploy dedicated teams using the local language
+to better serve customers and enhance satisfaction. As of the
+end of 2024, the Global Customer Service Center employed 104
+staff members, responsible for three key markets: Vietnam, the
+U.S., and Canada. In other markets, we outsource operations
+but maintain well-structured coordination processes and strict
+oversight from the Global Customer Service Center to ensure a
+consistent service experience across all markets.
+Global call center
+VinFast has established a Global T echnical Support Center
+comprising highly experienced engineers and specialists to
+support service centers in repairing vehicles remotely or directly
+addressing complex, newly emerging issues in various markets.
+The GTSC conducts in-depth technical analyses to develop
+improvement actions and implement product quality upgrades,
+with the goal of delivering higher customer satisfaction.
+Global T echnical Support Center (GTSC)
+We ensure customer convenience through a multi-channel service model
+Besides the VinFast authorized service workshop network
+where equipment and operation processes are designed and
+controlled by VinFast Standard, we also operate proprietary
+VinFast service workshops and partner with certified networks
+like VinFast Certified Collision Repair Centers (“VCCRCs”) in
+North America and Fixico and Mobivia centers in Europe to offer
+expert care with genuine parts and OEM repair procedures.
+Global Service Network
+We offer free 24/7 roadside rescue and mobile charging support
+to provide peace of mind, including 97,511 RSA rescue cases.
+Value-Added Support
+The VinFast App is a centralized platform for scheduling service
+appointments, requesting support, monitoring vehicle health,
+and managing all aspects of charging.
+Digital Integration
+
+## Page 142
+
+VinFast’s 2024 Sustainability Report Trust in Motion – Product Excellence & Customer ExperienceChapter 7
+142
+Ensuring Product Integrity
+and Safety Post-Sale
+Maintaining the highest standards of product integrity is a
+continuous responsibility.
+2024 Recall Strategy and Performance
+Our strategy in 2024 focused on quickly completing recall
+campaigns with the highest possible completion rate. We closely
+monitored and motivated our service workshops to proactively
+engage with customers, encouraging them to bring their vehicles
+in for necessary checks or component replacements.
+Results of Recall Campaigns Initiated in 2024
+We diligently managed recall campaigns to address potential
+issues and ensure customer safety and satisfaction. Key
+campaigns initiated in 2024 include (insert table).
+2025 Recall Strategy
+Looking ahead to 2025, we have established an even more
+challenging target: to attain a 90% completion rate within three
+months of initiating any new recall campaign. We will continue our
+proactive engagement with customers and service workshops
+to achieve this goal.
+
+## Page 143
+
+04
+08
+ESG Data and Reporting
+Indexes
+PERFORMANCE & TRANSP ARENCY
+External Assurance
+GRI Content Index
+SASB Content Index
+TCFD / IFRS S2 Content Index
+Glossary
+144
+149
+154
+155
+156
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+143
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8 143
+
+## Page 144
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+144
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8 144
+External Assurance
+Independent assurance opinion statement
+2024 - VINFAST AUTO L TD. - Sustainability Report Ver.4
+The British Standards Institution is independent to VINFAST AUTO L TD. (hereafter
+referred to as VINFAST AUTO L TD. in this statement) and has no financial interest in the
+operation of VINFAST AUTO L TD. other than for the assessment and verification of the
+sustainability statements contained in this report.
+This Independent assurance opinion statement has been prepared for the stakeholders
+of VINFAST AUTO L TD. only for the purpose of verifying its statements relating to its
+environmental, social and governance (ESG), more particularly described in the Scope,
+below. It was not prepared for any other purpose. The British Standards Institution will
+not, in providing this Independent assurance opinion statement, accept or assume
+responsibility (legal or otherwise) or accept liability for or in connection with any other
+purpose for which it may be used, or to any person by whom the Independent assurance
+opinion statement may be read.
+This Independent assurance opinion statement is prepared on the basis of review by the
+British Standards Institution of information presented to it by VINFAST AUTO L TD.. The
+review does not extend beyond such information and is solely based on it. In performing
+such review, the British Standards Institution has assumed that all such information is
+complete and accurate.
+Any queries that may arise by virtue of this Independent assurance opinion statement
+or matters relating to it should be addressed to VINFAST AUTO L TD. only.
+The Company Name: VINFAST AUTO L TD.
+Consolidated subsidiaries (1 registration address and 12 subsidiaries):
+Company Name: VINFAST AUTO L TD.
+Registration Address: 61 Robinson Road #06-01 (Suite 608), 61 Robinson,
+Singapore 068893.
+ VinFast Trading and Production Joint Stock Company (VFT&P JSC)
+Operation and Primary Manufacturing Hub: Dinh Vu - Cat Hai Economic Zone,
+Cat Hai Island, Cat Hai T own, Cat Hai District, Hai Phong City, Vietnam
+The manufacturing entity and the defined operational boundary of Scope 1 and Scope 2 for the total
+GHG emission inventory.
+VinFast Investment and Development JSC (VFID JSC)
+Address: Dinh Vu - Cat Hai Economic Zone, Cat Hai Island, Cat Hai T own, Cat
+Hai District, Hai Phong City, Vietnam
+VinFast Middle East FZE
+Address: Office No. FZJOB1608 Jebel Ali Free Zone, United Arab Emirates
+VinFast Auto (Thailand) Co., Ltd.
+Address: 425/1 Enco T erminal Building, Building B, 4th Floor, Kamphaeng Phet
+Road 6, Don Mueang Subdistrict, Don Mueang District, Bangkok 10210.
+VinFast Auto India Private Limited
+Address: Level 06, Wing B, Two Horizon Centre, Golf Course Road, Sector 43,
+Phase 5, Gurgaon, DLF QE, DIf Qe, Gurgaon, 122002, Haryana, India.
+VinFast UK Ltd
+Address: 21 Holborn Viaduct, London, EC1A 2DY , United Kingdom.
+Vingroup USA, LLC
+Address: 850 New Burton Road, Suite 201, Dover, Delaware 19904,
+Kent County.
+VinFast Kazakhstan
+Address: Казахстан, город Алматы, Медеуский район, улица Елебекова,
+дом  10, почтовый индекс 050051
+PT VinFast Automobile Indonesia
+Address: AXA TOWER, 45TH FLOOR, JL. PROF. DR. SA TRIO KA V.18, Desa/
+Kelurahan Karet Kuningan, Kec. Setiabudi, Kota Adm. Jakarta Selatan,
+Provinsi DKI Jakarta, Kode Pos: 12940
+VinFast Auto Nigeria Ltd
+Address: Nigeria
+VinFast Auto Philippines Corp.
+Address: Philippines
+VinFast Auto México, S. DE R.L. DE C. V.
+Address: BOSQUE DE CIRUELOS NÚMERO 180, INTERIOR PP 101, COLONIA
+BOSQUES DE LAS LOMAS, ALCALDÍA MIGUEL HIDALGO, CÓDIGO POST AL
+11700, CIUDAD DE MÉXICO
+The scope of engagement agreed upon with VINFAST AUTO L TD. includes the following:
+SCOPE
+The boundary of ESG report verification:1
+Inspiring trust for a more resilient world.
+
+## Page 145
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+145
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8 145
+External Assurance
+Independent assurance opinion statement
+The evaluation of the nature and extent of the VINFAST AUTO L TD.’s adherence to all
+four AA1000 AccountAbility Principles and the reliability of specified sustainability
+performance information in this report as conducted in accordance with Level 2 -
+Type 1/ Moderate Assurance of AA1000AS v3 sustainability assurance engagement.
+3
+We conclude that the review of VINFAST AUTO L TD.’s Sustainability Report
+Ver.4 provides a fair view of VINFAST AUTO L TD.’s Sustainability programs
+and performances during 2024. We believe that the VINFAST AUTO L TD.
+economic, social and environmental performance indicators are accurate
+and are supported by robust internal verification processes.
+Our work was carried out by a team of sustainability report assurors in
+accordance with the AA1000 Assurance Standard v3. We planned and
+performed this part of our work to obtain the necessary information and
+explanations we considered to provide sufficient evidence that VINFAST
+AUTO L TD.’s description of their approach to AA1000 Assurance Standard
+and their self-declaration of compliance with the GRI standards were fairly
+stated.
+OPINION ST A TEMENT
+Our work was designed to gather evidence on which to base our conclusion. We undertook the following activities:
+• a top-level review of issues raised by external parties that could be relevant
+to VINFAST AUTO L TD.’s policies to provide a check on the appropriateness
+of statements made in the report.
+• discussion with managers and staffs on VINFAST AUTO L TD.’s approach to
+stakeholder engagement. However, we had no direct contact with external
+stakeholders.
+• interviews with staffs involved in sustainability management, report
+preparation and provision of report information were carried out.
+• review of key organizational developments and the findings of internal audits.
+• review of supporting evidence for claims made in the reports.
+• an assessment of the company’s reporting and management processes
+concerning this reporting against the principles of Inclusivity, Materiality,
+Responsiveness and Impact as described in the AA1000 AccountAbility
+Principles Standard (2018).
+METHODOLOGY
+The assurance covers the whole VINFAST AUTO L TD.’s Sustainability Report Ver.4
+and focuses on systems and activities during the 2024 calendar year at VINFAST
+AUTO L TD. with the following GRI disclosures:
+• GRI 2-5 External assurance
+• GRI 2-9 Governance structure and
+composition
+• GRI 2-10 Nomination and selection of
+the highest governance body
+• GRI 2-11 Chair of the highest governance
+body
+• GRI 2-12 Role of the highest governance
+body in overseeing the management of
+impacts
+• GRI 2-13 Delegation of responsibility for
+managing impacts
+• GRI 2-27 Compliance with laws and
+regulations
+• GRI 205-1;2 Anti-corruption
+• GRI 305-1;2;4;5 Emissions
+• GRI 306-1;2;3;4;5 Effluents and Waste.
+• GRI 404-1;2;3 Training and Education
+• GRI 413-1;2 Local Communities
+2
+A detailed review at Level 2 - Type 1/ Moderate Assurance against the AA1000
+AccountAbility Principles of Inclusivity, Materiality, Responsiveness and
+Impact and the GRI Standards is set out below:
+CONCLUSIONS
+Inspiring trust for a more resilient world.
+
+## Page 146
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+146
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8 146
+External Assurance
+Independent assurance opinion statement
+VINFAST AUTO L TD. provided us with their self-declaration of compliance within GRI
+Standards (Core or Comprehensive). Based on our review, we confirm that social
+responsibility and sustainable development indicators with reference to the GRI
+Index are reported, partially reported or omitted. In our professional opinion the self-
+declaration covers the VINFAST AUTO L TD.’s social responsibility and sustainability
+issues.
+GRI-REPORTING
+VINFAST AUTO L TD. has demonstrated a process on identify impacts that encompass a
+range of environmental, social and governance topics, and fairly represented the impacts
+in the report. In our professional opinion the report covers the VINFAST AUTO L TD. s
+impacts.
+IMP ACT
+VINFAST AUTO L TD. has implemented practices to respond to the expectations and
+perceptions of its stakeholders. An Ethical Policy for VINFAST AUTO L TD. has been
+developed and provides an opportunity to further enhance VINFAST AUTO L TD.’s
+responsiveness to stakeholder concerns. In our professional opinion, the report covers
+VINFAST AUTO L TD.’s responsiveness issues; however, future reports should further
+enhance the maturity of ESG and include a higher assurance level statement from
+independent assurance, however, the future report should be further enhanced by the
+following areas:
+• The timeline for the Net-Zero program should be clarified further, especially regarding
+improvement of roadmaps such as the LPG transition planned for 2024.
+• The GHG and energy improvement team, if operated as a systematic process or system,
+will enhance efficiency in reducing and optimizing greenhouse gas emissions and energy
+consumption, made possible and feasible in credibility and accuracy of data
+RESPONSIVENESS
+VINFAST AUTO L TD. publishes sustainability information that enables its stakeholders to
+make informed judgments about the company’s management and performance. In our
+professional opinion the report covers the VINFAST AUTO L TD.’s material issues, however,
+the future report should be further enhanced by the following areas:
+The number and percentage of operations assessed for corruption-related risks
+require more justification and explanation in the significant assessment results
+MA TERIALITY
+This report has reflected a fact that VINFAST AUTO L TD. is seeking the engagement
+of its stakeholders. The participation of stakeholders has been initiated in developing
+and achieving an accountable and strategic response to sustainability. The reporting
+systems are being developed to deliver the required information. There are fair reporting
+and disclosures for economic, social and environmental information in this report, so
+that appropriate planning and target-setting can be supported. In our professional
+opinion the report covers VINFAST AUTO L TD. s inclusivity issues. , however, the future
+report should be further enhanced by the following areas:
+• The training ratio between female and male employees should be calculated in more
+detail to reflect gender balance and effectiveness and adding about the training
+demand of Training strategy.
+INCLUSIVITY
+Inspiring trust for a more resilient world.
+The moderate level assurance provided - Level 2 - Type 1/ Moderate Assurance – is
+in accordance with AA1000 Assurance Standard v3 in our review, as defined by the
+scope and methodology described in this statement.
+ASSURANCE LEVEL
+This VINFAST AUTO L TD.’s Sustainability Report Ver.4 issued on 07 Oct 2025 is the
+responsibility of the VINFAST AUTO L TD.’s CEO as declared in his responsibility letter. Our
+responsibility is to provide an independent assurance opinion statement to stakeholders
+giving our professional opinion based on the scope and methodology described.
+RESPONSIBILITY
+The assurance team was composed of Lead Auditors and Carbon Footprint Verifiers
+experienced in industrial sector, and trained in a range of sustainability, environmental
+and social standards including AA1000 AS, ISO14001, ISO45001, ISO14064, ISO 9001...
+BSI is a leading global standards and assessment body founded in 1901.
+COMPETENCY AND INDEPENDENCE
+BSI Vietnam Level 15, AP T ower, 518B Dien Bien Phu Street, Thanh My T ay Ward, Ho
+Chi Minh City, Vietnam
+Statement No: SRA 834987
+Issue Date: November 13th, 2025
+For and on behalf of BSI:
+Truong Vinh Khang (Mr.),
+Lead Assurer
+BSI representative:
+Dr. Le Duyen Anh,
+Managing Director BSI Vietnam
+
+## Page 147
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+147
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8 147
+External Assurance
+Independent assurance opinion statement
+T o the Chairwoman of the Directors Board of VinFast Auto Ltd.,
+The British Standards Institution (BSI) has conducted a limited assurance engagement
+on the sustainability information (described in the “Scope”) in the VINFAST AUTO L TD.’s
+Sustainability Report Ver.4 issued on 07 Oct 2025 (VINFAST AUTO L TD.)
+The selected information is reported in accordance with ISAE 3000 (Revised) and ISO
+14064-3:2019.
+The scope of engagement agreed upon with VINFAST AUTO L TD. includes the following:
+The assurance covers the information of the Greenhouse Gas subject matters in The
+Greenhouse Gas Inventory boundary confirmed as operation activites of VINFAST TRADING
+AND PRODUCTION JOINT STOCK COMP ANY – allocated in Dinh Vu – Cat Hai Economic
+Area, Cat Hai Island, Cat Hai T own, Cat Hai District, Hai Phong City, Vietnam of VINFAST
+AUTO L TD, within GHG emissions inventory in activities including Manufacturing of vehicles
+(up to 7 seat), e-scooters and electric buses; the components and spare parts to produce
+electric motorcycles and vehicles: Aluminum Casting Products, Electric Motors, Plastic
+Molding Products, Mechanical Products, Mold & Die Products, Interior Parts, Electronic
+Devices Products.
+SCOPE
+HOLDS ST A TEMENT NO.: SRA 834988
+GHG Scope 1
+• Stationary energy
+• Transportation energy
+• Refrigeration and air conditioning system
+• IPPU
+• Wastewater disposal
+1 GHG Scope 2
+• Purchased Electricity
+2
+We have conducted a limited assurance engagement on the sustainability
+information described in the “Scope” above (Sustainability Information).
+Based on the procedures we have performed and the evidence we have obtained,
+nothing has come to our attention that causes us to believe that the accompanying
+Sustainability Information is not prepared, in all material respects, in accordance
+with ISAE 3000 (Revised) and ISO 14064-3:2019.
+OPINION ST A TEMENT
+Our assurance engagements were carried out in accordance with ISAE3000 (Revised) and ISO 14064-3:2019 for GHG satetement. Our work was designed to gather
+evidence on which to base our conclusion. We undertook the following activities:
+METHODOLOGY
+VINFAST AUTO L TD. is responsible for the preparation and fair presentation
+of the sustainability information and report in accordance with the agreed
+criteria. BSI is responsible for providing an independent assurance opinion
+statement to stakeholders giving our professional opinion based on the scope
+and methodology described.
+RESPONSIBILITY
+• a top level review of issues raised by external parties that could be relevant to
+VINFAST AUTO L TD.’s policies to provide a check on the appropriateness of
+statements made in the report.
+• discussion with managers and staffs on VINFAST AUTO L TD.’s approach to
+stakeholder engagement. However, we had no direct contact with external
+stakeholders.
+• interviews with staffs involved in sustainability management, report preparation
+and provision of report information were carried out.
+• document review of relevant systems, policies, and procedures where available
+• review of the findings of internal audits.
+• review of supporting evidence for claims made in the reports.
+• visit of the Operation site on VINFAST TRADING AND PRODUCTION JOINT STOCK
+COMP ANY – allocated in Dinh Vu – Cat Hai Economic Area, Cat Hai Island, Cat Hai
+T own, Cat Hai District, Hai Phong City, Vietnam of VINFAST AUTO L TD. to confirm
+the data collection processes, record management practices, and check GHG
+emission sources physially.
+Inspiring trust for a more resilient world.
+
+## Page 148
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+148
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8 148
+External Assurance
+BSI is independent to VINFAST AUTO L TD. and has no
+financial interest in the operation of VINFAST AUTO
+L TD. other than for the assurance of the sustainability
+statements contained in this report.
+This independent assurance opinion statement has been
+prepared for the stakeholders of VINFAST AUTO L TD.
+only for the purposes of verifying its statements relating
+to its environmental, social and governance (ESG), more
+particularly described in the Scope above.
+This independent assurance opinion statement is prepared
+on the basis of review by BSI of information presented
+to it by VINFAST AUTO L TD. In making this independent
+assurance opinion statement, BSI has assumed that all
+information provided to it by VINFAST AUTO L TD. is true,
+accurate and complete. BSI accepts no liability to any third
+party who places reliance on this statement.
+BSI applies its own management standards and compliance
+policies for quality control, in accordance with ISO/IEC
+17021-1:2015 and accordingly maintains a comprehensive
+system of quality control including documented policies
+and procedures regarding compliance with ethical
+requirements, professional standards and applicable legal
+and regulatory requirements.
+BSI is a leading global standards and assessment body
+founded in 1901. The BSI assurance team has extensive
+experience in conducting verification over environmental,
+social and governance (ESG), and management systems
+and processes.
+INDEPENDENCE, QUALITY CONTROL AND COMPETENCE
+For and on behalf of BSI:
+Issue Date: November 13th, 2025
+BSI Vietnam Level 15, AP T ower, 518B Dien Bien Phu Street, Thanh My T ay Ward, Ho Chi Minh City, Vietnam
+Truong Vinh Khang (Mr.), Lead Assurer Dr. Le Duyen Anh, Managing Director BSI Vietnam
+Appendix A: Summary of Greenhouse Gas Subject Matters Data for FY2024 - VINFAST TRADING AND PRODUCTION JOINT
+STOCK COMP ANY – allocated in Dinh Vu – Cat Hai Economic Area, Cat Hai Island, Cat Hai T own, Cat Hai District, Hai Phong City,
+Vietnam of VINFAST AUTO L TD
+Subject Matters - Manufacturing FY2024 Units
+GHG Scope 1 10,973.53 tCO2e
+Stationary energy 10,109.39 tCO2e
+Transportation energy 127.77 tCO2e
+Refrigeration and air conditioning system 667.87 tCO2e
+IPPU 0.71 tCO2e
+Wastewater disposal 67.78 tCO2e
+GHG Scope 2 tCO2e
+Purchased Electricity 114,105.25 tCO2e
+T otal 125,078.78 tCO2e
+Independent assurance opinion statement
+Inspiring trust for a more resilient world.
+
+## Page 149
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+149
+VinFast has reported the information
+cited in this GRI content index for the
+period from January 01 to December
+31, 2024, with reference to the GRI
+Standards.
+GRI standard Disclosure Chapter/ Content reference
+GRI 2
+General Disclosures 2021
+2-1 Organizational details 1.5 General Information
+2-2 Entities included in the organization’s sustainability reporting 1.2 About This Report
+2-3 Reporting period, frequency and contact point 1.2 About This Report
+2-4 Restatements of information 1.2 About This Report
+2-5  External assurance Part 8: Performance & Transparency – ESG Data and Reporting Indexes
+2-6 Activities, value chain and other business relationships 1.3 General Information
+2-7 Employees 5.1 A workplace to drive a Sustainable Future
+2-9 Governance structure and composition 6.1 Corporate Governance Excellence
+2-10 Nomination and selection of the highest governance body 6.1.2 Committees Supporting Good Governance
+2-11 Chair of the highest governance body 6.1.1 Board Composition, Independence, and Effectiveness
+2-12 Role of the highest governance body in overseeing the management of
+impacts
+2.3.1 Board of Directors: Strategic Leadership and Oversights in ESG
+2-13 Delegation of responsibility for managing impacts 2.3.2 Management’s Role in Operationalizing Sustainability
+2-14 Role of the highest governance body in sustainability reporting 2.3.1 Board of Directors: Strategic Leadership and Oversights in ESG
+2-21 Annual total compensation ratio Please refer to Section B. Compensation (Page 117) - SEC Form 20-F for the fiscal year ended December 31,
+2024;
+Section 5.3. Community engagement & Socioeconomic contribution in this report
+2-22 Statement on sustainable development strategy Part 2: Driving Value – Our Strategy for Sustainable Growth
+2-25 Processes to remediate negative impacts 5.1.4.2. Grievance and speak -up system
+2-27 Compliance with laws and regulations Part 6: Leading Responsibly – Governance, Risk & Ethical Supply Chains
+2-29 Approach to stakeholder engagement 2.4: Engaging Our Stakeholders for Shared Value
+2-30 Collective bargaining agreements 5.1.3. Compensation, Welfare, and Benefits
+GRI 1: Foundation 2021
+GRI 1 used
+Statement of use
+GRI Content Index
+
+## Page 150
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+150
+GRI Content Index
+GRI standard Disclosure Chapter/ Content reference
+GRI 3
+Material T opics 2021
+3-1 Process to determine material topics 2.3.1. Our Materiality Assessment Process
+3-2 List of material topics 2.3.2. Our Material T opics for 2024 and Their Boundaries
+3-3 Management of material topics 2.3.1. Our Materiality Assessment Process
+GRI 201
+Economic Performance 2016
+201-1 Direct economic value generated and distributed Please refer to the Consolidated Statement of Operations - SEC Form 20-F for the fiscal year ended December 31,
+2024;
+Section 5.3. Community engagement & Socioeconomic contribution in this report
+201-2 Financial implications and other risks and opportunities due to climate
+change
+3.1.3. Climate Risk and Opportunity
+201-4 Financial assistance received from government Please refer to Item 3 - SEC Form 20-F for the fiscal year ended December 31, 2024
+GRI 202
+Market Presence 2016
+202-2 Proportion of senior management hired from the local community 5.1.1. Workforce
+GRI 203
+Indirect Economic
+Impacts 2016
+203-1 Infrastructure investments and services supported 4.1.4. Clean infrastructure for energy and mobility
+203-2 Significant indirect economic impacts 5.3. Community engagement & Socioeconomic contribution
+GRI 205
+Anti-corruption 2016
+205-1 Operations assessed for risks related to corruption Part 6: Leading Responsibly – Governance, Risk & Ethical Supply Chains
+205-2 Communication and training about anti-corruption policies and procedures
+GRI 207
+T ax 2019
+207-1 Approach to tax Please refer to Item 5 (Page 91) - SEC Form 20-F for the fiscal year ended December 31, 2024
+207-2 T ax governance, control, and risk management Please refer to Item 6 (Page 120); Item 15 (Page 148); Item 3.D (Page 7) - SEC Form 20-F for the fiscal year ended
+December 31, 2024
+207-4 Country-by-country reporting Please refer to Note 19 (Corporate Income T ax); Note 24 (Segment reporting) - SEC Form 20-F for the fiscal year
+ended December 31, 2024
+GRI 302
+Energy 2016
+302-1 Energy consumption within the organization 4.1.2. Energy optimization in production system
+302-2 Energy consumption outside of the organization 4.1.3. Energy transition acceleration across products & services
+302-3 Energy intensity 4.1.2. Energy optimization in production system
+302-4 Reduction of energy consumption 4.1.2. Energy optimization in production system
+
+## Page 151
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+151
+GRI Content Index
+GRI standard Disclosure Chapter/ Content reference
+GRI 303
+Water and Effluents 2018
+303-1 Interactions with water as a shared resource 4.2.1. Water Use and Management Strategy
+303-2 Management of water discharge-related impacts 4.2.2. Wastewater Treatment and Circularity
+303-3 Water withdrawal 4.2.1. Water Use and Management Strategy
+303-4 Water discharge 4.2.2. Wastewater Treatment and Circularity
+303-5 Water consumption 4.2.1. Water Use and Management Strategy
+GRI 305
+Emissions 2016
+305-1 Direct (Scope 1) GHG emissions 3.4.1. GHG Emissions
+305-2 Energy indirect (Scope 2) GHG emissions 3.4.1. GHG Emissions
+305-3 Other indirect (Scope 3) GHG emissions 3.4.1. GHG Emissions
+305-4 GHG emissions intensity 3.4.1. GHG Emissions
+305-5 Reduction of GHG emissions 3.4.1. GHG Emissions
+GRI 306
+Waste 2020
+306-1 Waste generation and significant waste-related impacts 4.3.3. Waste management in production operations
+306-2 Management of significant waste-related impacts 4.3.3. Waste management in production operations
+306-3 Waste generated 4.3.3. Waste management in production operations
+306-4 Waste diverted from disposal 4.3.3. Waste management in production operations
+306-5 Waste directed to disposal 4.3.3. Waste management in production operations
+GRI 308
+Supplier Environmental
+Assessment 2016
+308-1 New suppliers that were screened using environmental criteria 6.5.3 Governance in Action: Our Foundational Due Diligence Process
+GRI 401
+Employment 2016
+401-1 New employee hires and employee turnover 5.1.1. Workforce
+401-2 Benefits provided to full-time employees that are not provided to temporary
+or part-time employees
+5.1.3. Compensation, Welfare, and Benefits
+
+## Page 152
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+152
+GRI Content Index
+GRI standard Disclosure Chapter/ Content reference
+GRI 403
+Occupational Health
+and Safety 2018
+403-1 Occupational health and safety management system 5.2.2. System & Risk Management
+403-2 Hazard identification, risk assessment, and incident investigation 5.2.2. System & Risk Management
+403-3 Occupational health services 5.2. Occupational Health & Safety (“OHS”)
+403-4 Worker participation, consultation, and communication on occupational
+health and safety
+5.2.3. Worker Participation & Training
+403-5 Worker training on occupational health and safety 5.2.3. Worker Participation & Training
+403-6 Promotion of worker health 5.2. Occupational Health & Safety (“OHS”)
+403-7 Prevention and mitigation of occupational health and safety impacts directly
+linked by business relationships
+5.2. Occupational Health & Safety (“OHS”)
+403-8 Workers covered by an occupational health and safety management system 5.2. Occupational Health & Safety (“OHS”)
+403-9 Work -related injuries 5.2. Occupational Health & Safety (“OHS”)
+403-10 Work -related ill health 5.2. Occupational Health & Safety (“OHS”)
+GRI 404
+Training and Education 2016
+404-1 Average hours of training per year per employee 5.1.2. Employee Development and Career Growth
+404-2 Programs for upgrading employee skills and transition assistance programs 5.1.2. Employee Development and Career Growth
+404-3 Percentage of employees receiving regular performance and career
+development reviews
+5.1.2. Employee Development and Career Growth
+GRI 405
+Diversity and Equal
+Opportunity 2016
+405-1 Diversity of governance bodies and employees 5.1.1. Workforce
+GRI 410
+Security Practices 2016
+410-1 Security personnel trained in human rights policies or procedures 2.1.3. From Strategy to Impact: Our 2024 Progress and 2025 Commitments
+GRI 413
+Local Communities 2016
+413-1 Operations with local community engagement, impact assessments, and
+development programs
+5.3. Community engagement & Socioeconomic contribution
+413-2 Operations with significant actual and potential negative impacts on local
+communities
+5.3. Community engagement & Socioeconomic contribution
+
+## Page 153
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+153
+GRI Content Index
+GRI standard Disclosure Chapter/ Content reference
+GRI 414
+Supplier Social Assessment
+2016
+414-1 New suppliers that were screened using social criteria 6.5.3 Governance in Action: Our Foundational Due Diligence Process
+GRI 416
+Customer Health and Safety
+2016
+416-1 Assessment of the health and safety impacts of product and service
+categories
+7.1.2. Product Quality: Engineering Excellence from Design to Delivery
+416-2 Incidents of non-compliance concerning the health and safety impacts of
+products and services
+Part 6: Leading Responsibly – Governance, Risk & Ethical Supply Chains
+GRI 417
+Marketing and Labeling 2016
+417-1 Requirements for product and service information and labeling 7.2. Customer Relationship Management: A “Customer-Centric” Journey
+GRI 418
+Customer Privacy 2016
+418-1 Substantiated complaints concerning breaches of customer privacy and
+losses of customer data
+Part 6: Leading Responsibly – Governance, Risk & Ethical Supply Chains
+
+## Page 154
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+154
+SASB Content Index
+T opic Sustainability Disclosure Metric Category Unit of measure Code Chapter/ Content reference
+Fuel Economy & Use-phase
+Emissions
+Sales-weighted average passenger fleet fuel economy,
+by region
+Quantitative Mpg, L/km,
+gCO2/km, km/L
+TR-AU-410a.1 Please refer to section 4.1.3. Energy transition acceleration across products & services
+Number of (1) zero emission vehicles (ZEV), (2) hybrid vehicles
+and (3) plug-in hybrid vehicles sold
+Quantitative Number TR-AU-410a.2 Please refer to section 4.1.3. Energy transition acceleration across products & services
+Materials Sourcing Description of thew management of risks associated with the
+use of critical materials
+Discussion and
+Analysis
+N/A TR-AU-440a.1 Please refer to sections:
+4.3.1. Circular economy strategy, and
+4.3.2. Sustainable materials in EV products
+Materials Efficiency &
+Recycling
+(1) T otal amount of waste from manufacturing, (2) percentage
+recycled
+Quantitative Metric tonnes (t),
+Percentage (%)
+TR-AU-440b.1 Please refer to section 4.3.3. Waste management in production operations
+(1) Weight of end-of-life material recovered, (2) percentage
+recycled
+Quantitative Metric tonnes (t),
+Percentage (%)
+TR-AU-440b.2 Please refer to sections:
+4.3.2. Sustainable materials in EV products > T able 11: Overview of input materials and T able 12: Detailed breakdown by
+recycled material type
+4.3.4. End-of-Life management for EV batteries > T able 15: Battery take-back performance
+Product Quality & Safety Discussion of new model safety testing
+(e.g., NCAP performance)
+Discussion and
+Analysis
+N/A TR-AU-250b.1 Please refer to section 7.1.2. Product Quality: Engineering Excellence from Design to Delivery
+Data Privacy & Cybersecurity Discussion of data privacy and security for connected vehicles Discussion and
+Analysis
+N/A TR-AU-230a.1 Please refer to section 6.4 Data Governance, Cybersecurity & Privacy: Protecting Our Connected Ecosystem
+Occupational Health & Safety Fatality rate Quantitative Rate TR-AU-320a.1 Please refer to section 5.2 Occupational Health & Safety (“OHS”)
+Sustainable Supply Chain &
+Materials
+Discussion of strategy to manage materials sourcing risks
+(incl. battery minerals)
+Discussion and
+Analysis
+N/A TR-AU-410b.1 Please refer to section 6.5 Governance of a Sustainable & Resilient Supply Chain
+Policy on child labor & forced labor in the supply chain Discussion and
+Analysis
+N/A TC-ES-310a.1 Please refer to VinFast's Code of Conduct
+Circular Economy & Battery
+Management
+Discussion of EV battery end-of-life management program Discussion and
+Analysis
+N/A TR-AU-410c.1 Please refer to 4.3.4. End-of-Life management for EV batteries
+Activity metric Category Unit of measure Code Chapter/ Content reference
+Number of vehicles manufactured Quantitative Number TR-AU-000.A See references at 3.4.2. Fuel Economy of Passenger Vehicle Fleet
+Number of vehicles sold Quantitative Number TR-AU-000.B See references at 3.4.2. Fuel Economy of Passenger Vehicle Fleet
+
+## Page 155
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+155
+TCFD / IFRS S2 Content Index
+Core element TCFD Recommendation Chapter/ Content reference
+Governance a.  Describe the board’s oversight of climate-related risks and opportunities 3.2 Climate Governance
+VinFast has established a tiered management structure to ensure the effective implementation of our Net Zero strategy and the management of
+climate-related risks and opportunitiesb. Describe management’s role in assessing and managing climate-related risks and opportunities
+Strategy a. Describe climate risks and opportunities identified by the organization over short, medium, and long
+term
+3.1 Climate Strategy
+VinFast’s Net Zero strategy, rooted in Mission 3E, is embedded across our business model, value chain, and long-term plans—aiming to proactively
+manage climate risks while capturing opportunities in the low-carbon economy
+b. Describe the impact of climate on  the organization’s businesses, strategy, and financial planning
+c. Describe the resilience of the strategy, taking into consideration different Climate related-scenarios,
+including a 2°C or lower scenario
+Risk Management a. Describe the organization's processes for identifying and assessing climate related risks 3.3 Climate Risk Management
+VinFast integrates climate-related risks into our Enterprise Risk Management (ERM) system to ensure a consistent, structured, and proactive approach
+to identifying, assessing, prioritizing, and monitoring both transition and physical risks arising from climate changeb. Describe the organizations processes for managing climate-related risks
+c. Describe how processes for identifying, assessing, and managing climate-related risks are integrated
+into the organization’s overall risk management
+Metrics and T argets a.  Disclose the metrics used by the organization to assess climate-related risks and opportunities in line
+with its strategy and risk management process
+3.4 Tracking Our Net-Zero Strategy Execution
+VinFast tracks and discloses key metrics to evaluate progress against our decarbonization commitments and to ensure accountability across operations,
+products, and investments. These indicators are monitored and reported from 2024 as part of VinFast’s integrated climate management framework
+b. Disclose Scope 1, 2 and 3 (if appropriate) greenhouse gas (GHG) emissions, and the related risks
+c. Describe the targets used by the organization to manage climate-related risks opportunities and
+performance against targets.
+
+## Page 156
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+156
+Glossary
+Appendix 1: SBTi T argets
+GHG emissions reduction target disclosure
+T arget ID
+T arget type Absolute (long-term target)
+Date the target was set: 07/2024 Date the target was last revised: 07/2024
+T arget information
+Scope(s) covered Scope 1 & 2 + Scope 3 (cat 1, 9 &11)
+Percentage of in-scope emissions covered
+by the target
+100%
+Base year 2022
+Base year emissions 1,117,952 tCO2e
+T arget year 2040
+T argeted reduction from base year (%) 100%
+T arget methodology SBTi
+T arget verified by independent third party Not yet
+Disclaimer : Scope 1,2 &3 in 2022 was exclusively calculated
+for the estimation of SBTi near term  and long-term targets
+
+## Page 157
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+157
+Appendix 2: GHG emission by scope (2024)
+Metric Description 2022 2023 2024
+GHG emissions - Manufacturing activity11
+Scope 1
+Stationary energy
+6,248 7,747
+10,109.39
+Transportation energy 127.77
+Refrigeration and air conditioning system 667.87
+IPPU 0.71
+Wastewater disposal 67.78
+T otal Scope 1 6,248  7,747 10,973.53
+Scope 2 Electricity consumption 103,942 93,293 114,105.25
+Scope 3
+Category 1: Purchased goods & services Not calculated Not calculated 463,003.62
+Category 2: Capital goods Not calculated Not calculated 76,196.77
+Category 4: Upstream Transportation & Distribution Not calculated Not calculated 33,306.57
+Category 5: Waste generated in Operation Not calculated Not calculated 16,648.75
+Category 6: Business Travel Not calculated Not calculated 2,245.83
+Category 7: Employee Commuting Not calculated Not calculated 5,552.13
+Category 8: Upstream leased assets Not calculated Not calculated 2,283.83
+Category 11: Use of Sold Products Not calculated Not calculated 1,338,907.27
+T otal tCO2e  Scope 3 T otal Not calculated Not calculated 1,938,144.77
+T otal tCO2e  All sources 110,190.00 101,040.00 2,063,223.297
+Glossary
+11 GHG emissions associated with electric vehicle and automobile manufacturing at the VinFast factory in Hai Phong, Vietnam, were collected for the period from 1 January
+to 31 December 2024. The base year for comparison is 2022.
+• Scope 1 and Scope 2 emissions were calculated using facility-level activity data and default emission factors as prescribed in Decision No. 2626/QD-BTNMT (dated 10
+October 2022) and Official Document No. 327/BDKH
+• In FY 2024, the Company assessed its indirect value chain emissions (Scope 3) in accordance with the GHG Protocol Corporate Value Chain (Scope 3) Standard. Based
+on data availability and material screening, eight Scope 3 categories were questioned for this reporting cycle. These categories represent the upstream and downstream
+activities most relevant to the Company’s operations and value chain.
+• Scope 3 category 11 was calculated using the average electricity consumption and travel distance over the vehicles lifetime and the Emission factor from and Official
+Document 327/BDKH-PTCBT dated 19th March 2024 on Publishing the result of Viet Nam Electricity grid Emission factor in 2022.
+Metric Description 2022 2023 2024
+GHG emissions - Trading activity
+Scope 1
+(tCO2e) Stationary energy
+110.00  NA 56.92Scope 1
+(tCO2e) Transportation energy
+Scope 1
+(tCO2e) Refrigeration and air conditioning system
+Scope 2
+(tCO2e) Electricity consumption 1,688.00 651 597.24
+T otal tCO2e  All sources 1,798.00 651 654.15
+
+## Page 158
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+158
+Appendix 2: GHG emission by scope (2024)
+T able 4. Mitigation potentials compare to the SBTi’s near-term and long-term (Net-Zero) target
+Near-term 2030
+Near-term target VinFast - Planned VinFast Additional measures
+Scope 1 42% 2% 11%
+Scope 2 42% 82% 0%
+Scope 3 29% 0% 85%
+Long-term (Net-Zero by 2040)
+Long-term (Net-Zero) target VinFast - Planned VinFast Additional measures
+Scope 1 100% 2% 11%
+Scope 2 100% 82% 0%
+Scope 3 100% 0% 85%
+Glossary
+
+## Page 159
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+159
+# Short name Description Response Action/ Realize Opportunity
+TRANSITION RISKS
+R1 Reputational and brand risks due to non-
+adaptation to Net Zero expectations
+Risk of being perceived as slow to change, lacking substantive action (greenwashing), or failing to meet
+expectations from investors, customers, and the community. This negatively impacts brand, market
+value, and the ability to attract sustainable capital.
+• Time Horizon: Medium-term (3-10 years)
+• Magnitude of Impact: High
+• Potential Financial Impact: Decreased sales and revenue due to loss of customer trust and investor
+confidence; increased OPEX for crisis management and brand repair
+• Likelihood: Likely (50%-95%)
+T o build an authentic green brand and meet stakeholder expectations, our actions must be tangible and transparent. We
+are committed to our goal of responsible sourcing, particularly for critical battery minerals, which addresses potential
+ethical and environmental concerns deep within our value chain. We innovate by promoting the use of low-carbon and
+recycled materials and are developing in the progress of developing a circular business model. We foster a company-wide
+culture of energy efficiency with clear KPIs and invest in renewable energy for our operations. Finally, we ensure these
+credible actions are not silent, using transparent communication and disclosure to share our progress, challenges, and
+commitment to our stakeholders.
+R2 Risk of increased operating costs due to
+volatile fossil fuel prices
+VinFast faces financial risks from fossil fuel volatility, both directly through higher energy costs (e.g.,
+electricity, LPG) and indirectly via increased prices of energy-intensive raw materials like plastics and
+metals. These pressures can raise operating expenses, affect profitability, and challenge our emission
+reduction goals.
+• Time Horizon: Short – to – medium (0-10 years)
+• Magnitude of Impact: Medium
+• Potential Financial Impact: Increased OPEX due to higher utility and input material costs, especially in
+production and supply chain operations
+• Likelihood: Likely (50%–95%)
+Through Mission 3E, VinFast is actively reducing reliance on fossil fuels to enhance long-term cost resilience, particularly
+amid market volatility. We are electrifying machinery and logistics vehicles, fostering a company-wide culture of energy
+efficiency with clear KPIs and incentives, and investing in optimization solutions for electricity and LPG use. We also secure
+renewable energy through long-term contracts and deploy on-site solar with battery energy storage systems (BESS) to
+strengthen energy autonomy.
+T o further mitigate cost volatility, we localize supply chains to reduce fuel-intensive transportation and invest in battery
+recycling and the use of recycled materials—providing a strategic hedge against fluctuating prices of fossil fuels and virgin
+raw materials.
+R3 Financial risks from incurring emission costs,
+carbon credits, or failing to meet targets
+Emission obligations, purchasing carbon credits, or failing to meet committed emission reduction targets
+can generate significant costs, affecting profitability and access to sustainable financing or tax incentives.
+• Time Horizon: Medium-term (3–10 years)
+• Magnitude of Impact: Medium to High
+• Potential Financial Impact: Increased OPEX and CAPEX from purchasing carbon credits, investing in emission
+reduction technologies, and potential fines or penalties
+• Likelihood: About as Likely as Not (10%–50%) to Likely (50%–95%), depends on policy enforcement and
+VinFast’s ability to meet targets.
+VinFast proactively monitors carbon market regulations in Vietnam and other operating regions to stay ahead of policy
+changes and minimize financial risk. Since 2022, we have measured our corporate (scope 1, 2 and part of scope 3) and
+product-level emissions—covering e-scooters, electric cars, and e-buses—using the cradle-to-gate method. T o strengthen
+data accuracy, we continue to engage external experts.
+T o manage carbon-related financial risks, we apply a multi-tiered strategy: reducing emissions through asset electrification
+and renewable energy sourcing and managing residual liabilities via internal carbon pricing and strategic participation in
+carbon markets. Additionally, our investments in battery circularity and recycled materials help lower Scope 3 emissions,
+mitigating exposure to future lifecycle-based carbon costs and supporting long-term financial stability.
+Glossary
+Appendix 3: Climate-Related Risks and Opportunities analysis
+
+## Page 160
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+160
+# Short name Description Response Action/ Realize Opportunity
+R4 Risk of Skills Shortage and Workforce
+Transition
+The global shift from mechanical engineering to advanced electrical, software, and battery-centric
+engineering creates a severe talent shortage. There is fierce competition for specialists in battery
+chemistry, high-voltage systems, autonomous driving, and vehicle software. Failure to attract new talent
+and effectively upskill/reskill our existing workforce poses a direct threat to our innovation pipeline, product
+quality, manufacturing efficiency, and speed to market, potentially ceding competitive advantage.
+• Time Horizon: Medium-term (3–10 years)
+• Magnitude of Impact: High
+• Potential Financial Impact: Increased OPEX due to higher recruitment and training costs; potential revenue
+loss from delayed product launches and reduced innovation
+• Likelihood: Likely (50%-95%)
+Our strategy focuses on developing a world-class, future-ready workforce through:
+• Attracting T op Global T alent: We execute a multi-faceted talent attraction strategy, offer competitive compensation and
+foster an innovative culture to attract specialists who will shape the future of transportation and form the core of our global
+quality control team, ensuring uniform excellence across all operating areas.
+• Developing Our Internal Workforce: We are committed to a “just transition” for our employees. Through dedicated training
+programs and clear career pathways
+• EV Futures Internship Program: A talent pipeline initiative conducted in collaboration with Vietnamese technical universities,
+offering university students hands-on training in green automotive systems, battery tech, and embedded software.
+• Women in Engineering Initiative: Launched to promote gender diversity in technical roles, supported by mentorship
+programs and partnerships with national institutions and the Ministry of Labor.
+By combining global talent acquisition with a strong internal development agenda, VinFast aims to mitigate workforce
+transition risks while supporting Vietnam’s national Green Growth and Human Capital Development strategies.
+R5 Supply chain disruption risks due to climate
+change and geopolitical factors
+Dependence on strategic raw materials for battery production (e.g., lithium, cobalt, nickel) and international
+suppliers makes VinFast vulnerable to political fluctuations, energy crises, or natural disasters disrupting
+the supply chain.
+• Time Horizon: Medium-term (3–10Y)
+• Magnitude of Impact: Very High
+• Potential Financial Impact: Increased CAPEX and OPEX due to raw material price volatility, logistics delays,
+and production downtime. Decreased revenue from unmet demand in global markets.
+• Likelihood: Likely (50%–95%)
+We recognize that supply chain resilience requires a multi-layered defense. Our primary strategy is promoting deep
+localization to shorten supply chains and insulate against geopolitical shocks. This is complemented by a formal program
+of supplier diversification for critical components. We go further by integrating physical climate risk assessments into
+our supply chain management, identifying and working with suppliers in less vulnerable regions or those with strong
+business continuity plans.
+R6 Risk of insufficient charging and energy
+infrastructure for electric vehicles
+The deployment of charging infrastructure, energy stations, and smart grids not keeping pace with product
+development speed can reduce customers’ incentives.
+With our strategic shift to an outright battery ownership model, ensuring customers have seamless access
+to a robust and reliable charging network becomes even more critical. The absence of a battery swapping
+alternative means our customers will rely entirely on public, home, and workplace charging, making the
+quantity, speed, and interoperability of this infrastructure a direct determinant of customer satisfaction and
+our market success.
+• Time Horizon: Short to Medium-term (0–10Y)
+• Magnitude of Impact: High
+• Potential Financial Impact: Decreased sales due to reduced customer adoption and satisfaction; Increased
+CAPEX to accelerate charging infrastructure investments
+• Likelihood: Likely (50%–95%)
+Recognizing the risk of insufficient charging and energy infrastructure, our response is focused on ecosystem collaboration
+and technological empowerment:
+• Accelerating Network Access & Interoperability: we are actively forming deep partnerships with major public charging
+network operators in all our key markets.
+• Investing in High-Impact Locations: we will continue to strategically co-invest in or develop high-speed DC fast-charging
+hubs in critical locations.
+• Empowering Home Charging with V-Green: We are enhancing our support for home charging solutions, offering customers
+streamlined access to high-quality, certified Level 2 chargers and professional installation services.
+• Ensuring Grid Resilience with BESS: We will continue to promote the co-location of BESS and renewable energy (like
+solar) at key charging hubs to ensure energy security.
+Glossary
+Appendix 3: Climate-Related Risks and Opportunities analysis
+
+## Page 161
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+161
+# Short name Description Response Action/ Realize Opportunity
+PHYSICAL RISKS
+R7 Chronic physical risks Long-term climate changes such as rising average temperatures, water scarcity, sea-level rise, and changing
+rainfall patterns can severely impact production infrastructure, logistics, and the supply base.
+Time Horizon: Long-term (+10Y)
+• Magnitude of Impact: High
+• Potential Financial Impact:  Increased OPEX/CAPEX due to infrastructure adaptation, water scarcity
+mitigation, and supply chain disruptions
+• Likelihood: Likely (50%–95%)
+We build operational resilience against physical climate risks through targeted infrastructure and process enhancements.
+On the energy front, our development of BESS solutions and on-site solar ensures energy security against grid disruptions.
+In parallel, we address climate-driven water scarcity by implementing advanced water circularity and efficiency programs
+to reduce our dependency on local water sources. We also assess and fortify our physical assets against acute weather
+events and ensure our Occupational Health & Safety protocols include procedures for responding to climate-related
+emergencies affecting our workforce.
+R8 Acute physical risks Increased frequency and severity of extreme weather events (floods, storms, heatwaves, etc.) cause
+disruptions across our supply chain and inputs, potentially leading to operational and financial damages.
+• Time Horizon: Short- to Medium-term (0–10Y)
+• Magnitude of Impact: High
+• Potential Financial Impact: Increased OPEX due to damage recovery, supply delays, and downtime; Increased
+insurance costs
+• Likelihood: Likely (50%–95%)
+CLIMA TE-RELA TED OPPORTUNITIES
+O1 Product opportunity – expanding EV lineup
+and sustainable mobility services
+The accelerating global transition away from internal combustion engines presents a generational
+opportunity for an all-electric manufacturer like VinFast. By developing and expanding a diverse portfolio of
+EVs—from passenger cars and motorcycles to commercial trucks and buses—we can capture significant
+market share and drive revenue growth.
+• Time Horizon: Short- to Medium-term (0–10Y)
+• Magnitude of Impact: Very High
+• Potential Financial Impact: Increased revenue through broader EV market penetration and growth in
+sustainable mobility services
+• Likelihood: Virtually Certain (>95%)
+We are leveraging the global shift toward low-carbon mobility by expanding our EV portfolio and building a climate-
+aligned ecosystem. Through the Electrification strategy, the Company promotes EV adoption in urban areas, develops
+new platforms such as electric delivery vans and trucks, and expands public charging infrastructure through strategic
+partnerships.
+T o enhance supply chain resilience and reduce emissions, we also emphasize the localization of key component suppliers.
+In parallel, the company encourages climate-conscious practices among partners—such as installing rooftop solar,
+adopting low-emission and recyclable materials, and jointly promoting sustainable mobility solutions.
+These integrated efforts support VinFast’s leadership in zero-emission transport, while strengthening our climate
+resilience, accelerating the energy transition, and positioning the brand as a catalyst in the global net-zero movement.
+Glossary
+Appendix 3: Climate-Related Risks and Opportunities analysis
+
+## Page 162
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+162
+# Short name Description Response Action/ Realize Opportunity
+O2 T echnology & Circularity Opportunity –
+Driving Efficiency and Decarbonization
+The convergence of advanced climate technologies at lower costs creates a transformative opportunity.
+High-density batteries are making EVs more accessible, while battery reuse and recycling support a secure,
+circular mineral supply. Combined with lightweight, recycled materials and factory energy optimization, these
+advances cut lifecycle carbon emissions, reduce long-term costs, and lessen exposure to market volatility.
+• Time Horizon: Short- to Medium-term (0–10Y)
+• Magnitude of Impact: Medium
+• Potential Financial Impact: Decreased cost of capital and increased access to funding for climate-aligned
+projects
+• Likelihood: Likely (50%–95%)
+T o realize this integrated opportunity, VinFast implements a comprehensive strategy across our 3E pillars. Our Electrification
+(1E) mission is central, where we continuously research, develop, and supply high-quality, advanced battery solutions,
+including Battery Energy Storage Systems, to enhance capacity and extend product lifecycles. Under Energy Greening
+(3E), we actively promote supplier transitions to environmentally friendly, low-emission materials and directly support
+the development of high-recycled-content materials to enable circular models. Concurrently, our Energy Saving (2E)
+measures, including fostering an energy-saving culture and investing in optimization solutions for electricity and LPG,
+directly improve our profit margins by reducing long-term energy costs.
+O4 Green & Climate Finance Opportunity The global financial landscape is rapidly reorienting to support the climate transition, unlocking significant
+opportunities for capital access. The market for green bonds and sustainability-linked loans has grown
+exponentially, with organizations like the Climate Bonds Initiative reporting record issuance year-over-year.
+These instruments often carry preferential terms for companies with credible decarbonization strategies.
+• Time Horizon: Short- to Medium-term (0–10Y)
+• Magnitude of Impact: Medium
+• Potential Financial Impact: Decreased cost of capital and increased access to funding for climate-aligned
+projects
+• Likelihood: Likely (50%–95%)
+VinFast proactively seeks to align our strategic investments with green and climate finance opportunities. We have been
+working with external experts to strengthen our sustainability and climate governance models, along with discussing
+potential packages with financial institutions.
+O5 Climate Governance & Resilience
+Opportunity
+As climate impacts intensify, strong climate governance is now essential for long-term resilience
+and value. With rising expectations from investors, regulators, and insurers, VinFast is leveraging
+accessible tools like energy monitoring and climate risk modeling to proactively manage risks. This
+agility enhances trust and may improve insurance terms and reduce valuation risk premiums.
+• Time Horizon: Short- to Medium-term (0–10Y)
+• Magnitude of Impact: Medium
+• Potential Financial Impact: Reduced insurance premiums, lower risk -adjusted capital costs, and
+enhanced investor confidence and valuation stability
+• Likelihood: Likely (50%–95%)
+VinFast is building climate resilience through a comprehensive governance strategy. A dedicated ESG Department
+supports the Board with climate data and guidance, ensuring oversight is informed and strategic. Climate risks are
+integrated into our Enterprise Risk Management system, treated alongside other core business risks. This is backed by
+GHG data across Scopes 1, 2, and 3, anchoring our Net Zero strategy in measurable action. We also invest in resilience-
+building technologies like Battery Energy Storage Systems, which enhance energy autonomy and reduce disruption risk.
+This integrated approach strengthens agility, future-readiness, and investor confidence.
+Glossary
+Appendix 3: Climate-Related Risks and Opportunities analysis
+
+## Page 163
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+163
+Glossary
+Appendix 4: Fuel efficiency statistics
+VF’s vehicle Available battery
+capacity (kWh)
+Travel distance per
+charge (Km)
+Fuel economy
+(kWh/100km)
+I. EV
+VF 3 18.6 215 8.65
+VF 5 37.2 326.4 11.4
+VF 6 Eco 59.6 480 12.42
+VF 6 Plus 59.6 460 12.96
+VF 7 Eco 59.6 498 11.97
+VF 7 Plus 75.6 496 15.24
+VF 8 Eco 87.7 562 15.6
+VF 8 PLUS 87.7 457 19.19
+VF 9 Eco 123 626 19.65
+VF 9 PLUS 123 602 20.43
+VF e34 41.9 318.6 13.15
+NERIO GREEN 41.9 318.6 13.15
+HERIO GREEN 37.2 326.4 11.4
+LIMO GREEN 60.1 450 13.36
+LIMO 60.1 450 13.36
+II. E-bus
+EBus 281 260 108.08
+VF’s vehicle Available battery
+capacity (kWh)
+Travel distance per
+charge (Km)
+Fuel economy
+(kWh/100km)
+III. E-scooter
+Evo 3.5 205 1.71
+Feliz 2 114 1.75
+Feliz S 3.5 198 1.77
+Klara S 2 194 1.03
+Klara S2 3.5 194 1.8
+Theon S 3.5 150 2.33
+Theon 2.58 101 2.55
+Vento 2.58 110 2.35
+Vento S 3.5 160 2.19
+Ebike US 0.63 110 0.57
+Ebike VN 0.63 110 0.57
+Impes 1.1 70 1.57
+Klara A1 1.3 80 1.63
+Klara A2 1.2 90 1.33
+Klara A2-1 1.5 90 1.67
+Ludo 1.1 75 1.47
+T empest 1.26 80 1.58
+Energy Consumption Disclosure for VinFast
+Electric Vehicles
+[For Vietnam market] During the absence of national regulatory
+standards on energy consumption for electric vehicles in Vietnam,
+VinFast discloses average energy use per vehicle model, in kWh
+per 100 kilometers, in accordance with the technical specifications
+provided by the manufacturer:
+
+## Page 164
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+164
+Glossary
+Appendix 4: Fuel efficiency statistics
+Model Motor Battery Type Fuel Economy (comb/city/hwy) Driving Range
+(miles)
+Charge Time
+(hrs @ 240 V) 13
+Annual Fuel
+Cost (USD) 14
+GHG Rating
+(10/10) 15
+MPGe kWh/100 mi
+VF 9 Eco 300 kW ACPM
+3-Phase
+Li-Ion 75/79/71 45/43/47 330 15 $1,000 10
+VF 9 Plus 260 kW ACPM
+3-Phase
+Li-Ion 69/71/66 49/47/51 291 15 $1,100 10
+Energy Consumption Disclosure for VinFast Electric Vehicles
+[For international markets] VinFast also released estimated fuel economy and efficiency rating
+for select electric vehicles based on data published by U.S. Department of Energy and U.S.
+Environmental Protection Agency, to enable comparison with commercial vehicles in the U.S.
+market for 2024:
+VEHICLE CLASSIFICA TION AND TESTING PROTOCOL
+• VinFast VF 9 Eco and VinFast VF 9 Plus are classified under the “ All-Electric Vehicles” and “Special
+Purpose Vehicles – 4WD” segment.
+• Energy consumption estimates and efficiency metrics are based on laboratory testing under controlled
+conditions, following a combined driving (“comb”) cycle composed of 55% city driving (“city”) and
+45% highway driving (“hwy”), in alignment with the U.S. Environmental Protection Agency (EP A)
+methodology.
+• All figures referenced are derived from EP A-estimated test data. For fuel cost estimates and further
+information, users are encouraged to visit http://www.fueleconomy.gov.
+13 Estimated charging time using a 240V charger
+14 Annual fuel costs assume that you travel 15,000 miles each year, drive 55% in the city and 45% on the highway,
+and that fuel costs $0.15/kWh for electricity
+15 Both models receive a Greenhouse Gas Rating of 10 out of 10, indicating zero tailpipe emissions under
+standard test conditions. However, this rating does not account for upstream emissions (e.g., from electricity
+generation), which are addressed separately through Scope 2 assessments.
+Energy consumption and efficiency data for VinFast Model
+
+## Page 165
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+165
+Glossary
+Appendix 5: Water consumption (2022-2024)
+T able: Water consumption performance by activity, 2022-2024
+Water Consumption Unit 2022 2023 2024
+Manufacturing activity 16
+T otal water
+consumption
+m³ 651,782 772,947 1,002,811
+T otal water
+consumption per
+automotive
+pcs/m³ 11.33 11.56 5.58
+Water consumption
+direct per automotive
+pcs/m³ 6.91  4.70 2.48
+T otal water
+consumption per
+e-scooter
+pcs/m³ 1.48  4.65 7.64
+Water consumption
+direct per e-scooter
+pcs/m³ 0.82 2.24 3.23
+Trading activity 17
+T otal water
+consumption
+m³ 5,084 2,772 3,240
+16 Water consumption associated with the production of electric vehicles and automobiles at VinFast’s Hai Phong
+manufacturing facility (Vietnam) was recorded for the reporting period January 1 to December 31, 2024. Data
+collected from the local water utility bills.
+17 Water consumption associated with showrooms managed by VinFast in provinces and cities in Vietnam, were
+collected for the period from 1 January to 31 December 2024.
+
+## Page 166
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+166
+Glossary
+Appendix 6: Effluent Quality – Priority Substances of Concern (2024)
+Priority Substance of Concern (PSC) Unit Average
+Effluent
+Concentration
+QCVN 40:2011/
+BTNMT
+(Column A) limit
+Measurement Method
+pH - 7.1 6-9 TCVN 6429:2011
+T emperature oC 28.5 40 SMEWW 2550B:2017
+Color Pt/Co 17.4 50 TCVN 6185:2015
+Chemical Oxygen Demand (COD) mg/L 15.7 75 SMEWW 5220C:2017
+Biochemical Oxygen Demand (BOD5
+-20oC)
+mg/L 8.6 30 TCVN 6001-1:2008
+T otal Suspended Solids (TSS) mg/L 14 50 TCVN 6625:2000
+T otal Dissolved Solids (TDS) mg/L 406.9 500* IESH/SOP/HT/ĐN.03
+Ammonia (as N) mg/L 3.077 5 TCVN 6179-1:1996
+T otal Phosphorus (as P) mg/L 0.6195 4 TCVN 6202:2008
+T otal nitrogen (as N) mg/L 5.93 20 TCVN 6638:2000
+Mercury (Hg) mg/L <0.0017 0.005 US EP A Method 200.7
+Lead (Pb) mg/L <0.0095 0.1
+Chromium VI (Cr VI) mg/L <0.03 0.05 SMEWW
+3500-Cr.B:2017
+Chromium III (Cr III) mg/L <0.006 0.2
+Copper (Cu) mg/L <0.0078 2 US EP A Method 200.7
+Arsenic (As) mg/L <0.0075 0.05
+Iron (Fe) mg/L 0.1565 1
+Priority Substance of Concern (PSC) Unit Average
+Effluent
+Concentration
+QCVN 40:2011/
+BTNMT
+(Column A) limit
+Measurement Method
+Cadmium (Cd) mg/L <0.0039 0.05 US EP A Method 200.7
+Manganese (Mn) mg/L 0.0692 0.5
+Nickel (Ni) mg/L 0.0252 0.2
+Floride (F-) mg/L 0.6391 5 SMEWW
+4500-F-.B&D:2017
+Zinc (Zn) mg/L 0.025 3 US EP A Method 200.7
+Sulfide (S2-) mg/L <0.12 0.2 SMEWW 4500-S2-
+.B&C&D:2017
+Excess Chloride (excess Cl-) mg/L <0.094 1 SMEWW 4500-Cl.G:2017
+T otal Cyanide (CN) mg/L <0.006 0.07 SMEWW 4500-CN-
+.C&E:2017
+Phenol mg/L <0.015 0.1 TCVN 6216:1996
+Mineral oil mg/L <0.3 5 SMEWW 5520B&F:2017
+T otal oil mg/L <0.3 10*
+Gross α activity Bq/l <0.0165 0.1 TCVN 8879:2011
+Gross β activity Bq/l <0.1618 1
+T otal Surfactants mg/L 0.32 5* TCVN 662-1:2009
+T otal PCB mg/L <0.000018 0.003 US EP A Method 3510C +
+3620C + 8270D
+Coliform  MPN/100ml 461.8 3000 SMEWW 9221B:2017
+
+## Page 167
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+167
+Glossary
+Appendix 7: Waste management (2022-2024)
+T able: Overview of waste management at Hai Phong Plant
+Waste Management Category Unit 2022 2023 2024
+TOT AL WASTE GENERA TED
+Hazardous waste tonnes 1,427.60 2,236.80 3,986.80
+Non-hazardous waste: tonnes 23,832.10 35,487.80 67,810.60
+·      Industrial waste tonnes 20,563.40 33,947.90 63,090.50
+·      Domestic waste tonnes 3,268.70 1,539.90 4,720.00
+T otal waste generated tonnes 25,259.70 37,724.60 71,797.30
+TOT AL WASTE TREA TMENT
+Recycling (diverted) tonnes 20,947.4 34,411.6 64,034.80
+Hazardous waste tonnes 384 463.7 944.30
+Non-hazardous waste tonnes 20,563.40 33,947.90 63,090.50
+Incineration (to disposal) tonnes 2,054.6 2,470 3,013.60
+Hazardous waste tonnes 806.80 930.10 901.50
+Non-hazardous waste tonnes 1,247.80 1,539.90 2,112.10
+Landfilling (to disposal) tonnes 2,020.7 1,526 2,607.90
+Hazardous waste tonnes -   -   -
+Non-hazardous waste tonnes 2,020.7 1,526 2,607.90
+T otal waste treatment tonnes 25,022.7 38,407.6 69,656.30
+2022
+82.90%
+91.20%
+89.20%
+2023
+Waste Recycling Rate
+2024
+
+## Page 168
+
+VinFast’s 2024 Sustainability Report Performance & Transparency – ESG Data and Reporting IndexesChapter 8
+168
+Glossary
+Appendix 8: Complaint statistics in
+key regions in 2024
+US CA VN T otal
+Complaint 5,338 5,098 31,239 41,675
+Aftersales 1,561 5,093 21,777 28,431
+Presales 3,777 5 9,462 13,244
+Inquiry 21,498 15,184 486,039 522,721
+T otal 26,836 20,282 517,278 564,396
+Complaint rate 20% 25% 6% 7%

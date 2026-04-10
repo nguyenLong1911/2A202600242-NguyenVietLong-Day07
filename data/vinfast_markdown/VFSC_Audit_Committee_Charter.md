@@ -1,0 +1,168 @@
+# VFSC_Audit_Committee_Charter
+
+- Source PDF: VFSC_Audit_Committee_Charter.pdf
+- Total pages: 4
+
+## Page 1
+
+1
+
+VINFAST AUTO LTD.
+AUDIT COMMITTEE CHARTER
+(As of August 14th, 2023)
+The board of directors (the “ Board”) of VinFast Auto Ltd. (together with its subsidiaries, the
+“Company”) has constituted and established an audit committee (the “ Committee”) with the authority,
+responsibility and duties as described in this Audit Committee Charter (this “Charter”).
+I. Purpose
+The purpose of the Committee is to assist the Board in its oversight of : (i) the integrity of the
+Company’s financial statements; (ii)  the Company’s compliance with legal and regulatory requirements;
+(iii) the independent auditor’s qualifications and independence; (iv)  the design and implementation of the
+Company’s internal a udit function, and the performance of the Company’s internal audit function
+(including the independent auditor) after it has been established; and (v) the Company’s policies, programs
+and strategies related to environmental, social and governance (“ESG”) matters.
+The Committee’s responsibilities are limited to oversight.  The Company’s management is
+responsible for establishing and maintaining accounting policies and procedures in accordance with
+applicable reporting and disclosure standards and for preparing the Company’s financial statements. The
+Company’s independent auditors are responsible for auditing and reviewing those financial statements.
+II. Composition
+The Committee shall consist of at least three directors, each of whom must satisfy the independence
+requirements of NASDAQ and the independence rules for members of the Audit Committee issued by the
+U.S. Securities and Exchange Commission (the “ SEC”), subject to any available exception  and meet all
+other eligibility requirements of applicable  laws, including the Companies Act  1967 (the “ Singapore
+Companies Act”) (where applicable). Each Committee member shall be financially literate as determined
+by the Board in its business judgment. In addition, at least one member of the Committee shall be an “audit
+committee financial expert” as defined under SEC rules.
+Committee members shall be appointed and may be removed from the Committee, with or without
+cause, by the Board. Unless a Chair is designated by the Board, the Committee may designate a Chai r by
+majority vote of the full Committee membership and meet all other eligibility requirements of applicable
+laws, including the Singapore Companies Act (where applicable).
+III. Meetings, Procedures and Authority
+The Committee shall meet at least once during each fiscal quarter.  The Committee shall meet
+separately, periodically, with management, with the internal auditor and with the independent auditor.
+The Committee has the authority to establish its own rules and procedures for notice and conduct
+of its meetings so long as they are not inconsistent with any provisions of the Singapore Companies Act
+and the Company’s Constitution (as may be amended, restated or supplemented from time to time, the
+“Constitution”). Unless otherwise restricted by any relevant provisions of the Singapore Companies Act
+(where applicable) or the Constitution, all meetings of the Committee may be held by means of telephone
+or video conference or other methods of simultaneous communication by electronic, audio, audio-visual or
+other similar means or other technology by which all Directors participating in the meeting are able to hear
+
+## Page 2
+
+2
+
+and be heard by or to communicate with all the other participating Directors. In addition, unless otherwise
+restricted by any relevant provisions of the Constitution, a resolution in writing of the Committee shall only
+be effective as a resolution duly passed at a meeting of the Committee duly convened and held  if such
+resolution in writing is signed or approved by a simple majority of the Directors or their alternates for the
+time being (who are not prohibited by law or the provisions of this charter from voting on such resolutions)
+comprising the Committee.
+The Committee may retain any independent counsel, experts or advis ers that the Committee
+believes to be necessary or appropriate. The Company must provide for appropriate funding, as determined
+by the Committee, for payment of compensation to the independent auditor for the purpose of preparing or
+issuing an audit report or performing other audit, review or attest services, for payment of compensation to
+any advis ers employed by the Committee and for payment of ordinary administrative expenses of the
+Committee that are necessary or appropriate in carrying out its duties.  The Committee shall provide an
+annual budget estimate to the Board for review.
+In addition to the duties and responsibilities expressly delegated to the Committee in this Charter,
+the Committee may exercise any other powers and carry out any other responsibilities consistent with this
+Charter, the purposes of the Committee, the Constitution and applicable NASDAQ rules.
+The Committee has the authority to conduct or authorize investigations into any matters within the
+scope of its duties and responsibilities as it deems appropriate, including the authority to request any officer,
+employee or adviser of the Company to meet with the Committee or any advisers engaged by the
+Committee.
+IV. Duties and Responsibilities
+Interaction with the Independent Auditor
+1.      Appointment and Oversight. Subject to approval of the Board and, in the case of retention,
+the shareholders as well, the Committee is directly responsible for the appointment, compensation, retention
+and oversight of the work of the independent  auditor (including resolution of any disagreements between
+Company management and the independent auditor regarding financial reporting) and any other registered
+public accounting firm engaged for the purpose of preparing or issuing an audit report or rel ated work or
+performing other audit, review or attest services for the Company, and the independent auditor and each
+such other registered public accounting firm shall report directly to the Committee. The Committee, or the
+Chair of the Committee, shall pre-approve any audit and non-audit service provided to the Company by the
+independent auditor, unless the engagement is entered into pursuant to appropriate preapproval policies
+established by the Committee or if such service falls within available exceptions under SEC rules.
+2.      Annual Report on Independence and Quality Control.  The Committee shall, at least
+annually, obtain and review a report from the independent auditor describing (i) the auditing firm’s internal
+quality-control procedures; (ii) any material issues raised by the most recent internal quality-control review
+or peer review of the auditing firm, or by any inquiry or investigation by governmental or professional
+authorities within the preceding five years relating to any independent audit conducted by the auditing firm,
+and any steps taken to deal with any such issues; and (iii) all relationships and services between the
+independent auditor and the Company in order to assess the independent auditors’ independence.
+Annual Financial Statements and Annual Audit
+3.      Audit Problems.  The Committee shall discuss with the independent auditor any audit
+problems or difficulties and management’s response.
+
+## Page 3
+
+3
+
+4.      Form 20-F Review. The Committee shall review and discuss the annual audited financial
+statements with management and the independent auditor, including the Company’s disclosures under
+“Operating and Financial Review and Prospects” in its Annual Report on Form 20-F.
+Other Duties and Responsibilities
+5.      Related Party Transactions. The Committee shall review on an ongoing basis all related
+person transactions reportable by the Company under Part I, Item 7.B of Form 20 -F and all transactions
+that require the Committee’s approval under the Singapore Companies Act (where applicable) and the rules
+of NASDAQ, and all such transactions shall be approved or ratified by the Committee. The Committee
+shall discuss with the independent auditor any matters that the independent auditor is required to di scuss
+with the Committee under applicable auditing standards (including with respect to related party
+transactions) and any auditing related person transactions brought to the Committee’s attention that could
+reasonably be expected to have a material impact on the Company’s financial statements.
+6.      Internal Auditor.
+(a) The Committee shall oversee the Company’s internal audit function (which will report
+functionally to the Committee and administratively to the Company’s Chief Executive Officer), which may
+be outsourced to a third-party service provider.
+(b) The Committee shall review any significant reports to management prepared by the internal
+auditors (or other personnel or service providers responsible for the internal audit functio n) and
+management’s responses.
+(c) The Committee shall review and discuss the responsibilities, budget and staffing of the
+Company’s internal audit function with management and, if appropriate, with the registered public
+accounting firm and/or any third p arty service provider providing internal audit services to the Company
+or, to the extent that the Company does not yet have an internal audit function, management’s plans with
+respect to the responsibilities, budget and staffing of the internal audit funct ion and its plans for the
+implementation of the internal audit function.
+(d) The Committee shall also approve the yearly or periodic work plan proposed by the internal
+auditors (or other personnel or service providers responsible for the internal audit function) and review the
+scope and performance of the department’s internal audit plan, including the results of any internal audits,
+any reports to management and management’s response to those reports.
+7.      Quarterly Financial Statements. The Committee shall review and discuss the Company’s
+quarterly financial statements with management and the independent auditor.
+8.      Review of Earnings Releases. The Committee shall discuss the Company’s earnings press
+releases, as well as financial information and earnings guidance provided to analysts and rating agencies.
+9.      Hiring of Independent Auditor Employees. The Committee shall set clear hiring policies
+for employees or former employees of the Company’s independent auditor.
+10.      Complaint Procedures.  The Committee shall establish procedures for the receipt, retention
+and treatment of complaints received by the Company regarding accounting, internal accounting controls
+or auditing matters, and for the  confidential and anonymous  submission by Company employees of
+concerns regarding questionable accounting or auditing matters.
+
+## Page 4
+
+4
+
+11.      Code of Ethics and Conduct. The Committee shall, at least annually, consider and discuss
+with management and the independent auditors the Company’s Code of Ethics and Conduct and the
+procedures in place to  enforce the Code of Ethics and Conduct.  The Committee shall also consider and
+discuss, and, as appropriate, grant requested waivers from the Code of Ethics and Conduct brought to the
+attention of the Committee, though the Committee may defer the decision with respect to any waiver to the
+full Board.
+12.      Reports to the Board of Directors . The Committee shall report regularly to the Board
+regarding the activities of the Committee.
+13.      Committee Self-Evaluation. The Committee shall annually perform an evaluation of the
+performance of the Committee.
+14.      Review of this Charter. The Committee shall periodically review and reassess this Charter
+and submit any recommended changes to the Board for its consideration.
+15.      Budget Estimate.  The Committee shall provide an annual budget estimate to the Board for
+review.
+16.      ESG Matters. The Committee shall oversee the Company’s efforts with regard to ESG
+matters.
+17.      Risk assessment and risk management. The Committee shall discuss policies with respect
+to risk assessment and risk management, including guidelines and policies to govern the process by which
+our exposure to such risks is handled, and overseeing management of enterprise risk, including financial
+and cybersecurity risks and risks related to supply chain, suppliers and service providers.
+18.      Other Duties and Responsibilities. The Committee shall perform such other activities and
+functions as are required by applicable law, including the Singapore Companies Act, NASDAQ rules or
+provisions in the Constitution, or as are otherwise necessary and advisable, in its or the Board’s discretion,
+for the efficient discharge of its duties.
